@@ -74,17 +74,9 @@ ewo{
             "£",
             "Lívə́lə Sətərəlíŋ",
         }
-        GHC{
-            "GHC",
-            "Tzedí yá Ganá",
-        }
         GMD{
             "GMD",
             "Dalasí yá Gámbía",
-        }
-        GNS{
-            "GNS",
-            "Síli yá Giné",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ ewo{
             "MGA",
             "Ariari yá Maləgás",
         }
-        MRO{
-            "MRO",
-            "Ugiya yá Moritaní (1973–2017)",
-        }
         MRU{
             "MRU",
             "Ugiya yá Moritaní",
@@ -137,10 +125,6 @@ ewo{
         MWK{
             "MWK",
             "Kwatsa yá Malawí",
-        }
-        MZM{
-            "MZM",
-            "Metikal yá Mozambíg",
         }
         NAD{
             "NAD",
@@ -166,10 +150,6 @@ ewo{
             "SDG",
             "Lívələ yá Sudán",
         }
-        SDP{
-            "SDP",
-            "Lívələ yá Sudán (1956–2007)",
-        }
         SHP{
             "SHP",
             "Lívələ yá Ǹfúfúb Elɛ́n",
@@ -181,10 +161,6 @@ ewo{
         SOS{
             "SOS",
             "Silíŋ yá Somalí",
-        }
-        STD{
-            "STD",
-            "Dóbə́ra yá Saó Tomé ai Pəlinəsípe (1977–2017)",
         }
         STN{
             "STN",
@@ -222,17 +198,9 @@ ewo{
             "ZAR",
             "Ránədə yá Afiríka",
         }
-        ZMK{
-            "ZMK",
-            "Kwatsa yá Zambí (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Kwatsa yá Zambí",
-        }
-        ZWD{
-            "ZWD",
-            "Dolár yá Zimbabwé",
         }
     }
     Version{"2.1.39.11"}

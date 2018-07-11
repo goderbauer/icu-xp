@@ -98,10 +98,6 @@ af{
             "BYN",
             "Belo-Russiese roebel",
         }
-        BYR{
-            "BYR",
-            "Belo-Russiese roebel (2000–2016)",
-        }
         BZD{
             "BZD",
             "Beliziese dollar",
@@ -121,10 +117,6 @@ af{
         CLP{
             "CLP",
             "Chileense peso",
-        }
-        CNH{
-            "CNH",
-            "Chinese joean",
         }
         CNY{
             "CN¥",
@@ -202,10 +194,6 @@ af{
             "GEL",
             "Georgiese lari",
         }
-        GHC{
-            "GHC",
-            "Ghanese cedi (1979–2007)",
-        }
         GHS{
             "GHS",
             "Ghanese cedi",
@@ -221,10 +209,6 @@ af{
         GNF{
             "GNF",
             "Guinese frank",
-        }
-        GNS{
-            "GNS",
-            "Guinese syli",
         }
         GTQ{
             "GTQ",
@@ -277,10 +261,6 @@ af{
         ISK{
             "ISK",
             "Yslandse kroon",
-        }
-        ITL{
-            "ITL",
-            "Italiaanse lier",
         }
         JMD{
             "JMD",
@@ -350,14 +330,6 @@ af{
             "LSL",
             "Lesotho loti",
         }
-        LTL{
-            "LTL",
-            "Litause litas",
-        }
-        LVL{
-            "LVL",
-            "Lettiese lats",
-        }
         LYD{
             "LYD",
             "Libiese dinar",
@@ -390,10 +362,6 @@ af{
             "MOP",
             "Macaose pataca",
         }
-        MRO{
-            "MRO",
-            "Mauritaniese ouguiya (1973–2017)",
-        }
         MRU{
             "MRU",
             "Mauritaniese ouguiya",
@@ -417,10 +385,6 @@ af{
         MYR{
             "MYR",
             "Maleisiese ringgit",
-        }
-        MZM{
-            "MZM",
-            "Mosambiekse metical (1980–2006)",
         }
         MZN{
             "MZN",
@@ -518,10 +482,6 @@ af{
             "SDG",
             "Soedannese pond",
         }
-        SDP{
-            "SDP",
-            "Soedannese pond (1957–1998)",
-        }
         SEK{
             "SEK",
             "Sweedse kroon",
@@ -549,10 +509,6 @@ af{
         SSP{
             "SSP",
             "Suid-Soedanese pond",
-        }
-        STD{
-            "STD",
-            "São Tomé en Príncipe dobra (1977–2017)",
         }
         STN{
             "STN",
@@ -585,10 +541,6 @@ af{
         TOP{
             "TOP",
             "Tongaanse pa’anga",
-        }
-        TRL{
-            "TRL",
-            "Turkse lier (1922–2005)",
         }
         TRY{
             "TRY",
@@ -658,10 +610,6 @@ af{
             "CFPF",
             "CFP-frank",
         }
-        XXX{
-            "XXX",
-            "Onbekende geldeenheid",
-        }
         YER{
             "YER",
             "Jemenitiese rial",
@@ -670,17 +618,9 @@ af{
             "R",
             "Suid-Afrikaanse rand",
         }
-        ZMK{
-            "ZMK",
-            "Zambiese kwacha (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Zambiese kwacha",
-        }
-        ZWD{
-            "ZWD",
-            "Zimbabwiese dollar",
         }
     }
     Currencies%narrow{
@@ -779,11 +719,6 @@ af{
         ZAR{"R"}
         ZMW{"ZK"}
     }
-    Currencies%variant{
-        GEL{"₾"}
-        RUB{"₽"}
-        TRY{"TL"}
-    }
     CurrencyPlurals{
         AED{
             one{"Verenigde Arabiese Emirate dirham"}
@@ -881,10 +816,6 @@ af{
             one{"Belo-Russiese roebel"}
             other{"Belo-Russiese roebel"}
         }
-        BYR{
-            one{"Belo-Russiese roebel (2000–2016)"}
-            other{"Belo-Russiese roebel (2000–2016)"}
-        }
         BZD{
             one{"Beliziese dollar"}
             other{"Beliziese dollar"}
@@ -904,10 +835,6 @@ af{
         CLP{
             one{"Chileense peso"}
             other{"Chileense peso"}
-        }
-        CNH{
-            one{"Chinese joean (buiteland)"}
-            other{"Chinese joean (buiteland)"}
         }
         CNY{
             one{"Sjinese joean renminbi"}
@@ -1117,10 +1044,6 @@ af{
             one{"Liberiese dollar"}
             other{"Liberiese dollar"}
         }
-        LTL{
-            one{"Litause litas"}
-            other{"Litause litas"}
-        }
         LYD{
             one{"Libiese dinar"}
             other{"Libiese dinar"}
@@ -1152,10 +1075,6 @@ af{
         MOP{
             one{"Macaose pataca"}
             other{"Macaose pataca"}
-        }
-        MRO{
-            one{"Mauritaniese ouguiya (1973–2017)"}
-            other{"Mauritaniese ouguiya (1973–2017)"}
         }
         MRU{
             one{"Mauritaniese ouguiya"}
@@ -1305,10 +1224,6 @@ af{
             one{"Suid-Soedanese pond"}
             other{"Suid-Soedanese pond"}
         }
-        STD{
-            one{"São Tomé en Príncipe dobra (1977–2017)"}
-            other{"São Tomé en Príncipe dobra (1977–2017)"}
-        }
         STN{
             one{"São Tomé en Príncipe dobra"}
             other{"São Tomé en Príncipe dobra"}
@@ -1408,10 +1323,6 @@ af{
         XPF{
             one{"CFP-frank"}
             other{"CFP-frank"}
-        }
-        XXX{
-            one{"(onbekende geldeenheid)"}
-            other{"(onbekende geldeenheid)"}
         }
         YER{
             one{"Jemenitiese rial"}

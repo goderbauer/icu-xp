@@ -98,10 +98,6 @@ eu{
             "BYN",
             "Bielorrusiako errubloa",
         }
-        BYR{
-            "BYR",
-            "Bielorrusiako errubloa (2000–2016)",
-        }
         BZD{
             "BZD",
             "Belizeko dolarra",
@@ -121,10 +117,6 @@ eu{
         CLP{
             "CLP",
             "Txileko pesoa",
-        }
-        CNH{
-            "CNH",
-            "yuan txinatar (itsasoz haraindikoa)",
         }
         CNY{
             "CN¥",
@@ -177,15 +169,6 @@ eu{
         ERN{
             "ERN",
             "Eritreako nakfa",
-        }
-        ESP{
-            "₧",
-            "ESP",
-            {
-                "¤ #,##0.00",
-                ",",
-                ".",
-            }
         }
         ETB{
             "ETB",
@@ -347,14 +330,6 @@ eu{
             "LSL",
             "Lesothoko lotia",
         }
-        LTL{
-            "LTL",
-            "Lituaniako litasa",
-        }
-        LVL{
-            "LVL",
-            "Letoniako latsa",
-        }
         LYD{
             "LYD",
             "Libiako dinarra",
@@ -386,10 +361,6 @@ eu{
         MOP{
             "MOP",
             "Macanako pataca",
-        }
-        MRO{
-            "MRO",
-            "Mauritaniako ouguiya (1973–2017)",
         }
         MRU{
             "MRU",
@@ -539,10 +510,6 @@ eu{
             "SSP",
             "Hego Sudango libera",
         }
-        STD{
-            "STD",
-            "Sao Tomeko eta Principeko dobra (1977–2017)",
-        }
         STN{
             "STN",
             "Sao Tomeko eta Principeko dobra",
@@ -643,10 +610,6 @@ eu{
             "CFPF",
             "CFP frankoa",
         }
-        XXX{
-            "XXX",
-            "Moneta ezezaguna",
-        }
         YER{
             "YER",
             "Yemengo riala",
@@ -654,10 +617,6 @@ eu{
         ZAR{
             "ZAR",
             "Hegoafrikako randa",
-        }
-        ZMK{
-            "ZMK",
-            "Zambiako kwacha (1968–2012)",
         }
         ZMW{
             "ZMW",
@@ -759,9 +718,6 @@ eu{
         ZAR{"R"}
         ZMW{"ZK"}
     }
-    Currencies%variant{
-        TRY{"TL"}
-    }
     CurrencyPlurals{
         AED{
             one{"Arabiar Emirerri Batuetako dirham"}
@@ -859,10 +815,6 @@ eu{
             one{"Bielorrusiako errublo"}
             other{"Bielorrusiako errublo"}
         }
-        BYR{
-            one{"Bielorrusiako errublo (2000–2016)"}
-            other{"Bielorrusiako errublo (2000–2016)"}
-        }
         BZD{
             one{"Belizeko dolar"}
             other{"Belizeko dolar"}
@@ -882,10 +834,6 @@ eu{
         CLP{
             one{"Txileko peso"}
             other{"Txileko peso"}
-        }
-        CNH{
-            one{"yuan txinatar (itsasoz haraindikoa)"}
-            other{"yuan txinatar (itsasoz haraindikoa)"}
         }
         CNY{
             one{"Txinako yuan"}
@@ -1095,14 +1043,6 @@ eu{
             one{"Liberiako dolar"}
             other{"Liberiako dolar"}
         }
-        LTL{
-            one{"Lituaniako litas"}
-            other{"Lituaniako litas"}
-        }
-        LVL{
-            one{"Letoniako lats"}
-            other{"Letoniako lats"}
-        }
         LYD{
             one{"Libiako dinar"}
             other{"Libiako dinar"}
@@ -1134,10 +1074,6 @@ eu{
         MOP{
             one{"Macanako pataca"}
             other{"Macanako pataca"}
-        }
-        MRO{
-            one{"Mauritaniako ouguiya (1973–2017)"}
-            other{"Mauritaniako ouguiya (1973–2017)"}
         }
         MRU{
             one{"Mauritaniako ouguiya"}
@@ -1287,10 +1223,6 @@ eu{
             one{"Hego Sudango libera"}
             other{"Hego Sudango libera"}
         }
-        STD{
-            one{"Sao Tomeko eta Principeko dobra (1977–2017)"}
-            other{"Sao Tomeko eta Principeko dobra (1977–2017)"}
-        }
         STN{
             one{"Sao Tomeko eta Principeko dobra"}
             other{"Sao Tomeko eta Principeko dobra"}
@@ -1390,10 +1322,6 @@ eu{
         XPF{
             one{"CFP franko"}
             other{"CFP franko"}
-        }
-        XXX{
-            one{"(moneta ezezaguna)"}
-            other{"(moneta ezezaguna)"}
         }
         YER{
             one{"Yemengo rial"}

@@ -98,10 +98,6 @@ zu{
             "BYN",
             "i-Belarusian Ruble",
         }
-        BYR{
-            "BYR",
-            "i-Belarusian Ruble (2000–2016)",
-        }
         BZD{
             "BZD",
             "i-Belize Dollar",
@@ -121,10 +117,6 @@ zu{
         CLP{
             "CLP",
             "i-Chilean Peso",
-        }
-        CNH{
-            "CNH",
-            "CNH",
         }
         CNY{
             "CN¥",
@@ -338,14 +330,6 @@ zu{
             "LSL",
             "i-Lesotho Loti",
         }
-        LTL{
-            "LTL",
-            "i-Lithuanian Litas",
-        }
-        LVL{
-            "LVL",
-            "i-Latvian Lats",
-        }
         LYD{
             "LYD",
             "i-Libyan Dinar",
@@ -377,10 +361,6 @@ zu{
         MOP{
             "MOP",
             "i-Macanese Pataca",
-        }
-        MRO{
-            "MRO",
-            "i-Mauritanian Ouguiya (1973–2017)",
         }
         MRU{
             "MRU",
@@ -530,10 +510,6 @@ zu{
             "SSP",
             "i-South Sudanese Pound",
         }
-        STD{
-            "STD",
-            "i-São Tomé kanye ne-Príncipe Dobra (1977–2017)",
-        }
         STN{
             "STN",
             "i-São Tomé kanye ne-Príncipe Dobra",
@@ -634,10 +610,6 @@ zu{
             "CFPF",
             "i-CFP Franc",
         }
-        XXX{
-            "XXX",
-            "imali engaziwa",
-        }
         YER{
             "YER",
             "i-Yemeni Rial",
@@ -645,10 +617,6 @@ zu{
         ZAR{
             "R",
             "i-South African Rand",
-        }
-        ZMK{
-            "ZMK",
-            "i-Zambian Kwacha (1968–2012)",
         }
         ZMW{
             "ZMW",
@@ -750,10 +718,6 @@ zu{
         ZAR{"R"}
         ZMW{"ZK"}
     }
-    Currencies%variant{
-        GEL{"₾"}
-        TRY{"TL"}
-    }
     CurrencyPlurals{
         AED{
             one{"i-Dirham yase-United Arab Emirates"}
@@ -851,10 +815,6 @@ zu{
             one{"i-Belarusian Ruble"}
             other{"i-Belarusian Ruble"}
         }
-        BYR{
-            one{"i-Belarusian Ruble (2000–2016)"}
-            other{"i-Belarusian Ruble (2000–2016)"}
-        }
         BZD{
             one{"i-Belize Dollar"}
             other{"i-Belize Dollar"}
@@ -874,10 +834,6 @@ zu{
         CLP{
             one{"i-Chilean Peso"}
             other{"i-Chilean Peso"}
-        }
-        CNH{
-            one{"CNH"}
-            other{"CNH"}
         }
         CNY{
             one{"i-Chinese Yuan"}
@@ -1119,10 +1075,6 @@ zu{
             one{"i-Macanese Pataca"}
             other{"i-Macanese Pataca"}
         }
-        MRO{
-            one{"i-Mauritanian Ouguiya (1973–2017)"}
-            other{"i-Mauritanian Ouguiya (1973–2017)"}
-        }
         MRU{
             one{"i-Mauritanian Ouguiya"}
             other{"i-Mauritanian Ouguiya"}
@@ -1271,10 +1223,6 @@ zu{
             one{"i-South Sudanese Pound"}
             other{"i-South Sudanese Pound"}
         }
-        STD{
-            one{"i-São Tomé kanye ne-Príncipe Dobra (1977–2017)"}
-            other{"i-São Tomé kanye ne-Príncipe Dobra (1977–2017)"}
-        }
         STN{
             one{"i-São Tomé kanye ne-Príncipe Dobra"}
             other{"i-São Tomé kanye ne-Príncipe Dobra"}
@@ -1374,10 +1322,6 @@ zu{
         XPF{
             one{"i-CFP Franc"}
             other{"i-CFP Franc"}
-        }
-        XXX{
-            one{"imali engaziwa"}
-            other{"imali engaziwa"}
         }
         YER{
             one{"i-Yemeni Rial"}

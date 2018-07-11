@@ -4,5 +4,4 @@
  * generated alias target
  */
 ar_SA{
-    ___{""}
 }

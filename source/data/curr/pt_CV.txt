@@ -12,10 +12,6 @@ pt_CV{
                 " ",
             }
         }
-        PTE{
-            "​PTE",
-            "Escudo português",
-        }
     }
     Version{"2.1.39.12"}
 }

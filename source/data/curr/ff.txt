@@ -74,17 +74,9 @@ ff{
             "£",
             "Liibar Sterling",
         }
-        GHC{
-            "GHC",
-            "Sedi Ganaa",
-        }
         GMD{
             "GMD",
             "Dalasi Gammbi",
-        }
-        GNS{
-            "GNS",
-            "Faraa Gine",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ ff{
             "MGA",
             "Ariyari Madagaskaar",
         }
-        MRO{
-            "MRO",
-            "Ugiyya Muritani (1973–2017)",
-        }
         MRU{
             "MRU",
             "Ugiyya Muritani",
@@ -137,10 +125,6 @@ ff{
         MWK{
             "MWK",
             "Kuwacca Malaawi",
-        }
-        MZM{
-            "MZM",
-            "Metikal Mosammbik",
         }
         NAD{
             "NAD",
@@ -178,10 +162,6 @@ ff{
             "SOS",
             "Siling Soomali",
         }
-        STD{
-            "STD",
-            "Dobra Sawo Tome e Prensipe (1977–2017)",
-        }
         STN{
             "STN",
             "Dobra Sawo Tome e Prensipe",
@@ -218,17 +198,9 @@ ff{
             "ZAR",
             "Rannda Afrik Bŋ Worgo",
         }
-        ZMK{
-            "ZMK",
-            "Kuwacca Sammbi (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Kuwacca Sammbi",
-        }
-        ZWD{
-            "ZWD",
-            "Dolaar Simbaabuwe",
         }
     }
     Version{"2.1.39.11"}

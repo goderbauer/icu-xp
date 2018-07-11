@@ -74,17 +74,9 @@ asa{
             "£",
             "pauni ya Uingeredha",
         }
-        GHC{
-            "GHC",
-            "thedi ya Ghana",
-        }
         GMD{
             "GMD",
             "dalathi ya Gambia",
-        }
-        GNS{
-            "GNS",
-            "faranga ya Gine",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ asa{
             "MGA",
             "faranga ya Bukini",
         }
-        MRO{
-            "MRO",
-            "ugwiya ya Moritania (1973–2017)",
-        }
         MRU{
             "MRU",
             "ugwiya ya Moritania",
@@ -137,10 +125,6 @@ asa{
         MWK{
             "MWK",
             "kwacha ya Malawi",
-        }
-        MZM{
-            "MZM",
-            "metikali ya Mthumbiji",
         }
         NAD{
             "NAD",
@@ -166,10 +150,6 @@ asa{
             "SDG",
             "dinari ya Thudani",
         }
-        SDP{
-            "SDP",
-            "pauni ya Thudani",
-        }
         SHP{
             "SHP",
             "pauni ya Thantahelena",
@@ -181,10 +161,6 @@ asa{
         SOS{
             "SOS",
             "shilingi ya Thomalia",
-        }
-        STD{
-            "STD",
-            "dobra ya Thao Tome na Principe (1977–2017)",
         }
         STN{
             "STN",
@@ -222,17 +198,9 @@ asa{
             "ZAR",
             "randi ya Afrika Kuthini",
         }
-        ZMK{
-            "ZMK",
-            "kwacha ya Dhambia (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "kwacha ya Dhambia",
-        }
-        ZWD{
-            "ZWD",
-            "dola ya Dhimbabwe",
         }
     }
     Version{"2.1.39.11"}

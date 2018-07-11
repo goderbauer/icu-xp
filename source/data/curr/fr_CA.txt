@@ -150,10 +150,6 @@ fr_CA{
             "XPF",
             "franc CFP",
         }
-        XXX{
-            "XXX",
-            "Devise inconnue",
-        }
         YER{
             "YER",
             "rial yéménite",
@@ -165,9 +161,6 @@ fr_CA{
         KMF{"CF"}
         NIO{"C$"}
         ZMW{"ZK"}
-    }
-    Currencies%variant{
-        TRY{"TL"}
     }
     CurrencyPlurals{
         FKP{
@@ -189,10 +182,6 @@ fr_CA{
         TOP{
             one{"pa’anga"}
             other{"pa’angas"}
-        }
-        XXX{
-            one{"(devise inconnue)"}
-            other{"(devise inconnue)"}
         }
         YER{
             one{"rial yéménite"}

@@ -98,10 +98,6 @@ fil{
             "BYN",
             "Belarusian Ruble",
         }
-        BYR{
-            "BYR",
-            "Belarusian Ruble (2000–2016)",
-        }
         BZD{
             "BZD",
             "Dolyar ng Belize",
@@ -121,10 +117,6 @@ fil{
         CLP{
             "CLP",
             "Piso ng Chile",
-        }
-        CNH{
-            "CNH",
-            "CNH",
         }
         CNY{
             "CN¥",
@@ -154,10 +146,6 @@ fil{
             "CZK",
             "Czech Republic Koruna",
         }
-        DEM{
-            "DEM",
-            "Deutsche Marks",
-        }
         DJF{
             "DJF",
             "Djiboutian Franc",
@@ -173,10 +161,6 @@ fil{
         DZD{
             "DZD",
             "Algerian Dinar",
-        }
-        EEK{
-            "EEK",
-            "Estonian Kroon",
         }
         EGP{
             "EGP",
@@ -201,10 +185,6 @@ fil{
         FKP{
             "FKP",
             "Pound ng Falkland Islands",
-        }
-        FRF{
-            "FRF",
-            "French Franc",
         }
         GBP{
             "£",
@@ -350,14 +330,6 @@ fil{
             "LSL",
             "Lesotho Loti",
         }
-        LTL{
-            "LTL",
-            "Lithuanian Litas",
-        }
-        LVL{
-            "LVL",
-            "Latvian Lats",
-        }
         LYD{
             "LYD",
             "Libyan Dinar",
@@ -389,10 +361,6 @@ fil{
         MOP{
             "MOP",
             "Macanese Pataca",
-        }
-        MRO{
-            "MRO",
-            "Mauritanian Ouguiya (1973–2017)",
         }
         MRU{
             "MRU",
@@ -526,14 +494,6 @@ fil{
             "SHP",
             "Saint Helena Pound",
         }
-        SIT{
-            "SIT",
-            "Slovenian Tolar",
-        }
-        SKK{
-            "SKK",
-            "Slovak Koruna",
-        }
         SLL{
             "SLL",
             "Sierra Leonean Leone",
@@ -549,10 +509,6 @@ fil{
         SSP{
             "SSP",
             "Pound ng Timog Sudan",
-        }
-        STD{
-            "STD",
-            "São Tomé & Príncipe Dobra (1977–2017)",
         }
         STN{
             "STN",
@@ -622,10 +578,6 @@ fil{
             "UZS",
             "Uzbekistan Som",
         }
-        VEB{
-            "VEB",
-            "Venezuelan Bolívar (1871–2008)",
-        }
         VEF{
             "VEF",
             "Bolívar ng Venezuela",
@@ -658,10 +610,6 @@ fil{
             "CFPF",
             "CFP Franc",
         }
-        XXX{
-            "XXX",
-            "Hindi Kilalang Pera",
-        }
         YER{
             "YER",
             "Yemeni Rial",
@@ -669,10 +617,6 @@ fil{
         ZAR{
             "ZAR",
             "Rand ng Timog Africa",
-        }
-        ZMK{
-            "ZMK",
-            "Zambian Kwacha (1968–2012)",
         }
         ZMW{
             "ZMW",
@@ -775,10 +719,6 @@ fil{
         ZAR{"R"}
         ZMW{"ZK"}
     }
-    Currencies%variant{
-        GEL{"₾"}
-        TRY{"TL"}
-    }
     CurrencyPlurals{
         AED{
             one{"UAE dirham"}
@@ -876,10 +816,6 @@ fil{
             one{"Belarusian ruble"}
             other{"Belarusian rubles"}
         }
-        BYR{
-            one{"Belarusian ruble (2000–2016)"}
-            other{"Belarusian rubles (2000–2016)"}
-        }
         BZD{
             one{"dolyar ng Belize"}
             other{"dolyares ng Belize"}
@@ -899,10 +835,6 @@ fil{
         CLP{
             one{"piso ng Chile"}
             other{"piso ng Chile"}
-        }
-        CNH{
-            one{"CNH"}
-            other{"CNH"}
         }
         CNY{
             one{"Chinese yuan"}
@@ -1112,14 +1044,6 @@ fil{
             one{"dolyar ng Liberia"}
             other{"dolyares ng Liberia"}
         }
-        LTL{
-            one{"Lithuanian litas"}
-            other{"Lithuanian litai"}
-        }
-        LVL{
-            one{"Latvian lats"}
-            other{"Latvian lati"}
-        }
         LYD{
             one{"Libyan dinar"}
             other{"Libyan dinars"}
@@ -1151,10 +1075,6 @@ fil{
         MOP{
             one{"Macanese pataca"}
             other{"Macanese patacas"}
-        }
-        MRO{
-            one{"Mauritanian ouguiya (1973–2017)"}
-            other{"Mauritanian ouguiyas (1973–2017)"}
         }
         MRU{
             one{"Mauritanian ouguiya"}
@@ -1304,10 +1224,6 @@ fil{
             one{"Pound ng Timog Sudan"}
             other{"pounds ng Timog Sudan"}
         }
-        STD{
-            one{"São Tomé & Príncipe dobra (1977–2017)"}
-            other{"São Tomé & Príncipe dobras (1977–2017)"}
-        }
         STN{
             one{"São Tomé & Príncipe dobra"}
             other{"São Tomé & Príncipe dobras"}
@@ -1407,10 +1323,6 @@ fil{
         XPF{
             one{"CFP franc"}
             other{"CFP francs"}
-        }
-        XXX{
-            one{"(hindi kilalang unit ng currency)"}
-            other{"(hindi kilalang pera)"}
         }
         YER{
             one{"Yemeni rial"}

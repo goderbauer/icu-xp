@@ -6,10 +6,6 @@ ps{
             "AED",
             "AED",
         }
-        AFA{
-            "AFA",
-            "افغانۍ (1927–2002)",
-        }
         AFN{
             "؋",
             "افغانۍ",
@@ -121,10 +117,6 @@ ps{
         CLP{
             "CLP",
             "CLP",
-        }
-        CNH{
-            "CNH",
-            "CNH",
         }
         CNY{
             "CN¥",
@@ -366,10 +358,6 @@ ps{
             "MOP",
             "MOP",
         }
-        MRO{
-            "MRO",
-            "MRO",
-        }
         MRU{
             "MRU",
             "MRU",
@@ -518,10 +506,6 @@ ps{
             "SSP",
             "SSP",
         }
-        STD{
-            "STD",
-            "STD",
-        }
         STN{
             "STN",
             "STN",
@@ -621,10 +605,6 @@ ps{
         XPF{
             "CFPF",
             "XPF",
-        }
-        XXX{
-            "XXX",
-            "نامعلوم د اسعارو له",
         }
         YER{
             "YER",
@@ -735,17 +715,10 @@ ps{
         ZAR{"R"}
         ZMW{"ZK"}
     }
-    Currencies%variant{
-        TRY{"TL"}
-    }
     CurrencyPlurals{
         AED{
             one{"AED"}
             other{"AED"}
-        }
-        AFA{
-            one{"افغانۍ (1927–2002)"}
-            other{"افغانۍ (1927–2002)"}
         }
         AFN{
             one{"افغانۍ"}
@@ -858,10 +831,6 @@ ps{
         CLP{
             one{"CLP"}
             other{"CLP"}
-        }
-        CNH{
-            one{"CNH"}
-            other{"CNH"}
         }
         CNY{
             one{"CNY"}
@@ -1103,10 +1072,6 @@ ps{
             one{"MOP"}
             other{"MOP"}
         }
-        MRO{
-            one{"MRO"}
-            other{"MRO"}
-        }
         MRU{
             one{"MRU"}
             other{"MRU"}
@@ -1255,10 +1220,6 @@ ps{
             one{"SSP"}
             other{"SSP"}
         }
-        STD{
-            one{"STD"}
-            other{"STD"}
-        }
         STN{
             one{"STN"}
             other{"STN"}
@@ -1358,10 +1319,6 @@ ps{
         XPF{
             one{"XPF"}
             other{"XPF"}
-        }
-        XXX{
-            one{"د اسعارو د نامعلومو واحد"}
-            other{"نامعلوم د اسعارو له"}
         }
         YER{
             one{"YER"}

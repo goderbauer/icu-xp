@@ -98,10 +98,6 @@ sq{
             "BYN",
             "Rubla bjelloruse",
         }
-        BYR{
-            "BYR",
-            "Rubla bjelloruse (2000–2016)",
-        }
         BZD{
             "BZD",
             "Dollari i Ishujve Belize",
@@ -121,10 +117,6 @@ sq{
         CLP{
             "CLP",
             "Pesoja kiliane",
-        }
-        CNH{
-            "CNH",
-            "Juani kinez (për treg të jashtëm)",
         }
         CNY{
             "CN¥",
@@ -334,14 +326,6 @@ sq{
             "LRD",
             "Dollari liberian",
         }
-        LTL{
-            "LTL",
-            "Lita lituaneze",
-        }
-        LVL{
-            "LVL",
-            "Lata letoneze",
-        }
         LYD{
             "LYD",
             "Dinari libian",
@@ -373,10 +357,6 @@ sq{
         MOP{
             "MOP",
             "Pataka e Makaos",
-        }
-        MRO{
-            "MRO",
-            "Ugija mauritane (1973–2017)",
         }
         MRU{
             "MRU",
@@ -526,10 +506,6 @@ sq{
             "SSP",
             "Sterlina sudanezo-jugore",
         }
-        STD{
-            "STD",
-            "Dobra e Sao-Tomes dhe Prinsipes (1977–2017)",
-        }
         STN{
             "STN",
             "Dobra e Sao-Tomes dhe Prinsipes",
@@ -629,10 +605,6 @@ sq{
         XPF{
             "CFPF",
             "Franga franceze e Polinezisë",
-        }
-        XXX{
-            "XXX",
-            "Valutë e panjohur",
         }
         YER{
             "YER",
@@ -748,10 +720,6 @@ sq{
             one{"rubël bjelloruse"}
             other{"rubla bjelloruse"}
         }
-        BYR{
-            one{"rubël bjelloruse (2000–2016)"}
-            other{"rubla bjelloruse (2000–2016)"}
-        }
         BZD{
             one{"dollar belize"}
             other{"dollarë belize"}
@@ -771,10 +739,6 @@ sq{
         CLP{
             one{"peso kiliane"}
             other{"peso kiliane"}
-        }
-        CNH{
-            one{"juan kinez (për treg të jashtëm)"}
-            other{"juanë kinez (për treg të jashtëm)"}
         }
         CNY{
             one{"juan kinez"}
@@ -984,14 +948,6 @@ sq{
             one{"dollar liberian"}
             other{"dollarë liberian"}
         }
-        LTL{
-            one{"litë lituaneze"}
-            other{"lita lituaneze"}
-        }
-        LVL{
-            one{"latë letoneze"}
-            other{"lata letoneze"}
-        }
         LYD{
             one{"dinar libian"}
             other{"dinarë libian"}
@@ -1023,10 +979,6 @@ sq{
         MOP{
             one{"patakë e Makaos"}
             other{"pataka të Makaos"}
-        }
-        MRO{
-            one{"ugijë mauritane (1973–2017)"}
-            other{"ugija mauritane (1973–2017)"}
         }
         MRU{
             one{"ugijë mauritane"}
@@ -1176,10 +1128,6 @@ sq{
             one{"sterlinë sudanezo-jugore"}
             other{"sterlina sudanezo-jugore"}
         }
-        STD{
-            one{"dobër e Sao-Tomes dhe Prinsipes (1977–2017)"}
-            other{"dobra të Sao-Tomes dhe Prinsipes (1977–2017)"}
-        }
         STN{
             one{"dobër e Sao-Tomes dhe Prinsipes"}
             other{"dobra të Sao-Tomes dhe Prinsipes"}
@@ -1279,10 +1227,6 @@ sq{
         XPF{
             one{"frangë franceze e Polinezisë"}
             other{"franga franceze të Polinezisë"}
-        }
-        XXX{
-            one{"(njësi e panjohur valutore)"}
-            other{"(njësi të panjohura valutore)"}
         }
         YER{
             one{"rial jemeni"}

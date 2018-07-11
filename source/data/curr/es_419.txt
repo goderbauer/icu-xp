@@ -43,13 +43,6 @@ es_419{
             one{"lev búlgaro"}
             other{"leva búlgaros"}
         }
-        LVL{
-            one{"lats letón"}
-        }
-        XXX{
-            one{"(unidad de moneda desconocida)"}
-            other{"(moneda desconocida)"}
-        }
     }
     Version{"2.1.38.39"}
 }

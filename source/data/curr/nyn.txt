@@ -74,17 +74,9 @@ nyn{
             "£",
             "Paundi ya Bungyereza",
         }
-        GHC{
-            "GHC",
-            "Cedi ya Ghana",
-        }
         GMD{
             "GMD",
             "Dalasi ya Gambia",
-        }
-        GNS{
-            "GNS",
-            "Faranga ya Guinea",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ nyn{
             "MGA",
             "Ariari ya Maragariita",
         }
-        MRO{
-            "MRO",
-            "Ougwiya ya Mouriteeniya (1973–2017)",
-        }
         MRU{
             "MRU",
             "Ougwiya ya Mouriteeniya",
@@ -137,10 +125,6 @@ nyn{
         MWK{
             "MWK",
             "Kwaca ya Malawi",
-        }
-        MZM{
-            "MZM",
-            "Metikari ya Mozambikwi",
         }
         NAD{
             "NAD",
@@ -166,10 +150,6 @@ nyn{
             "SDG",
             "Dinari ya Sudani",
         }
-        SDP{
-            "SDP",
-            "Paundi ya Sudan",
-        }
         SHP{
             "SHP",
             "Paundi ya Senti Herena",
@@ -181,10 +161,6 @@ nyn{
         SOS{
             "SOS",
             "Eshiringi ya Somalia",
-        }
-        STD{
-            "STD",
-            "Dobra ya Sao Tome na Purinsipo (1977–2017)",
         }
         STN{
             "STN",
@@ -222,17 +198,9 @@ nyn{
             "ZAR",
             "Randi ya Sausi Afirika",
         }
-        ZMK{
-            "ZMK",
-            "Kwacha ya Zambia (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Kwacha ya Zambia",
-        }
-        ZWD{
-            "ZWD",
-            "Doora ya Zimbabwe",
         }
     }
     Version{"2.1.39.11"}

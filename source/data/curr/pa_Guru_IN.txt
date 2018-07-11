@@ -4,5 +4,4 @@
  * generated alias target
  */
 pa_Guru_IN{
-    ___{""}
 }

@@ -38,10 +38,6 @@ ksh{
             "AWG",
             "arubesche Florin",
         }
-        AZM{
-            "AZM",
-            "Asserbaidschaani Manat (1993–2006)",
-        }
         AZN{
             "AZN",
             "Asserbaidschaani Manat",
@@ -101,10 +97,6 @@ ksh{
         BYN{
             "BYN",
             "wiißrußesche Rubel",
-        }
-        BYR{
-            "BYR",
-            "wiißrußesche Rubel (2000–2016)",
         }
         BZD{
             "BZD",
@@ -169,10 +161,6 @@ ksh{
         DZD{
             "DZD",
             "aljeresche Denaa",
-        }
-        EEK{
-            "EEK",
-            "Äßnesche Kruhne",
         }
         EGP{
             "EGP",
@@ -342,14 +330,6 @@ ksh{
             "LSL",
             "lesoothesche Loti",
         }
-        LTL{
-            "LTL",
-            "littouesche Litas",
-        }
-        LVL{
-            "LVL",
-            "lättesche Lats",
-        }
         LYD{
             "LYD",
             "libesche Denaa",
@@ -382,10 +362,6 @@ ksh{
             "MOP",
             "makaneesesche Pataca",
         }
-        MRO{
-            "MRO",
-            "mauretanesche Ouguiya (1973–2017)",
-        }
         MRU{
             "MRU",
             "mauretanesche Ouguiya",
@@ -409,10 +385,6 @@ ksh{
         MYR{
             "MYR",
             "malaisesche Ringgit",
-        }
-        MZM{
-            "MZM",
-            "mosambikaanesche Metical (1980–2006)",
         }
         MZN{
             "MZN",
@@ -478,10 +450,6 @@ ksh{
             "QAR",
             "kataaresche Rijal",
         }
-        ROL{
-            "ROL",
-            "romäänesche Leu (1952–2006)",
-        }
         RON{
             "RON",
             "romäänesche Leu",
@@ -526,10 +494,6 @@ ksh{
             "SHP",
             "Zint-Hellena-Pongk",
         }
-        SKK{
-            "SKK",
-            "ßlovaakesche Kruhne",
-        }
         SLL{
             "SLL",
             "ẞjärra-lejoneesesche Leone",
@@ -545,10 +509,6 @@ ksh{
         SSP{
             "SSP",
             "södsudaneesesche Pongk",
-        }
-        STD{
-            "STD",
-            "Dobra vun São Tomé un Príncipe (1977–2017)",
         }
         STN{
             "STN",
@@ -573,10 +533,6 @@ ksh{
         TJS{
             "TJS",
             "tadschikißtaanesche Somoni",
-        }
-        TMM{
-            "TMM",
-            "turkmeneßtaanesche Manat (1993–2009)",
         }
         TMT{
             "TMT",
@@ -646,45 +602,17 @@ ksh{
             "FCFA",
             "Kmmeruhner Frang",
         }
-        XAG{
-            "XAG",
-            "Sellver",
-        }
-        XAU{
-            "XAU",
-            "Jold",
-        }
         XCD{
             "EC$",
             "oß-karribbesche Dollaa",
-        }
-        XFO{
-            "XFO",
-            "franzüüsesche Joldfranke",
         }
         XOF{
             "CFA",
             "Frang uß de Älfebeinköß",
         }
-        XPD{
-            "XPD",
-            "Palladijum",
-        }
         XPF{
             "CFPF",
             "polineesesche Frang",
-        }
-        XPT{
-            "XPT",
-            "Plaatin",
-        }
-        XTS{
-            "XTS",
-            "Währong zum Prööfe",
-        }
-        XXX{
-            "XXX",
-            "onbikannte Währong",
         }
         YER{
             "YER",
@@ -694,17 +622,9 @@ ksh{
             "ZAR",
             "södaffrekaanesche Rand",
         }
-        ZMK{
-            "ZMK",
-            "sambesche Kwacha (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "sambesche Kwacha",
-        }
-        ZWD{
-            "ZWD",
-            "simbabwesche Dollaa (1980–2008)",
         }
         ZWL{
             "ZWL",
@@ -861,11 +781,6 @@ ksh{
             one{"södsudaneesesche Pongk"}
             other{"södsudaneesesche Pongk"}
             zero{"södsudaneesesche Pongk"}
-        }
-        STD{
-            one{"Dobra vun São Tomé un Príncipe (1977–2017)"}
-            other{"Dobra vun São Tomé un Príncipe (1977–2017)"}
-            zero{"Dobra vun São Tomé un Príncipe (1977–2017)"}
         }
         STN{
             one{"Dobra vun São Tomé un Príncipe"}

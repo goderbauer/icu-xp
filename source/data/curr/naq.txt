@@ -74,17 +74,9 @@ naq{
             "£",
             "British Ponds",
         }
-        GHC{
-            "GHC",
-            "Ghana Cedi",
-        }
         GMD{
             "GMD",
             "Gambia Dalasi",
-        }
-        GNS{
-            "GNS",
-            "Guinea Franc",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ naq{
             "MGA",
             "Malagasy Franc",
         }
-        MRO{
-            "MRO",
-            "Mauritania Ouguiya (1973–2017)",
-        }
         MRU{
             "MRU",
             "Mauritania Ouguiya",
@@ -137,10 +125,6 @@ naq{
         MWK{
             "MWK",
             "Malawian Kwachab",
-        }
-        MZM{
-            "MZM",
-            "Mozambique Metical",
         }
         NAD{
             "$",
@@ -166,10 +150,6 @@ naq{
             "SDG",
             "Sudanese Dinar",
         }
-        SDP{
-            "SDP",
-            "Sudanese Ponds",
-        }
         SHP{
             "SHP",
             "St Helena Ponds",
@@ -181,10 +161,6 @@ naq{
         SOS{
             "SOS",
             "Somali Shillings",
-        }
-        STD{
-            "STD",
-            "Sao Tome and Principe Dobra (1977–2017)",
         }
         STN{
             "STN",
@@ -222,17 +198,9 @@ naq{
             "ZAR",
             "South African Randi",
         }
-        ZMK{
-            "ZMK",
-            "Zambian Kwachab (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Zambian Kwachab",
-        }
-        ZWD{
-            "ZWD",
-            "Zimbabwe Dollari",
         }
     }
     Version{"2.1.39.11"}

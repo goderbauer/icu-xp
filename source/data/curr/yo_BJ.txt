@@ -70,17 +70,9 @@ yo_BJ{
             "£",
             "Pɔɔn ti Orílɛ́ède Bírítísì",
         }
-        GHC{
-            "GHC",
-            "shidi ti Orílɛ́ède Gana",
-        }
         GMD{
             "GMD",
             "Dalasi ti Orílɛ́ède Gamibia",
-        }
-        GNS{
-            "GNS",
-            "Faransi ti Orílɛ́ède Gini",
         }
         INR{
             "₹",
@@ -118,10 +110,6 @@ yo_BJ{
             "MGA",
             "Faransi ti Orílɛ́ède Malagasi",
         }
-        MRO{
-            "MRO",
-            "Ouguiya ti Orílɛ́ède Maritania (1973–2017)",
-        }
         MRU{
             "MRU",
             "Ouguiya ti Orílɛ́ède Maritania",
@@ -133,10 +121,6 @@ yo_BJ{
         MWK{
             "MWK",
             "Kasha ti Orílɛ́ède Malawi",
-        }
-        MZM{
-            "MZM",
-            "Metika ti Orílɛ́ède Mosamibiki",
         }
         NAD{
             "NAD",
@@ -162,10 +146,6 @@ yo_BJ{
             "SDG",
             "Dina ti Orílɛ́ède Sudani",
         }
-        SDP{
-            "SDP",
-            "Pɔɔun ti Orílɛ́ède Sudani",
-        }
         SHP{
             "SHP",
             "Pɔɔun ti Orílɛ́ède ̣Elena",
@@ -173,10 +153,6 @@ yo_BJ{
         SOS{
             "SOS",
             "Sile ti Orílɛ́ède Somali",
-        }
-        STD{
-            "STD",
-            "Dobira ti Orílɛ́ède Sao tome Ati Pirisipe (1977–2017)",
         }
         STN{
             "STN",
@@ -210,17 +186,9 @@ yo_BJ{
             "ZAR",
             "Randi ti Orílɛ́ède Ariwa Afirika",
         }
-        ZMK{
-            "ZMK",
-            "Kawasha ti Orílɛ́ède Saabia (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Kawasha ti Orílɛ́ède Saabia",
-        }
-        ZWD{
-            "ZWD",
-            "Dɔla ti Orílɛ́ède Siibabuwe",
         }
     }
     Version{"2.1.39.11"}

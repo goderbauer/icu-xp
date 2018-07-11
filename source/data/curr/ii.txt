@@ -6,10 +6,6 @@ ii{
             "¥",
             "CNY",
         }
-        XXX{
-            "XXX",
-            "ꅉꀋꐚꌠꌋꆀꎆꃀꀋꈁꀐꌠ",
-        }
     }
     CurrencyUnitPatterns{
         other{"{0} {1}"}

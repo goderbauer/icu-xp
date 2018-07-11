@@ -34,10 +34,6 @@ kok{
             "US$",
             "USD",
         }
-        XXX{
-            "XXX",
-            "XXX",
-        }
     }
     Currencies%narrow{
         BRL{"R$"}
@@ -73,9 +69,6 @@ kok{
         }
         USD{
             other{"USD"}
-        }
-        XXX{
-            other{"XXX"}
         }
     }
     CurrencyUnitPatterns{

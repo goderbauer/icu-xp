@@ -74,17 +74,9 @@ agq{
             "£",
             "Bɔ̀ŋ è Bèletì",
         }
-        GHC{
-            "GHC",
-            "Sɛ̀di è Gaanà",
-        }
         GMD{
             "GMD",
             "Dàlasì è Gambìa",
-        }
-        GNS{
-            "GNS",
-            "Fàlâŋ è Ginè",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ agq{
             "MGA",
             "Àlǐalè è Màlàgasì",
         }
-        MRO{
-            "MRO",
-            "Ùgueya è Mùlètenyìa (1973–2017)",
-        }
         MRU{
             "MRU",
             "Ùgueya è Mùlètenyìa",
@@ -137,10 +125,6 @@ agq{
         MWK{
             "MWK",
             "Kwachà è Màlawè",
-        }
-        MZM{
-            "MZM",
-            "Mètikà è Mùzàmbî",
         }
         NAD{
             "NAD",
@@ -178,10 +162,6 @@ agq{
             "SOS",
             "Shwɨlà è Sùmalìa",
         }
-        STD{
-            "STD",
-            "Dɔbàlà è Sàwu Tɔ̀me à Pèlènsipè (1977–2017)",
-        }
         STN{
             "STN",
             "Dɔbàlà è Sàwu Tɔ̀me à Pèlènsipè",
@@ -218,17 +198,9 @@ agq{
             "ZAR",
             "Lân è Afɨlekà ghɨ Emàm ghò",
         }
-        ZMK{
-            "ZMK",
-            "Kwachà è Zambìa (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Kwachà è Zambìa",
-        }
-        ZWD{
-            "ZWD",
-            "Dɔlà è Zìmbagbɛ̀",
         }
     }
     Version{"2.1.39.11"}

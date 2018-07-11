@@ -74,17 +74,9 @@ yo{
             "£",
             "Pọọn ti Orílẹ́ède Bírítísì",
         }
-        GHC{
-            "GHC",
-            "ṣidi ti Orílẹ́ède Gana",
-        }
         GMD{
             "GMD",
             "Dalasi ti Orílẹ́ède Gamibia",
-        }
-        GNS{
-            "GNS",
-            "Faransi ti Orílẹ́ède Gini",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ yo{
             "MGA",
             "Faransi ti Orílẹ́ède Malagasi",
         }
-        MRO{
-            "MRO",
-            "Ouguiya ti Orílẹ́ède Maritania (1973–2017)",
-        }
         MRU{
             "MRU",
             "Ouguiya ti Orílẹ́ède Maritania",
@@ -137,10 +125,6 @@ yo{
         MWK{
             "MWK",
             "Kaṣa ti Orílẹ́ède Malawi",
-        }
-        MZM{
-            "MZM",
-            "Metika ti Orílẹ́ède Mosamibiki",
         }
         NAD{
             "NAD",
@@ -166,10 +150,6 @@ yo{
             "SDG",
             "Dina ti Orílẹ́ède Sudani",
         }
-        SDP{
-            "SDP",
-            "Pọọun ti Orílẹ́ède Sudani",
-        }
         SHP{
             "SHP",
             "Pọọun ti Orílẹ́ède ̣Elena",
@@ -181,10 +161,6 @@ yo{
         SOS{
             "SOS",
             "Sile ti Orílẹ́ède Somali",
-        }
-        STD{
-            "STD",
-            "Dobira ti Orílẹ́ède Sao tome Ati Pirisipe (1977–2017)",
         }
         STN{
             "STN",
@@ -222,17 +198,9 @@ yo{
             "ZAR",
             "Randi ti Orílẹ́ède Ariwa Afirika",
         }
-        ZMK{
-            "ZMK",
-            "Kawaṣa ti Orílẹ́ède Saabia (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Kawaṣa ti Orílẹ́ède Saabia",
-        }
-        ZWD{
-            "ZWD",
-            "Dọla ti Orílẹ́ède Siibabuwe",
         }
     }
     CurrencyUnitPatterns{

@@ -31,10 +31,6 @@ en_AU{
             "CAD",
             "Canadian Dollar",
         }
-        CNH{
-            "CNH",
-            "CNH",
-        }
         CNY{
             "CNY",
             "Chinese Yuan",
@@ -130,10 +126,6 @@ en_AU{
         SEK{"Kr"}
         UYU{"$U"}
     }
-    Currencies%variant{
-        GEL{"GEL"}
-        TRY{"TRY"}
-    }
     CurrencyPlurals{
         BAM{
             one{"Bosnia-Herzegovina convertible marka"}
@@ -150,10 +142,6 @@ en_AU{
         BOB{
             one{"boliviano"}
             other{"bolivianos"}
-        }
-        CNH{
-            one{"CNH"}
-            other{"CNH"}
         }
         EUR{
             one{"euro"}

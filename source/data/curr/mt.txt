@@ -98,10 +98,6 @@ mt{
             "BYN",
             "BYN",
         }
-        BYR{
-            "BYR",
-            "BYR",
-        }
         BZD{
             "BZD",
             "BZD",
@@ -338,17 +334,9 @@ mt{
             "MOP",
             "MOP",
         }
-        MRO{
-            "MRO",
-            "MRO",
-        }
         MRU{
             "MRU",
             "MRU",
-        }
-        MTL{
-            "MTL",
-            "Lira Maltija",
         }
         MUR{
             "MUR",
@@ -490,10 +478,6 @@ mt{
             "SSP",
             "SSP",
         }
-        STD{
-            "STD",
-            "STD",
-        }
         STN{
             "STN",
             "STN",
@@ -594,10 +578,6 @@ mt{
             "CFPF",
             "XPF",
         }
-        XXX{
-            "XXX",
-            "Munita Mhix Magħrufa jew Mhix Valida",
-        }
         YER{
             "YER",
             "YER",
@@ -695,9 +675,6 @@ mt{
         VND{"₫"}
         XCD{"$"}
         ZMW{"ZK"}
-    }
-    Currencies%variant{
-        TRY{"TL"}
     }
     CurrencyPlurals{
         AED{
@@ -843,12 +820,6 @@ mt{
             many{"BYN"}
             one{"BYN"}
             other{"BYN"}
-        }
-        BYR{
-            few{"BYR"}
-            many{"BYR"}
-            one{"BYR"}
-            other{"BYR"}
         }
         BZD{
             few{"BZD"}
@@ -1204,12 +1175,6 @@ mt{
             one{"MOP"}
             other{"MOP"}
         }
-        MRO{
-            few{"MRO"}
-            many{"MRO"}
-            one{"MRO"}
-            other{"MRO"}
-        }
         MRU{
             few{"MRU"}
             many{"MRU"}
@@ -1420,12 +1385,6 @@ mt{
             one{"SSP"}
             other{"SSP"}
         }
-        STD{
-            few{"STD"}
-            many{"STD"}
-            one{"STD"}
-            other{"STD"}
-        }
         STN{
             few{"STN"}
             many{"STN"}
@@ -1575,12 +1534,6 @@ mt{
             many{"XPF"}
             one{"XPF"}
             other{"XPF"}
-        }
-        XXX{
-            few{"Munita Mhix Magħrufa jew Mhix Valida"}
-            many{"Munita Mhix Magħrufa jew Mhix Valida"}
-            one{"Munita mhix magħrufa jew mhix valida"}
-            other{"Munita Mhix Magħrufa jew Mhix Valida"}
         }
         YER{
             few{"YER"}

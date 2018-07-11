@@ -74,17 +74,9 @@ seh{
             "£",
             "Libra britânica",
         }
-        GHC{
-            "GHC",
-            "Cedi de Gana (1979–2007)",
-        }
         GMD{
             "GMD",
             "Dalasi de Gâmbia",
-        }
-        GNS{
-            "GNS",
-            "Syli da Guiné",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ seh{
             "MGA",
             "Franco de Madagascar",
         }
-        MRO{
-            "MRO",
-            "Ouguiya da Mauritânia (1973–2017)",
-        }
         MRU{
             "MRU",
             "Ouguiya da Mauritânia",
@@ -137,10 +125,6 @@ seh{
         MWK{
             "MWK",
             "Cuacha do Maláui",
-        }
-        MZM{
-            "MZM",
-            "Metical antigo de Moçambique",
         }
         MZN{
             "MTn",
@@ -170,10 +154,6 @@ seh{
             "SDG",
             "Dinar sudanês",
         }
-        SDP{
-            "SDP",
-            "Libra sudanesa antiga",
-        }
         SHP{
             "SHP",
             "Libra de Santa Helena",
@@ -185,10 +165,6 @@ seh{
         SOS{
             "SOS",
             "Xelim somali",
-        }
-        STD{
-            "STD",
-            "Dobra de São Tomé e Príncipe (1977–2017)",
         }
         STN{
             "STN",
@@ -226,17 +202,9 @@ seh{
             "ZAR",
             "Rand sul-africano",
         }
-        ZMK{
-            "ZMK",
-            "Cuacha zambiano (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Cuacha zambiano",
-        }
-        ZWD{
-            "ZWD",
-            "Dólar do Zimbábue",
         }
     }
     Version{"2.1.39.11"}

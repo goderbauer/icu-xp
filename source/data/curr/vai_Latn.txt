@@ -75,17 +75,9 @@ vai_Latn{
             "£",
             "Jengési Pɔɔ̃",
         }
-        GHC{
-            "GHC",
-            "Gana Sidi",
-        }
         GMD{
             "GMD",
             "Gambiya Dalasi",
-        }
-        GNS{
-            "GNS",
-            "Gini Furaŋki",
         }
         INR{
             "₹",
@@ -123,10 +115,6 @@ vai_Latn{
             "MGA",
             "Malagasi Ariyari",
         }
-        MRO{
-            "MRO",
-            "Mɔretani Yugiya (1973–2017)",
-        }
         MRU{
             "MRU",
             "Mɔretani Yugiya",
@@ -138,10 +126,6 @@ vai_Latn{
         MWK{
             "MWK",
             "Malawi Kuwacha",
-        }
-        MZM{
-            "MZM",
-            "Mozambiki Mɛtikali",
         }
         NAD{
             "NAD",
@@ -174,10 +158,6 @@ vai_Latn{
         SOS{
             "SOS",
             "Somaliya Siyeŋ",
-        }
-        STD{
-            "STD",
-            "Sawo Tombe ɓɛ a Gbawo Dobura (1977–2017)",
         }
         STN{
             "STN",
@@ -215,17 +195,9 @@ vai_Latn{
             "ZAR",
             "Afirika Kɔi Leŋŋɛ lɔ Randi",
         }
-        ZMK{
-            "ZMK",
-            "Zambiya Kuwacha (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Zambiya Kuwacha",
-        }
-        ZWD{
-            "ZWD",
-            "Zimbhabhuwe Dala",
         }
     }
     Version{"2.1.39.11"}

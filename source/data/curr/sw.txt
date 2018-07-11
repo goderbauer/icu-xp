@@ -98,10 +98,6 @@ sw{
             "BYN",
             "Ruble ya Belarus",
         }
-        BYR{
-            "BYR",
-            "Ruble ya Belarusi (2000–2016)",
-        }
         BZD{
             "BZD",
             "Dola ya Belize",
@@ -121,10 +117,6 @@ sw{
         CLP{
             "CLP",
             "Peso ya Chile",
-        }
-        CNH{
-            "CNH",
-            "Yuan ya Uchina (huru)",
         }
         CNY{
             "CN¥",
@@ -202,10 +194,6 @@ sw{
             "GEL",
             "Lari ya Georgia",
         }
-        GHC{
-            "GHC",
-            "Sedi ya Ghana",
-        }
         GHS{
             "GHS",
             "Cedi ya Ghana",
@@ -221,10 +209,6 @@ sw{
         GNF{
             "GNF",
             "Faranga ya Guinea",
-        }
-        GNS{
-            "GNS",
-            "Faranga ya Gine",
         }
         GTQ{
             "GTQ",
@@ -346,14 +330,6 @@ sw{
             "LSL",
             "Loti ya Lesoto",
         }
-        LTL{
-            "LTL",
-            "Litas ya Lithuania",
-        }
-        LVL{
-            "LVL",
-            "Lats ya Lativia",
-        }
         LYD{
             "LYD",
             "Dinari ya Libya",
@@ -386,10 +362,6 @@ sw{
             "MOP",
             "Pataca ya Macau",
         }
-        MRO{
-            "MRO",
-            "Ouguiya ya Mauritania (1973–2017)",
-        }
         MRU{
             "MRU",
             "Ouguiya ya Mauritania",
@@ -413,10 +385,6 @@ sw{
         MYR{
             "MYR",
             "Ringgit ya Malaysia",
-        }
-        MZM{
-            "MZM",
-            "Metikali ya Msumbiji (1980–2006)",
         }
         MZN{
             "MZN",
@@ -514,10 +482,6 @@ sw{
             "SDG",
             "Pauni ya Sudan",
         }
-        SDP{
-            "SDP",
-            "Pauni ya Sudani (1957–1998)",
-        }
         SEK{
             "SEK",
             "Krona ya Uswidi",
@@ -545,10 +509,6 @@ sw{
         SSP{
             "SSP",
             "Pauni ya Sudan Kusini",
-        }
-        STD{
-            "STD",
-            "Dobra ya Sao Tome na Principe (1977–2017)",
         }
         STN{
             "STN",
@@ -650,10 +610,6 @@ sw{
             "CFPF",
             "Faranga ya CFP",
         }
-        XXX{
-            "XXX",
-            "Sarafu isiyojulikana",
-        }
         YER{
             "YER",
             "Rial ya Yemen",
@@ -662,17 +618,9 @@ sw{
             "ZAR",
             "Randi ya Afrika Kusini",
         }
-        ZMK{
-            "ZMK",
-            "Kwacha ya Zambia (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Kwacha ya Zambia",
-        }
-        ZWD{
-            "ZWD",
-            "Dola ya Zimbabwe",
         }
     }
     Currencies%narrow{
@@ -771,10 +719,6 @@ sw{
         ZAR{"R"}
         ZMW{"ZK"}
     }
-    Currencies%variant{
-        GEL{"₾"}
-        TRY{"TL"}
-    }
     CurrencyPlurals{
         AED{
             one{"dirham ya Falme za Kiarabu"}
@@ -872,10 +816,6 @@ sw{
             one{"ruble ya Belarus"}
             other{"ruble za Belarus"}
         }
-        BYR{
-            one{"Ruble ya Belarusi (2000–2016)"}
-            other{"Ruble za Belarusi (2000–2016)"}
-        }
         BZD{
             one{"dola ya Belize"}
             other{"dola za Belize"}
@@ -895,10 +835,6 @@ sw{
         CLP{
             one{"Peso ya Chile"}
             other{"Peso za Chile"}
-        }
-        CNH{
-            one{"yuan ya Uchina (huru)"}
-            other{"yuan ya Uchina (huru)"}
         }
         CNY{
             one{"yuan ya Uchina"}
@@ -1108,14 +1044,6 @@ sw{
             one{"dola ya Liberia"}
             other{"dola za Liberia"}
         }
-        LTL{
-            one{"Litas ya Lithuania"}
-            other{"Litas za Lithuania"}
-        }
-        LVL{
-            one{"Lats ya Lativia"}
-            other{"Lats za Lativia"}
-        }
         LYD{
             one{"dinari ya Libya"}
             other{"dinari za Libya"}
@@ -1148,10 +1076,6 @@ sw{
             one{"pataca ya Macau"}
             other{"pataca za Macau"}
         }
-        MRO{
-            one{"ouguiya ya Mauritania (1973–2017)"}
-            other{"ouguiya za Mauritania (1973–2017)"}
-        }
         MRU{
             one{"ouguiya ya Mauritania"}
             other{"ouguiya za Mauritania"}
@@ -1175,10 +1099,6 @@ sw{
         MYR{
             one{"ringgit ya Malaysia"}
             other{"ringgit za Malaysia"}
-        }
-        MZM{
-            one{"metikali ya Msumbiji (1980–2006)"}
-            other{"metikali ya Msumbiji (1980–2006)"}
         }
         MZN{
             one{"Metikali ya Msumbiji"}
@@ -1276,10 +1196,6 @@ sw{
             one{"pauni ya Sudan"}
             other{"pauni za Sudan"}
         }
-        SDP{
-            one{"pauni ya Sudani (1957–1998)"}
-            other{"pauni za Sudani (1957–1998)"}
-        }
         SEK{
             one{"krona ya Uswidi"}
             other{"krona za Uswidi"}
@@ -1307,10 +1223,6 @@ sw{
         SSP{
             one{"pauni ya Sudan Kusini"}
             other{"pauni za Sudan Kusini"}
-        }
-        STD{
-            one{"dobra ya Sao Tome na Principe (1977–2017)"}
-            other{"dobra za Sao Tome na Principe (1977–2017)"}
         }
         STN{
             one{"dobra ya Sao Tome na Principe"}
@@ -1411,10 +1323,6 @@ sw{
         XPF{
             one{"faranga ya CFP"}
             other{"faranga za CFP"}
-        }
-        XXX{
-            one{"(sarafu isiyojulikana)"}
-            other{"(sarafu isiyojulikana)"}
         }
         YER{
             one{"rial ya Yemen"}

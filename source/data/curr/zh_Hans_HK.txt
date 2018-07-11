@@ -10,10 +10,6 @@ zh_Hans_HK{
             "KYD",
             "开曼群岛元",
         }
-        XAG{
-            "XAG",
-            "白银",
-        }
     }
     CurrencyPlurals{
         KYD{

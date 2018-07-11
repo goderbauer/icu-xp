@@ -34,10 +34,6 @@ tt{
             "$",
             "АКШ доллары",
         }
-        XXX{
-            "XXX",
-            "билгесез валюта",
-        }
     }
     Currencies%narrow{
         BRL{"R$"}
@@ -73,9 +69,6 @@ tt{
         }
         USD{
             other{"АКШ доллары"}
-        }
-        XXX{
-            other{"(билгесез валюта)"}
         }
     }
     CurrencyUnitPatterns{

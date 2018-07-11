@@ -74,17 +74,9 @@ xog{
             "£",
             "Pawunda ya Bungereza",
         }
-        GHC{
-            "GHC",
-            "Sedi ya Gana",
-        }
         GMD{
             "GMD",
             "Dalasi ya Gambya",
-        }
-        GNS{
-            "GNS",
-            "Faranga ya Gini",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ xog{
             "MGA",
             "Faranga ey’eMalagase",
         }
-        MRO{
-            "MRO",
-            "Wugwiya ey’eMawritenya (1973–2017)",
-        }
         MRU{
             "MRU",
             "Wugwiya ey’eMawritenya",
@@ -137,10 +125,6 @@ xog{
         MWK{
             "MWK",
             "Kwaca ey’eMalawi",
-        }
-        MZM{
-            "MZM",
-            "Metikaali ey’eMozambiiki",
         }
         NGN{
             "NGN",
@@ -162,10 +146,6 @@ xog{
             "SDG",
             "Dinaali ey’eSudaani",
         }
-        SDP{
-            "SDP",
-            "Pawunda ey’eSudaani",
-        }
         SHP{
             "SHP",
             "Pawunda ey’eSenti Herena",
@@ -177,10 +157,6 @@ xog{
         SOS{
             "SOS",
             "Silingi ey’eSomaliya",
-        }
-        STD{
-            "STD",
-            "Dobura ey’eSantome ne Purincipe (1977–2017)",
         }
         STN{
             "STN",
@@ -218,17 +194,9 @@ xog{
             "ZAR",
             "Randi ey’eSawusafirika",
         }
-        ZMK{
-            "ZMK",
-            "Kwaca ey’eZambya (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Kwaca ey’eZambya",
-        }
-        ZWD{
-            "ZWD",
-            "Doola ey’eZimbabwe",
         }
     }
     Version{"2.1.39.11"}

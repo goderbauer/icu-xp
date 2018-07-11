@@ -98,10 +98,6 @@ ms{
             "BYN",
             "Rubel Belarus baharu",
         }
-        BYR{
-            "BYR",
-            "Rubel Belarus (2000–2016)",
-        }
         BZD{
             "BZD",
             "Dolar Belize",
@@ -121,10 +117,6 @@ ms{
         CLP{
             "CLP",
             "Peso Chile",
-        }
-        CNH{
-            "CNH",
-            "Yuan China (luar pesisir)",
         }
         CNY{
             "CN¥",
@@ -338,14 +330,6 @@ ms{
             "LSL",
             "Loti Lesotho",
         }
-        LTL{
-            "LTL",
-            "Litas Lithuania",
-        }
-        LVL{
-            "LVL",
-            "Lats Latvia",
-        }
         LYD{
             "LYD",
             "Dinar Libya",
@@ -377,10 +361,6 @@ ms{
         MOP{
             "MOP",
             "Pataca Macau",
-        }
-        MRO{
-            "MRO",
-            "Ouguiya Mauritania (1973–2017)",
         }
         MRU{
             "MRU",
@@ -530,10 +510,6 @@ ms{
             "SSP",
             "Paun Sudan selatan",
         }
-        STD{
-            "STD",
-            "Dobra Sao Tome dan Principe (1977–2017)",
-        }
         STN{
             "STN",
             "Dobra Sao Tome dan Principe",
@@ -634,10 +610,6 @@ ms{
             "CFPF",
             "Franc CFP",
         }
-        XXX{
-            "XXX",
-            "Mata Wang Tidak Diketahui",
-        }
         YER{
             "YER",
             "Rial Yaman",
@@ -645,10 +617,6 @@ ms{
         ZAR{
             "ZAR",
             "Rand Afrika Selatan",
-        }
-        ZMK{
-            "ZMK",
-            "Kwacha Zambia (1968–2012)",
         }
         ZMW{
             "ZMW",
@@ -751,9 +719,6 @@ ms{
         ZAR{"R"}
         ZMW{"ZK"}
     }
-    Currencies%variant{
-        TRY{"TL"}
-    }
     CurrencyPlurals{
         AED{
             other{"Dirham UAE"}
@@ -827,9 +792,6 @@ ms{
         BYN{
             other{"rubel lama Belarus"}
         }
-        BYR{
-            other{"Rubel Belarus"}
-        }
         BZD{
             other{"Dolar Belize"}
         }
@@ -844,9 +806,6 @@ ms{
         }
         CLP{
             other{"Peso Chile"}
-        }
-        CNH{
-            other{"Yuan China (luar pesisir)"}
         }
         CNY{
             other{"Yuan Cina"}
@@ -1004,12 +963,6 @@ ms{
         LRD{
             other{"Dolar Liberia"}
         }
-        LTL{
-            other{"Litas Lithuania"}
-        }
-        LVL{
-            other{"Lats Latvia"}
-        }
         LYD{
             other{"Dinar Libya"}
         }
@@ -1033,9 +986,6 @@ ms{
         }
         MOP{
             other{"Pataca Macau"}
-        }
-        MRO{
-            other{"Ouguiya Mauritania (1973–2017)"}
         }
         MRU{
             other{"Ouguiya Mauritania"}
@@ -1148,9 +1098,6 @@ ms{
         SSP{
             other{"Paun Sudan selatan"}
         }
-        STD{
-            other{"Dobra Sao Tome dan Principe (1977–2017)"}
-        }
         STN{
             other{"Dobra Sao Tome dan Principe"}
         }
@@ -1225,9 +1172,6 @@ ms{
         }
         XPF{
             other{"Franc CFP"}
-        }
-        XXX{
-            other{"(mata wang tidak diketahui)"}
         }
         YER{
             other{"Rial Yaman"}

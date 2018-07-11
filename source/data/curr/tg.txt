@@ -38,10 +38,6 @@ tg{
             "$",
             "Доллари ИМА",
         }
-        XXX{
-            "XXX",
-            "Асъори номаълум",
-        }
     }
     Currencies%narrow{
         BRL{"R$"}
@@ -80,9 +76,6 @@ tg{
         }
         USD{
             other{"доллари ИМА"}
-        }
-        XXX{
-            other{"(асъори номаълум)"}
         }
     }
     CurrencyUnitPatterns{

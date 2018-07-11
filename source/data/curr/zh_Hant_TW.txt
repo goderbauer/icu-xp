@@ -4,5 +4,4 @@
  * generated alias target
  */
 zh_Hant_TW{
-    ___{""}
 }

@@ -98,10 +98,6 @@ fo{
             "BYN",
             "Hvítarussland ruble",
         }
-        BYR{
-            "BYR",
-            "Hvítarussland ruble (2000–2016)",
-        }
         BZD{
             "BZD",
             "Belis dollari",
@@ -121,10 +117,6 @@ fo{
         CLP{
             "CLP",
             "Kili peso",
-        }
-        CNH{
-            "CNH",
-            "kinesiskur yuan (úr landi)",
         }
         CNY{
             "CN¥",
@@ -366,10 +358,6 @@ fo{
             "MOP",
             "Makao pataca",
         }
-        MRO{
-            "MRO",
-            "Móritania ouguiya (1973–2017)",
-        }
         MRU{
             "MRU",
             "Móritania ouguiya",
@@ -518,10 +506,6 @@ fo{
             "SSP",
             "Suðursudan pund",
         }
-        STD{
-            "STD",
-            "Sao Tome & Prinsipi dobra (1977–2017)",
-        }
         STN{
             "STN",
             "Sao Tome & Prinsipi dobra",
@@ -610,14 +594,6 @@ fo{
             "FCFA",
             "Miðafrika CFA frankur",
         }
-        XAG{
-            "XAG",
-            "unse sølv",
-        }
-        XAU{
-            "XAU",
-            "unse guld",
-        }
         XCD{
             "EC$",
             "Eystur Karibia dollari",
@@ -626,21 +602,9 @@ fo{
             "CFA",
             "Vesturafrika CFA frankur",
         }
-        XPD{
-            "XPD",
-            "unse palladium",
-        }
         XPF{
             "CFPF",
             "CFP frankur",
-        }
-        XPT{
-            "XPT",
-            "unse platin",
-        }
-        XXX{
-            "XXX",
-            "ókent gjaldoyra",
         }
         YER{
             "YER",
@@ -751,9 +715,6 @@ fo{
         ZAR{"R"}
         ZMW{"ZK"}
     }
-    Currencies%variant{
-        TRY{"TL"}
-    }
     CurrencyPlurals{
         AED{
             one{"Sameindu Emirríkini dirham"}
@@ -851,10 +812,6 @@ fo{
             one{"Hvítarussland ruble"}
             other{"Hvítarussland ruble"}
         }
-        BYR{
-            one{"Hvítarussland ruble (2000–2016)"}
-            other{"Hvítarussland ruble (2000–2016)"}
-        }
         BZD{
             one{"Belis dollari"}
             other{"Belis dollarar"}
@@ -874,10 +831,6 @@ fo{
         CLP{
             one{"Kili peso"}
             other{"Kili peso"}
-        }
-        CNH{
-            one{"kinesiskur yuan (úr landi)"}
-            other{"kinesiskur yuan (úr landi)"}
         }
         CNY{
             one{"kinesiskur yuan"}
@@ -1119,10 +1072,6 @@ fo{
             one{"Makao pataca"}
             other{"Makao pataca"}
         }
-        MRO{
-            one{"Móritania ouguiya (1973–2017)"}
-            other{"Móritania ouguiya (1973–2017)"}
-        }
         MRU{
             one{"Móritania ouguiya"}
             other{"Móritania ouguiya"}
@@ -1271,10 +1220,6 @@ fo{
             one{"Suðursudan pund"}
             other{"Suðursudan pund"}
         }
-        STD{
-            one{"Sao Tome & Prinsipi dobra (1977–2017)"}
-            other{"Sao Tome & Prinsipi dobra (1977–2017)"}
-        }
         STN{
             one{"Sao Tome & Prinsipi dobra"}
             other{"Sao Tome & Prinsipi dobra"}
@@ -1363,14 +1308,6 @@ fo{
             one{"Miðafrika CFA frankur"}
             other{"Miðafrika CFA frankar"}
         }
-        XAG{
-            one{"unse sølv"}
-            other{"unse sølv"}
-        }
-        XAU{
-            one{"unse guld"}
-            other{"unse guld"}
-        }
         XCD{
             one{"Eystur Karibia dollari"}
             other{"Eystur Karibia dollarar"}
@@ -1379,21 +1316,9 @@ fo{
             one{"Vesturafrika CFA frankur"}
             other{"Vesturafrika CFA frankar"}
         }
-        XPD{
-            one{"unse palladium"}
-            other{"unse palladium"}
-        }
         XPF{
             one{"CFP frankur"}
             other{"CFP frankar"}
-        }
-        XPT{
-            one{"unse platin"}
-            other{"unse platin"}
-        }
-        XXX{
-            one{"(ókent gjaldoyra)"}
-            other{"(ókent gjaldoyra)"}
         }
         YER{
             one{"Jemen rial"}

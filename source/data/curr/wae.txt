@@ -34,10 +34,6 @@ wae{
             "$",
             "Dollar",
         }
-        XXX{
-            "XXX",
-            "Unbekannti Wãrig",
-        }
     }
     CurrencyPlurals{
         BRL{
@@ -71,10 +67,6 @@ wae{
         USD{
             one{"Dollar"}
             other{"Dollar"}
-        }
-        XXX{
-            one{"Unbekannti Wãrig"}
-            other{"Unbekannti Wãrig"}
         }
     }
     CurrencyUnitPatterns{

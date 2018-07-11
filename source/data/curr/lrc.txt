@@ -38,10 +38,6 @@ lrc{
             "US$",
             "USD",
         }
-        XXX{
-            "XXX",
-            "پیل نادیار",
-        }
     }
     Currencies%narrow{
         BRL{"R$"}
@@ -77,9 +73,6 @@ lrc{
         }
         USD{
             other{"USD"}
-        }
-        XXX{
-            other{"پیل نادیار"}
         }
     }
     Version{"2.1.38.69"}

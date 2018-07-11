@@ -4,5 +4,4 @@
  * generated alias target
  */
 nb_NO{
-    ___{""}
 }

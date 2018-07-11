@@ -4,5 +4,4 @@
  * generated alias target
  */
 yue_Hans_CN{
-    ___{""}
 }

@@ -74,17 +74,9 @@ bas{
             "£",
             "Stɛrlìŋ ŋgìsì",
         }
-        GHC{
-            "GHC",
-            "Sèdi gānà",
-        }
         GMD{
             "GMD",
             "Dalasì gambìà",
-        }
-        GNS{
-            "GNS",
-            "Frǎŋ gìnê",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ bas{
             "MGA",
             "Frǎŋ màlàgasì",
         }
-        MRO{
-            "MRO",
-            "Ùgwiya mòrìtanìa (1973–2017)",
-        }
         MRU{
             "MRU",
             "Ùgwiya mòrìtanìa",
@@ -137,10 +125,6 @@ bas{
         MWK{
             "MWK",
             "Kwaca màlawì",
-        }
-        MZM{
-            "MZM",
-            "Mètìkal mòsàmbîk",
         }
         NAD{
             "NAD",
@@ -166,10 +150,6 @@ bas{
             "SDG",
             "Dìnâr sùdân",
         }
-        SDP{
-            "SDP",
-            "Paùnd sùdân",
-        }
         SHP{
             "SHP",
             "Paùnd hèlenà",
@@ -181,10 +161,6 @@ bas{
         SOS{
             "SOS",
             "Silîŋ sòmàli",
-        }
-        STD{
-            "STD",
-            "Dobrà sàotòme (1977–2017)",
         }
         STN{
             "STN",
@@ -222,17 +198,9 @@ bas{
             "ZAR",
             "Rân àfrǐkàsɔ̀",
         }
-        ZMK{
-            "ZMK",
-            "Kwàca sàmbià (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Kwàca sàmbià",
-        }
-        ZWD{
-            "ZWD",
-            "Dɔ̀lâr sìmbàbwê",
         }
     }
     Version{"2.1.39.11"}

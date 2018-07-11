@@ -70,10 +70,6 @@ ak{
             "£",
             "Breten Pɔn",
         }
-        GHC{
-            "GHC",
-            "Ghana Sidi (1979–2007)",
-        }
         GHS{
             "GH₵",
             "Ghana Sidi",
@@ -81,10 +77,6 @@ ak{
         GMD{
             "GMD",
             "Gambia Dalasi",
-        }
-        GNS{
-            "GNS",
-            "Gini Frank",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ ak{
             "MGA",
             "Madagasi Frank",
         }
-        MRO{
-            "MRO",
-            "Mɔretenia Ouguiya (1973–2017)",
-        }
         MRU{
             "MRU",
             "Mɔretenia Ouguiya",
@@ -137,10 +125,6 @@ ak{
         MWK{
             "MWK",
             "Malawi Kwacha",
-        }
-        MZM{
-            "MZM",
-            "Mozambik Metical",
         }
         NAD{
             "NAD",
@@ -166,10 +150,6 @@ ak{
             "SDG",
             "Sudan Dina",
         }
-        SDP{
-            "SDP",
-            "Sudan Pɔn",
-        }
         SHP{
             "SHP",
             "St Helena Pɔn",
@@ -181,10 +161,6 @@ ak{
         SOS{
             "SOS",
             "Somailia Hyelen",
-        }
-        STD{
-            "STD",
-            "Sao Tome ne Principe Dobra (1977–2017)",
         }
         STN{
             "STN",
@@ -218,17 +194,9 @@ ak{
             "ZAR",
             "Afrika Anaafo Rand",
         }
-        ZMK{
-            "ZMK",
-            "Zambia Kwacha (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Zambia Kwacha",
-        }
-        ZWD{
-            "ZWD",
-            "Zimbabwe Dɔla",
         }
     }
     Version{"2.1.39.11"}

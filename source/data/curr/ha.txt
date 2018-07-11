@@ -74,17 +74,9 @@ ha{
             "£",
             "Fam kin Ingila",
         }
-        GHC{
-            "GHC",
-            "Cedi",
-        }
         GMD{
             "GMD",
             "Kuɗin Gambiya",
-        }
-        GNS{
-            "GNS",
-            "Kuɗin Gini",
         }
         INR{
             "₹",
@@ -122,10 +114,6 @@ ha{
             "MGA",
             "Kuɗin Madagaskar",
         }
-        MRO{
-            "MRO",
-            "Kuɗin Moritaniya (1973–2017)",
-        }
         MRU{
             "MRU",
             "Kuɗin Moritaniya",
@@ -137,10 +125,6 @@ ha{
         MWK{
             "MWK",
             "Kuɗin Malawi",
-        }
-        MZM{
-            "MZM",
-            "Kuɗin Mozambik",
         }
         NAD{
             "NAD",
@@ -178,10 +162,6 @@ ha{
             "SOS",
             "Sulen Somaliya",
         }
-        STD{
-            "STD",
-            "Kuɗin Sawo Tome da Paransip (1977–2017)",
-        }
         STN{
             "STN",
             "Kuɗin Sawo Tome da Paransip",
@@ -218,17 +198,9 @@ ha{
             "ZAR",
             "Kuɗin Afirka Ta Kudu",
         }
-        ZMK{
-            "ZMK",
-            "Kuɗin Zambiya (1968–2012)",
-        }
         ZMW{
             "ZMW",
             "Kuɗin Zambiya",
-        }
-        ZWD{
-            "ZWD",
-            "Dalar zimbabuwe",
         }
     }
     Version{"2.1.39.11"}

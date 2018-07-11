@@ -3,10 +3,6 @@
 es_MX{
     %%Parent{"es_419"}
     Currencies{
-        CNH{
-            "CNH",
-            "CNH",
-        }
         ERN{
             "ERN",
             "nakfa",
@@ -47,14 +43,6 @@ es_MX{
         BGN{
             other{"levas búlgaras"}
         }
-        CNH{
-            one{"CNH"}
-            other{"CNH"}
-        }
-        LVL{
-            one{"lats letón"}
-            other{"lats letones"}
-        }
         MYR{
             one{"ringit"}
             other{"ringits"}
@@ -70,9 +58,6 @@ es_MX{
         UZS{
             one{"sum"}
             other{"sums"}
-        }
-        XXX{
-            one{"(moneda desconocida)"}
         }
         ZMW{
             one{"kwacha zambiano"}

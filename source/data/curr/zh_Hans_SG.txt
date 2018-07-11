@@ -10,10 +10,6 @@ zh_Hans_SG{
             "$",
             "新加坡元",
         }
-        XAG{
-            "XAG",
-            "白银",
-        }
     }
     CurrencyPlurals{
         ANG{
