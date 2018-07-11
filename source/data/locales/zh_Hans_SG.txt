@@ -3,32 +3,6 @@
 zh_Hans_SG{
     Version{"2.1.38.39"}
     calendar{
-        chinese{
-            DateTimePatterns{
-                "zzzz ah:mm:ss",
-                "z ah:mm:ss",
-                "ah:mm:ss",
-                "ah:mm",
-                {
-                    "U年MMMd日EEEE",
-                    "hanidec",
-                }
-                {
-                    "U年MMMd日",
-                    "hanidec",
-                }
-                {
-                    "U年MMMd日",
-                    "hanidec",
-                }
-                "r/M/d",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-            }
-        }
         generic{
             DateTimePatterns{
                 "zzzz ah:mm:ss",
