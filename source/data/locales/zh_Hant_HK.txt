@@ -93,12 +93,6 @@ zh_Hant_HK{
     }
     Version{"2.1.39.11"}
     calendar{
-        buddhist{
-            availableFormats{
-                MEd{"M-d（E）"}
-                Md{"M-d"}
-            }
-        }
         chinese{
             DateTimePatterns{
                 "ah:mm:ss [zzzz]",

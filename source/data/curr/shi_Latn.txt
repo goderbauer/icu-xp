@@ -7,10 +7,6 @@ shi_Latn{
             "AED",
             "adrim n limarat",
         }
-        AOA{
-            "AOA",
-            "kwanza n angula",
-        }
         AUD{
             "A$",
             "adular n ustralya",
@@ -19,21 +15,9 @@ shi_Latn{
             "BHD",
             "adinar n bḥrayn",
         }
-        BIF{
-            "BIF",
-            "frank n burundi",
-        }
-        BWP{
-            "BWP",
-            "abula n butswana",
-        }
         CAD{
             "CA$",
             "adular n kanada",
-        }
-        CDF{
-            "CDF",
-            "frank n kungu",
         }
         CHF{
             "CHF",
@@ -43,14 +27,6 @@ shi_Latn{
             "CN¥",
             "ayan n ccinwa",
         }
-        CVE{
-            "CVE",
-            "iskudu n kabbirdi",
-        }
-        DJF{
-            "DJF",
-            "frank n djibuti",
-        }
         DZD{
             "DZD",
             "adinar n dzayr",
@@ -58,10 +34,6 @@ shi_Latn{
         EGP{
             "EGP",
             "ajnih n miṣṛ",
-        }
-        ERN{
-            "ERN",
-            "nafka n iritirya",
         }
         ETB{
             "ETB",
@@ -75,10 +47,6 @@ shi_Latn{
             "£",
             "ajnih astrlini n nngliz",
         }
-        GMD{
-            "GMD",
-            "dalasi n gambya",
-        }
         INR{
             "₹",
             "arubi n lhind",
@@ -87,121 +55,25 @@ shi_Latn{
             "JP¥",
             "ayan n lyaban",
         }
-        KES{
-            "KES",
-            "acilin n kinya",
-        }
-        KMF{
-            "KMF",
-            "frank n qumuṛ",
-        }
-        LRD{
-            "LRD",
-            "adular n libirya",
-        }
-        LSL{
-            "LSL",
-            "luti n liṣuṭu",
-        }
-        LYD{
-            "LYD",
-            "adinar n libya",
-        }
         MAD{
             "MAD",
             "adrim n lmɣrib",
-        }
-        MGA{
-            "MGA",
-            "frank n madaɣacqar",
-        }
-        MRU{
-            "MRU",
-            "uqiyya n muṛiṭanya",
-        }
-        MUR{
-            "MUR",
-            "arubi n muris",
-        }
-        MWK{
-            "MWK",
-            "kwaca n malawi",
-        }
-        NAD{
-            "NAD",
-            "adular n namibya",
         }
         NGN{
             "NGN",
             "nayra n nijirya",
         }
-        RWF{
-            "RWF",
-            "afrank n rwanda",
-        }
         SAR{
             "SAR",
             "aryal n ssaɛudiya",
-        }
-        SCR{
-            "SCR",
-            "arubi n ssicil",
-        }
-        SDG{
-            "SDG",
-            "adinar n ssudan",
-        }
-        SHP{
-            "SHP",
-            "ajnih n santilin",
-        }
-        SLL{
-            "SLL",
-            "liyun",
-        }
-        SOS{
-            "SOS",
-            "acilin n ṣṣumal",
-        }
-        STN{
-            "STN",
-            "adubra n sanṭumi",
-        }
-        SZL{
-            "SZL",
-            "lilanjini",
-        }
-        TND{
-            "TND",
-            "adinar n tuns",
-        }
-        TZS{
-            "TZS",
-            "acilin n ṭanẓanya",
-        }
-        UGX{
-            "UGX",
-            "acilin n uɣanda",
         }
         USD{
             "US$",
             "adular n iwunak imunn",
         }
-        XAF{
-            "FCFA",
-            "frank ṣifa",
-        }
-        XOF{
-            "CFA",
-            "frank ṣifa bisaw",
-        }
         ZAR{
             "ZAR",
             "arand n afriqya n iffus",
-        }
-        ZMW{
-            "ZMW",
-            "akwaca n zambya",
         }
     }
     Version{"2.1.39.11"}

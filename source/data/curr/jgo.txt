@@ -14,10 +14,6 @@ jgo{
             "US$",
             "Ndɔ́la-Amɛlîk",
         }
-        XAF{
-            "FCFA",
-            "Fɛlâŋ",
-        }
     }
     Version{"2.1.38.69"}
 }

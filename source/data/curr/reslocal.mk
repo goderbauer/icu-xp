@@ -27,7 +27,6 @@ CURR_SOURCE =\
  am.txt\
  ar.txt\
  bg.txt\
- bn.txt\
  ca.txt\
  cs.txt\
  da.txt\
@@ -36,12 +35,10 @@ CURR_SOURCE =\
  en.txt en_001.txt en_150.txt\
  en_AU.txt en_CA.txt en_GB.txt en_HK.txt en_IN.txt en_NG.txt en_NZ.txt en_SG.txt en_ZA.txt\
  es.txt es_419.txt es_AR.txt es_MX.txt es_US.txt\
- et.txt\
  fa.txt\
  fi.txt\
  fil.txt\
  fr.txt fr_CA.txt\
- gu.txt\
  he.txt\
  hi.txt\
  hr.txt\
@@ -49,13 +46,9 @@ CURR_SOURCE =\
  id.txt\
  it.txt\
  ja.txt\
- kn.txt\
  ko.txt\
  lt.txt\
  lv.txt\
- ml.txt\
- mr.txt\
- ms.txt\
  nb.txt\
  nl.txt\
  pl.txt\
@@ -67,8 +60,6 @@ CURR_SOURCE =\
  sr.txt\
  sv.txt\
  sw.txt\
- ta.txt\
- te.txt\
  th.txt\
  tr.txt\
  uk.txt\

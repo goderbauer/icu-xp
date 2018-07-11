@@ -3,10 +3,6 @@
 pt_ST{
     %%Parent{"pt_PT"}
     Currencies{
-        STN{
-            "Db",
-            "São Tomé & Príncipe Dobra (2018)",
-        }
     }
     Version{"2.1.39.11"}
 }

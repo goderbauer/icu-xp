@@ -18,14 +18,6 @@ mt{
             "AMD",
             "AMD",
         }
-        ANG{
-            "ANG",
-            "ANG",
-        }
-        AOA{
-            "AOA",
-            "AOA",
-        }
         ARS{
             "ARS",
             "ARS",
@@ -34,10 +26,6 @@ mt{
             "A$",
             "AUD",
         }
-        AWG{
-            "AWG",
-            "AWG",
-        }
         AZN{
             "AZN",
             "AZN",
@@ -45,10 +33,6 @@ mt{
         BAM{
             "BAM",
             "BAM",
-        }
-        BBD{
-            "BBD",
-            "BBD",
         }
         BDT{
             "BDT",
@@ -62,53 +46,21 @@ mt{
             "BHD",
             "BHD",
         }
-        BIF{
-            "BIF",
-            "BIF",
-        }
-        BMD{
-            "BMD",
-            "BMD",
-        }
         BND{
             "BND",
             "BND",
-        }
-        BOB{
-            "BOB",
-            "BOB",
         }
         BRL{
             "R$",
             "BRL",
         }
-        BSD{
-            "BSD",
-            "BSD",
-        }
-        BTN{
-            "BTN",
-            "BTN",
-        }
-        BWP{
-            "BWP",
-            "BWP",
-        }
         BYN{
             "BYN",
             "BYN",
         }
-        BZD{
-            "BZD",
-            "BZD",
-        }
         CAD{
             "CA$",
             "CAD",
-        }
-        CDF{
-            "CDF",
-            "CDF",
         }
         CHF{
             "CHF",
@@ -126,29 +78,9 @@ mt{
             "CRC",
             "CRC",
         }
-        CUC{
-            "CUC",
-            "CUC",
-        }
-        CUP{
-            "CUP",
-            "CUP",
-        }
-        CVE{
-            "CVE",
-            "CVE",
-        }
         CZK{
             "CZK",
             "CZK",
-        }
-        DJF{
-            "DJF",
-            "DJF",
-        }
-        DOP{
-            "DOP",
-            "DOP",
         }
         DZD{
             "DZD",
@@ -158,10 +90,6 @@ mt{
             "EGP",
             "EGP",
         }
-        ERN{
-            "ERN",
-            "ERN",
-        }
         ETB{
             "ETB",
             "ETB",
@@ -170,53 +98,13 @@ mt{
             "€",
             "ewro",
         }
-        FJD{
-            "FJD",
-            "FJD",
-        }
-        FKP{
-            "FKP",
-            "FKP",
-        }
         GEL{
             "GEL",
             "GEL",
         }
-        GHS{
-            "GHS",
-            "GHS",
-        }
-        GIP{
-            "GIP",
-            "GIP",
-        }
-        GMD{
-            "GMD",
-            "GMD",
-        }
-        GNF{
-            "GNF",
-            "GNF",
-        }
-        GTQ{
-            "GTQ",
-            "GTQ",
-        }
-        GYD{
-            "GYD",
-            "GYD",
-        }
-        HNL{
-            "HNL",
-            "HNL",
-        }
         HRK{
             "HRK",
             "HRK",
-        }
-        HTG{
-            "HTG",
-            "HTG",
         }
         HUF{
             "HUF",
@@ -242,18 +130,6 @@ mt{
             "IRR",
             "IRR",
         }
-        JMD{
-            "JMD",
-            "JMD",
-        }
-        JOD{
-            "JOD",
-            "JOD",
-        }
-        KES{
-            "KES",
-            "KES",
-        }
         KGS{
             "KGS",
             "KGS",
@@ -261,14 +137,6 @@ mt{
         KHR{
             "KHR",
             "KHR",
-        }
-        KMF{
-            "KMF",
-            "KMF",
-        }
-        KPW{
-            "KPW",
-            "KPW",
         }
         KRW{
             "₩",
@@ -278,10 +146,6 @@ mt{
             "KWD",
             "KWD",
         }
-        KYD{
-            "KYD",
-            "KYD",
-        }
         KZT{
             "KZT",
             "KZT",
@@ -290,21 +154,9 @@ mt{
             "LAK",
             "LAK",
         }
-        LBP{
-            "LBP",
-            "LBP",
-        }
         LKR{
             "LKR",
             "LKR",
-        }
-        LRD{
-            "LRD",
-            "LRD",
-        }
-        LYD{
-            "LYD",
-            "LYD",
         }
         MAD{
             "MAD",
@@ -314,42 +166,6 @@ mt{
             "MDL",
             "MDL",
         }
-        MGA{
-            "MGA",
-            "MGA",
-        }
-        MKD{
-            "MKD",
-            "MKD",
-        }
-        MMK{
-            "MMK",
-            "MMK",
-        }
-        MNT{
-            "MNT",
-            "MNT",
-        }
-        MOP{
-            "MOP",
-            "MOP",
-        }
-        MRU{
-            "MRU",
-            "MRU",
-        }
-        MUR{
-            "MUR",
-            "MUR",
-        }
-        MVR{
-            "MVR",
-            "MVR",
-        }
-        MWK{
-            "MWK",
-            "MWK",
-        }
         MXN{
             "MX$",
             "MXN",
@@ -358,21 +174,9 @@ mt{
             "MYR",
             "MYR",
         }
-        MZN{
-            "MZN",
-            "MZN",
-        }
-        NAD{
-            "NAD",
-            "NAD",
-        }
         NGN{
             "NGN",
             "NGN",
-        }
-        NIO{
-            "NIO",
-            "NIO",
         }
         NPR{
             "NPR",
@@ -382,21 +186,9 @@ mt{
             "NZ$",
             "NZD",
         }
-        OMR{
-            "OMR",
-            "OMR",
-        }
-        PAB{
-            "PAB",
-            "PAB",
-        }
         PEN{
             "PEN",
             "PEN",
-        }
-        PGK{
-            "PGK",
-            "PGK",
         }
         PHP{
             "PHP",
@@ -409,10 +201,6 @@ mt{
         PLN{
             "PLN",
             "PLN",
-        }
-        PYG{
-            "PYG",
-            "PYG",
         }
         QAR{
             "QAR",
@@ -430,25 +218,9 @@ mt{
             "RUB",
             "RUB",
         }
-        RWF{
-            "RWF",
-            "RWF",
-        }
         SAR{
             "SAR",
             "SAR",
-        }
-        SBD{
-            "SBD",
-            "SBD",
-        }
-        SCR{
-            "SCR",
-            "SCR",
-        }
-        SDG{
-            "SDG",
-            "SDG",
         }
         SEK{
             "SEK",
@@ -458,38 +230,6 @@ mt{
             "SGD",
             "SGD",
         }
-        SHP{
-            "SHP",
-            "SHP",
-        }
-        SLL{
-            "SLL",
-            "SLL",
-        }
-        SOS{
-            "SOS",
-            "SOS",
-        }
-        SRD{
-            "SRD",
-            "SRD",
-        }
-        SSP{
-            "SSP",
-            "SSP",
-        }
-        STN{
-            "STN",
-            "STN",
-        }
-        SYP{
-            "SYP",
-            "SYP",
-        }
-        SZL{
-            "SZL",
-            "SZL",
-        }
         THB{
             "THB",
             "THB",
@@ -498,53 +238,21 @@ mt{
             "TJS",
             "TJS",
         }
-        TMT{
-            "TMT",
-            "TMT",
-        }
-        TND{
-            "TND",
-            "TND",
-        }
-        TOP{
-            "TOP",
-            "TOP",
-        }
         TRY{
             "TRY",
             "TRY",
-        }
-        TTD{
-            "TTD",
-            "TTD",
         }
         TWD{
             "NT$",
             "TWD",
         }
-        TZS{
-            "TZS",
-            "TZS",
-        }
         UAH{
             "UAH",
             "UAH",
         }
-        UGX{
-            "UGX",
-            "UGX",
-        }
         USD{
             "US$",
             "USD",
-        }
-        UYU{
-            "UYU",
-            "UYU",
-        }
-        UZS{
-            "UZS",
-            "UZS",
         }
         VEF{
             "VEF",
@@ -554,127 +262,53 @@ mt{
             "₫",
             "VND",
         }
-        VUV{
-            "VUV",
-            "VUV",
-        }
-        WST{
-            "WST",
-            "WST",
-        }
-        XAF{
-            "FCFA",
-            "XAF",
-        }
-        XCD{
-            "EC$",
-            "XCD",
-        }
-        XOF{
-            "CFA",
-            "XOF",
-        }
-        XPF{
-            "CFPF",
-            "XPF",
-        }
-        YER{
-            "YER",
-            "YER",
-        }
         ZAR{
             "ZAR",
             "ZAR",
         }
-        ZMW{
-            "ZMW",
-            "ZMW",
-        }
     }
     Currencies%narrow{
-        AOA{"Kz"}
         ARS{"$"}
         AUD{"$"}
         BAM{"KM"}
-        BBD{"$"}
         BDT{"৳"}
-        BMD{"$"}
         BND{"$"}
-        BOB{"Bs"}
         BRL{"R$"}
-        BSD{"$"}
-        BWP{"P"}
         BYN{"р."}
-        BZD{"$"}
         CLP{"$"}
         COP{"$"}
         CRC{"₡"}
-        CUC{"$"}
-        CUP{"$"}
         CZK{"Kč"}
-        DOP{"$"}
         EGP{"E£"}
         EUR{"€"}
-        FJD{"$"}
-        FKP{"£"}
         GEL{"₾"}
-        GIP{"£"}
-        GNF{"FG"}
-        GTQ{"Q"}
-        GYD{"$"}
-        HNL{"L"}
         HRK{"kn"}
         HUF{"Ft"}
         IDR{"Rp"}
         ILS{"₪"}
         INR{"₹"}
-        JMD{"$"}
         KHR{"៛"}
-        KMF{"CF"}
-        KPW{"₩"}
         KRW{"₩"}
-        KYD{"$"}
         KZT{"₸"}
         LAK{"₭"}
-        LBP{"L£"}
         LKR{"Rs"}
-        LRD{"$"}
-        MGA{"Ar"}
-        MMK{"K"}
-        MNT{"₮"}
-        MUR{"Rs"}
         MXN{"$"}
         MYR{"RM"}
-        NAD{"$"}
         NGN{"₦"}
-        NIO{"C$"}
         NPR{"Rs"}
         NZD{"$"}
         PHP{"₱"}
         PKR{"Rs"}
         PLN{"zł"}
-        PYG{"₲"}
         RUB{"₽"}
-        RWF{"RF"}
-        SBD{"$"}
         SEK{"kr"}
         SGD{"$"}
-        SHP{"£"}
-        SRD{"$"}
-        SSP{"£"}
-        STN{"Db"}
-        SYP{"£"}
         THB{"฿"}
-        TOP{"T$"}
         TRY{"₺"}
-        TTD{"$"}
         TWD{"$"}
         UAH{"₴"}
         USD{"$"}
-        UYU{"$"}
         VND{"₫"}
-        XCD{"$"}
-        ZMW{"ZK"}
     }
     CurrencyPlurals{
         AED{
@@ -701,18 +335,6 @@ mt{
             one{"AMD"}
             other{"AMD"}
         }
-        ANG{
-            few{"ANG"}
-            many{"ANG"}
-            one{"ANG"}
-            other{"ANG"}
-        }
-        AOA{
-            few{"AOA"}
-            many{"AOA"}
-            one{"AOA"}
-            other{"AOA"}
-        }
         ARS{
             few{"ARS"}
             many{"ARS"}
@@ -725,12 +347,6 @@ mt{
             one{"AUD"}
             other{"AUD"}
         }
-        AWG{
-            few{"AWG"}
-            many{"AWG"}
-            one{"AWG"}
-            other{"AWG"}
-        }
         AZN{
             few{"AZN"}
             many{"AZN"}
@@ -742,12 +358,6 @@ mt{
             many{"BAM"}
             one{"BAM"}
             other{"BAM"}
-        }
-        BBD{
-            few{"BBD"}
-            many{"BBD"}
-            one{"BBD"}
-            other{"BBD"}
         }
         BDT{
             few{"BDT"}
@@ -767,29 +377,11 @@ mt{
             one{"BHD"}
             other{"BHD"}
         }
-        BIF{
-            few{"BIF"}
-            many{"BIF"}
-            one{"BIF"}
-            other{"BIF"}
-        }
-        BMD{
-            few{"BMD"}
-            many{"BMD"}
-            one{"BMD"}
-            other{"BMD"}
-        }
         BND{
             few{"BND"}
             many{"BND"}
             one{"BND"}
             other{"BND"}
-        }
-        BOB{
-            few{"BOB"}
-            many{"BOB"}
-            one{"BOB"}
-            other{"BOB"}
         }
         BRL{
             few{"BRL"}
@@ -797,47 +389,17 @@ mt{
             one{"BRL"}
             other{"BRL"}
         }
-        BSD{
-            few{"BSD"}
-            many{"BSD"}
-            one{"BSD"}
-            other{"BSD"}
-        }
-        BTN{
-            few{"BTN"}
-            many{"BTN"}
-            one{"BTN"}
-            other{"BTN"}
-        }
-        BWP{
-            few{"BWP"}
-            many{"BWP"}
-            one{"BWP"}
-            other{"BWP"}
-        }
         BYN{
             few{"BYN"}
             many{"BYN"}
             one{"BYN"}
             other{"BYN"}
         }
-        BZD{
-            few{"BZD"}
-            many{"BZD"}
-            one{"BZD"}
-            other{"BZD"}
-        }
         CAD{
             few{"CAD"}
             many{"CAD"}
             one{"CAD"}
             other{"CAD"}
-        }
-        CDF{
-            few{"CDF"}
-            many{"CDF"}
-            one{"CDF"}
-            other{"CDF"}
         }
         CHF{
             few{"CHF"}
@@ -863,41 +425,11 @@ mt{
             one{"CRC"}
             other{"CRC"}
         }
-        CUC{
-            few{"CUC"}
-            many{"CUC"}
-            one{"CUC"}
-            other{"CUC"}
-        }
-        CUP{
-            few{"CUP"}
-            many{"CUP"}
-            one{"CUP"}
-            other{"CUP"}
-        }
-        CVE{
-            few{"CVE"}
-            many{"CVE"}
-            one{"CVE"}
-            other{"CVE"}
-        }
         CZK{
             few{"CZK"}
             many{"CZK"}
             one{"CZK"}
             other{"CZK"}
-        }
-        DJF{
-            few{"DJF"}
-            many{"DJF"}
-            one{"DJF"}
-            other{"DJF"}
-        }
-        DOP{
-            few{"DOP"}
-            many{"DOP"}
-            one{"DOP"}
-            other{"DOP"}
         }
         DZD{
             few{"DZD"}
@@ -911,12 +443,6 @@ mt{
             one{"EGP"}
             other{"EGP"}
         }
-        ERN{
-            few{"ERN"}
-            many{"ERN"}
-            one{"ERN"}
-            other{"ERN"}
-        }
         ETB{
             few{"ETB"}
             many{"ETB"}
@@ -929,77 +455,17 @@ mt{
             one{"ewro"}
             other{"ewro"}
         }
-        FJD{
-            few{"FJD"}
-            many{"FJD"}
-            one{"FJD"}
-            other{"FJD"}
-        }
-        FKP{
-            few{"FKP"}
-            many{"FKP"}
-            one{"FKP"}
-            other{"FKP"}
-        }
         GEL{
             few{"GEL"}
             many{"GEL"}
             one{"GEL"}
             other{"GEL"}
         }
-        GHS{
-            few{"GHS"}
-            many{"GHS"}
-            one{"GHS"}
-            other{"GHS"}
-        }
-        GIP{
-            few{"GIP"}
-            many{"GIP"}
-            one{"GIP"}
-            other{"GIP"}
-        }
-        GMD{
-            few{"GMD"}
-            many{"GMD"}
-            one{"GMD"}
-            other{"GMD"}
-        }
-        GNF{
-            few{"GNF"}
-            many{"GNF"}
-            one{"GNF"}
-            other{"GNF"}
-        }
-        GTQ{
-            few{"GTQ"}
-            many{"GTQ"}
-            one{"GTQ"}
-            other{"GTQ"}
-        }
-        GYD{
-            few{"GYD"}
-            many{"GYD"}
-            one{"GYD"}
-            other{"GYD"}
-        }
-        HNL{
-            few{"HNL"}
-            many{"HNL"}
-            one{"HNL"}
-            other{"HNL"}
-        }
         HRK{
             few{"HRK"}
             many{"HRK"}
             one{"HRK"}
             other{"HRK"}
-        }
-        HTG{
-            few{"HTG"}
-            many{"HTG"}
-            one{"HTG"}
-            other{"HTG"}
         }
         HUF{
             few{"HUF"}
@@ -1037,24 +503,6 @@ mt{
             one{"IRR"}
             other{"IRR"}
         }
-        JMD{
-            few{"JMD"}
-            many{"JMD"}
-            one{"JMD"}
-            other{"JMD"}
-        }
-        JOD{
-            few{"JOD"}
-            many{"JOD"}
-            one{"JOD"}
-            other{"JOD"}
-        }
-        KES{
-            few{"KES"}
-            many{"KES"}
-            one{"KES"}
-            other{"KES"}
-        }
         KGS{
             few{"KGS"}
             many{"KGS"}
@@ -1066,18 +514,6 @@ mt{
             many{"KHR"}
             one{"KHR"}
             other{"KHR"}
-        }
-        KMF{
-            few{"KMF"}
-            many{"KMF"}
-            one{"KMF"}
-            other{"KMF"}
-        }
-        KPW{
-            few{"KPW"}
-            many{"KPW"}
-            one{"KPW"}
-            other{"KPW"}
         }
         KRW{
             few{"KRW"}
@@ -1091,12 +527,6 @@ mt{
             one{"KWD"}
             other{"KWD"}
         }
-        KYD{
-            few{"KYD"}
-            many{"KYD"}
-            one{"KYD"}
-            other{"KYD"}
-        }
         KZT{
             few{"KZT"}
             many{"KZT"}
@@ -1109,29 +539,11 @@ mt{
             one{"LAK"}
             other{"LAK"}
         }
-        LBP{
-            few{"LBP"}
-            many{"LBP"}
-            one{"LBP"}
-            other{"LBP"}
-        }
         LKR{
             few{"LKR"}
             many{"LKR"}
             one{"LKR"}
             other{"LKR"}
-        }
-        LRD{
-            few{"LRD"}
-            many{"LRD"}
-            one{"LRD"}
-            other{"LRD"}
-        }
-        LYD{
-            few{"LYD"}
-            many{"LYD"}
-            one{"LYD"}
-            other{"LYD"}
         }
         MAD{
             few{"MAD"}
@@ -1145,60 +557,6 @@ mt{
             one{"MDL"}
             other{"MDL"}
         }
-        MGA{
-            few{"MGA"}
-            many{"MGA"}
-            one{"MGA"}
-            other{"MGA"}
-        }
-        MKD{
-            few{"MKD"}
-            many{"MKD"}
-            one{"MKD"}
-            other{"MKD"}
-        }
-        MMK{
-            few{"MMK"}
-            many{"MMK"}
-            one{"MMK"}
-            other{"MMK"}
-        }
-        MNT{
-            few{"MNT"}
-            many{"MNT"}
-            one{"MNT"}
-            other{"MNT"}
-        }
-        MOP{
-            few{"MOP"}
-            many{"MOP"}
-            one{"MOP"}
-            other{"MOP"}
-        }
-        MRU{
-            few{"MRU"}
-            many{"MRU"}
-            one{"MRU"}
-            other{"MRU"}
-        }
-        MUR{
-            few{"MUR"}
-            many{"MUR"}
-            one{"MUR"}
-            other{"MUR"}
-        }
-        MVR{
-            few{"MVR"}
-            many{"MVR"}
-            one{"MVR"}
-            other{"MVR"}
-        }
-        MWK{
-            few{"MWK"}
-            many{"MWK"}
-            one{"MWK"}
-            other{"MWK"}
-        }
         MXN{
             few{"MXN"}
             many{"MXN"}
@@ -1211,29 +569,11 @@ mt{
             one{"MYR"}
             other{"MYR"}
         }
-        MZN{
-            few{"MZN"}
-            many{"MZN"}
-            one{"MZN"}
-            other{"MZN"}
-        }
-        NAD{
-            few{"NAD"}
-            many{"NAD"}
-            one{"NAD"}
-            other{"NAD"}
-        }
         NGN{
             few{"NGN"}
             many{"NGN"}
             one{"NGN"}
             other{"NGN"}
-        }
-        NIO{
-            few{"NIO"}
-            many{"NIO"}
-            one{"NIO"}
-            other{"NIO"}
         }
         NPR{
             few{"NPR"}
@@ -1247,29 +587,11 @@ mt{
             one{"NZD"}
             other{"NZD"}
         }
-        OMR{
-            few{"OMR"}
-            many{"OMR"}
-            one{"OMR"}
-            other{"OMR"}
-        }
-        PAB{
-            few{"PAB"}
-            many{"PAB"}
-            one{"PAB"}
-            other{"PAB"}
-        }
         PEN{
             few{"PEN"}
             many{"PEN"}
             one{"PEN"}
             other{"PEN"}
-        }
-        PGK{
-            few{"PGK"}
-            many{"PGK"}
-            one{"PGK"}
-            other{"PGK"}
         }
         PHP{
             few{"PHP"}
@@ -1288,12 +610,6 @@ mt{
             many{"PLN"}
             one{"PLN"}
             other{"PLN"}
-        }
-        PYG{
-            few{"PYG"}
-            many{"PYG"}
-            one{"PYG"}
-            other{"PYG"}
         }
         QAR{
             few{"QAR"}
@@ -1319,89 +635,17 @@ mt{
             one{"RUB"}
             other{"RUB"}
         }
-        RWF{
-            few{"RWF"}
-            many{"RWF"}
-            one{"RWF"}
-            other{"RWF"}
-        }
         SAR{
             few{"SAR"}
             many{"SAR"}
             one{"SAR"}
             other{"SAR"}
         }
-        SBD{
-            few{"SBD"}
-            many{"SBD"}
-            one{"SBD"}
-            other{"SBD"}
-        }
-        SCR{
-            few{"SCR"}
-            many{"SCR"}
-            one{"SCR"}
-            other{"SCR"}
-        }
-        SDG{
-            few{"SDG"}
-            many{"SDG"}
-            one{"SDG"}
-            other{"SDG"}
-        }
         SGD{
             few{"SGD"}
             many{"SGD"}
             one{"SGD"}
             other{"SGD"}
-        }
-        SHP{
-            few{"SHP"}
-            many{"SHP"}
-            one{"SHP"}
-            other{"SHP"}
-        }
-        SLL{
-            few{"SLL"}
-            many{"SLL"}
-            one{"SLL"}
-            other{"SLL"}
-        }
-        SOS{
-            few{"SOS"}
-            many{"SOS"}
-            one{"SOS"}
-            other{"SOS"}
-        }
-        SRD{
-            few{"SRD"}
-            many{"SRD"}
-            one{"SRD"}
-            other{"SRD"}
-        }
-        SSP{
-            few{"SSP"}
-            many{"SSP"}
-            one{"SSP"}
-            other{"SSP"}
-        }
-        STN{
-            few{"STN"}
-            many{"STN"}
-            one{"STN"}
-            other{"STN"}
-        }
-        SYP{
-            few{"SYP"}
-            many{"SYP"}
-            one{"SYP"}
-            other{"SYP"}
-        }
-        SZL{
-            few{"SZL"}
-            many{"SZL"}
-            one{"SZL"}
-            other{"SZL"}
         }
         THB{
             few{"THB"}
@@ -1415,35 +659,11 @@ mt{
             one{"TJS"}
             other{"TJS"}
         }
-        TMT{
-            few{"TMT"}
-            many{"TMT"}
-            one{"TMT"}
-            other{"TMT"}
-        }
-        TND{
-            few{"TND"}
-            many{"TND"}
-            one{"TND"}
-            other{"TND"}
-        }
-        TOP{
-            few{"TOP"}
-            many{"TOP"}
-            one{"TOP"}
-            other{"TOP"}
-        }
         TRY{
             few{"TRY"}
             many{"TRY"}
             one{"TRY"}
             other{"TRY"}
-        }
-        TTD{
-            few{"TTD"}
-            many{"TTD"}
-            one{"TTD"}
-            other{"TTD"}
         }
         TWD{
             few{"TWD"}
@@ -1451,41 +671,17 @@ mt{
             one{"TWD"}
             other{"TWD"}
         }
-        TZS{
-            few{"TZS"}
-            many{"TZS"}
-            one{"TZS"}
-            other{"TZS"}
-        }
         UAH{
             few{"UAH"}
             many{"UAH"}
             one{"UAH"}
             other{"UAH"}
         }
-        UGX{
-            few{"UGX"}
-            many{"UGX"}
-            one{"UGX"}
-            other{"UGX"}
-        }
         USD{
             few{"USD"}
             many{"USD"}
             one{"USD"}
             other{"USD"}
-        }
-        UYU{
-            few{"UYU"}
-            many{"UYU"}
-            one{"UYU"}
-            other{"UYU"}
-        }
-        UZS{
-            few{"UZS"}
-            many{"UZS"}
-            one{"UZS"}
-            other{"UZS"}
         }
         VEF{
             few{"VEF"}
@@ -1499,59 +695,11 @@ mt{
             one{"VND"}
             other{"VND"}
         }
-        VUV{
-            few{"VUV"}
-            many{"VUV"}
-            one{"VUV"}
-            other{"VUV"}
-        }
-        WST{
-            few{"WST"}
-            many{"WST"}
-            one{"WST"}
-            other{"WST"}
-        }
-        XAF{
-            few{"XAF"}
-            many{"XAF"}
-            one{"XAF"}
-            other{"XAF"}
-        }
-        XCD{
-            few{"XCD"}
-            many{"XCD"}
-            one{"XCD"}
-            other{"XCD"}
-        }
-        XOF{
-            few{"XOF"}
-            many{"XOF"}
-            one{"XOF"}
-            other{"XOF"}
-        }
-        XPF{
-            few{"XPF"}
-            many{"XPF"}
-            one{"XPF"}
-            other{"XPF"}
-        }
-        YER{
-            few{"YER"}
-            many{"YER"}
-            one{"YER"}
-            other{"YER"}
-        }
         ZAR{
             few{"ZAR"}
             many{"ZAR"}
             one{"ZAR"}
             other{"ZAR"}
-        }
-        ZMW{
-            few{"ZMW"}
-            many{"ZMW"}
-            one{"ZMW"}
-            other{"ZMW"}
         }
     }
     CurrencyUnitPatterns{

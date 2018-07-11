@@ -6,10 +6,6 @@ lg{
             "AED",
             "Diraamu eya Emireeti",
         }
-        AOA{
-            "AOA",
-            "Kwanza ey’Angola",
-        }
         AUD{
             "A$",
             "Doola ey’Awusiturelya",
@@ -18,21 +14,9 @@ lg{
             "BHD",
             "Dinaali ey’eBaareeni",
         }
-        BIF{
-            "BIF",
-            "Faranga ey’eburundi",
-        }
-        BWP{
-            "BWP",
-            "Pula ey’eBotiswana",
-        }
         CAD{
             "CA$",
             "Doola ey’eKanada",
-        }
-        CDF{
-            "CDF",
-            "Faranga ey’eKongo",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ lg{
             "CN¥",
             "Yuwani Reniminibi ey’eCayina",
         }
-        CVE{
-            "CVE",
-            "Esikudo ey’Keepu Veredi",
-        }
-        DJF{
-            "DJF",
-            "Faranga ey’eJjibuti",
-        }
         DZD{
             "DZD",
             "Dinaali ey’Aligerya",
@@ -57,10 +33,6 @@ lg{
         EGP{
             "EGP",
             "Pawundi ey’eMisiri",
-        }
-        ERN{
-            "ERN",
-            "Nakifa ey’Eritureya",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ lg{
             "£",
             "Pawundi ey’eBungereza",
         }
-        GMD{
-            "GMD",
-            "Dalasi ey’eGambya",
-        }
         INR{
             "₹",
             "Rupiya ey’eBuyindi",
@@ -86,121 +54,25 @@ lg{
             "JP¥",
             "Yeni ey’eJapani",
         }
-        KES{
-            "KES",
-            "Silingi ey’eKenya",
-        }
-        KMF{
-            "KMF",
-            "Faranga ey’eKomoro",
-        }
-        LRD{
-            "LRD",
-            "Doola ey’eLiberya",
-        }
-        LSL{
-            "LSL",
-            "Loti ey’eLesoso",
-        }
-        LYD{
-            "LYD",
-            "Dinaali ey’eLibya",
-        }
         MAD{
             "MAD",
             "Diraamu ey’eMoroko",
-        }
-        MGA{
-            "MGA",
-            "Faranga ey’eMalagase",
-        }
-        MRU{
-            "MRU",
-            "Wugwiya ey’eMawritenya",
-        }
-        MUR{
-            "MUR",
-            "Rupiya ey’eMawurisyasi",
-        }
-        MWK{
-            "MWK",
-            "Kwaca ey’eMalawi",
-        }
-        NAD{
-            "NAD",
-            "Doola ey’eNamibiya",
         }
         NGN{
             "NGN",
             "Nayira ey’eNayijerya",
         }
-        RWF{
-            "RWF",
-            "Faranga ey’eRwanda",
-        }
         SAR{
             "SAR",
             "Riyaali ey’eBuwarabu",
-        }
-        SCR{
-            "SCR",
-            "Rupiya ey’eSesere",
-        }
-        SDG{
-            "SDG",
-            "Dinaali ey’eSudaani",
-        }
-        SHP{
-            "SHP",
-            "Pawundi ey’eSenti Herena",
-        }
-        SLL{
-            "SLL",
-            "Lewone",
-        }
-        SOS{
-            "SOS",
-            "Silingi ey’eSomaliya",
-        }
-        STN{
-            "STN",
-            "Dobura ey’eSantome ne Purincipe",
-        }
-        SZL{
-            "SZL",
-            "Lilangeni",
-        }
-        TND{
-            "TND",
-            "Dinaali ey’eTunizya",
-        }
-        TZS{
-            "TZS",
-            "Silingi ey’eTanzaniya",
-        }
-        UGX{
-            "USh",
-            "Silingi eya Yuganda",
         }
         USD{
             "US$",
             "Doola ey’Amerika",
         }
-        XAF{
-            "FCFA",
-            "Faranga ey’omu Afirika eya wakati",
-        }
-        XOF{
-            "CFA",
-            "Faranga ey’omu Afirika ey’ebugwanjuba",
-        }
         ZAR{
             "ZAR",
             "Randi ey’eSawusafirika",
-        }
-        ZMW{
-            "ZMW",
-            "Kwaca ey’eZambya",
         }
     }
     Version{"2.1.39.11"}

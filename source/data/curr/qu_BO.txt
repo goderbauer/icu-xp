@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 qu_BO{
     Currencies{
-        BOB{
-            "Bs",
-            "BOB",
-        }
         PEN{
             "PEN",
             "PEN",

@@ -3,10 +3,6 @@
 en_SC{
     %%Parent{"en_001"}
     Currencies{
-        SCR{
-            "SR",
-            "Seychellois Rupee",
-        }
     }
     Version{"2.1.38.69"}
 }

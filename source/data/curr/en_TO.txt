@@ -3,10 +3,6 @@
 en_TO{
     %%Parent{"en_001"}
     Currencies{
-        TOP{
-            "T$",
-            "Tongan Paʻanga",
-        }
     }
     Version{"2.1.38.69"}
 }

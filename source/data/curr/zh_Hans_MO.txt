@@ -6,18 +6,8 @@ zh_Hans_MO{
             "CN¥",
             "人民币",
         }
-        MOP{
-            "MOP$",
-            "澳门币",
-        }
     }
     CurrencyPlurals{
-        ANG{
-            other{"荷兰安的列斯盾"}
-        }
-        NIO{
-            other{"尼加拉瓜科多巴"}
-        }
     }
     CurrencyUnitPatterns{
         other{"{0} {1}"}

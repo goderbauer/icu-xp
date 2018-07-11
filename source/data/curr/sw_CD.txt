@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 sw_CD{
     Currencies{
-        CDF{
-            "FC",
-            "Faranga ya Kongo",
-        }
         CNY{
             "CN¥",
             "Yuan Renminbi ya China",
@@ -17,26 +13,6 @@ sw_CD{
         JPY{
             "JP¥",
             "Sarafu ya Kijapani",
-        }
-        MGA{
-            "MGA",
-            "Ariary ya Bukini",
-        }
-        MRU{
-            "MRU",
-            "Ugwiya ya Moritania",
-        }
-        SCR{
-            "SCR",
-            "Rupia ya Shelisheli",
-        }
-        XAF{
-            "FCFA",
-            "Faranga CFA BEAC",
-        }
-        XOF{
-            "CFA",
-            "Faranga CFA BCEAO",
         }
     }
     Version{"2.1.39.11"}

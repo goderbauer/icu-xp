@@ -3,10 +3,6 @@
 es_BO{
     %%Parent{"es_419"}
     Currencies{
-        BOB{
-            "Bs",
-            "boliviano",
-        }
     }
     Version{"2.1.38.39"}
 }

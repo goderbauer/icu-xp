@@ -3,10 +3,6 @@
 es_HN{
     %%Parent{"es_419"}
     Currencies{
-        HNL{
-            "L",
-            "lempira hondureño",
-        }
     }
     Version{"2.1.38.39"}
 }

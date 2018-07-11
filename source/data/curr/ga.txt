@@ -18,14 +18,6 @@ ga{
             "AMD",
             "Dram na hAirméine",
         }
-        ANG{
-            "ANG",
-            "Gildear Aintillí na hÍsiltíre",
-        }
-        AOA{
-            "AOA",
-            "Kwanza Angóla",
-        }
         ARS{
             "ARS",
             "Peso na hAirgintíne",
@@ -34,10 +26,6 @@ ga{
             "A$",
             "Dollar na hAstráile",
         }
-        AWG{
-            "AWG",
-            "Flóirín Arúba",
-        }
         AZN{
             "AZN",
             "Manat na hAsarbaiseáine",
@@ -45,10 +33,6 @@ ga{
         BAM{
             "BAM",
             "Marg Inmhalartaithe na Boisnia-Heirseagaivéine",
-        }
-        BBD{
-            "BBD",
-            "Dollar Bharbadós",
         }
         BDT{
             "BDT",
@@ -62,53 +46,21 @@ ga{
             "BHD",
             "Dinar Bhairéin",
         }
-        BIF{
-            "BIF",
-            "Franc na Burúine",
-        }
-        BMD{
-            "BMD",
-            "Dollar Bheirmiúda",
-        }
         BND{
             "BND",
             "Dollar Bhrúiné",
-        }
-        BOB{
-            "BOB",
-            "Boliviano",
         }
         BRL{
             "R$",
             "Real na Brasaíle",
         }
-        BSD{
-            "BSD",
-            "Dollar na mBahámaí",
-        }
-        BTN{
-            "BTN",
-            "Ngultrum na Bútáine",
-        }
-        BWP{
-            "BWP",
-            "Pula na Botsuáine",
-        }
         BYN{
             "BYN",
             "Rúbal na Bealarúise",
         }
-        BZD{
-            "BZD",
-            "Dollar na Beilíse",
-        }
         CAD{
             "CA$",
             "Dollar Cheanada",
-        }
-        CDF{
-            "CDF",
-            "Franc an Chongó",
         }
         CHF{
             "CHF",
@@ -130,33 +82,13 @@ ga{
             "CRC",
             "Colón Chósta Ríce",
         }
-        CUC{
-            "CUC",
-            "Peso Inmhalartaithe Chúba",
-        }
-        CUP{
-            "CUP",
-            "Peso Chúba",
-        }
-        CVE{
-            "CVE",
-            "Escudo Rinn Verde",
-        }
         CZK{
             "CZK",
             "Koruna Phoblacht na Seice",
         }
-        DJF{
-            "DJF",
-            "Franc Djibouti",
-        }
         DKK{
             "DKK",
             "Coróin na Danmhairge",
-        }
-        DOP{
-            "DOP",
-            "Peso na Poblachta Doiminicí",
         }
         DZD{
             "DZD",
@@ -166,10 +98,6 @@ ga{
             "EGP",
             "Punt na hÉigipte",
         }
-        ERN{
-            "ERN",
-            "Nakfa na hEiritré",
-        }
         ETB{
             "ETB",
             "Birr na hAetóipe",
@@ -177,14 +105,6 @@ ga{
         EUR{
             "€",
             "Euro",
-        }
-        FJD{
-            "FJD",
-            "Dollar Fhidsí",
-        }
-        FKP{
-            "FKP",
-            "Punt Oileáin Fháclainne",
         }
         GBP{
             "£",
@@ -194,45 +114,13 @@ ga{
             "GEL",
             "Lari na Seoirsia",
         }
-        GHS{
-            "GHS",
-            "Cedi Ghána",
-        }
-        GIP{
-            "GIP",
-            "Punt Ghiobráltar",
-        }
-        GMD{
-            "GMD",
-            "Dalasi na Gaimbia",
-        }
-        GNF{
-            "GNF",
-            "Franc na Guine",
-        }
-        GTQ{
-            "GTQ",
-            "Quetzal Ghuatamala",
-        }
-        GYD{
-            "GYD",
-            "Dollar na Guáine",
-        }
         HKD{
             "HK$",
             "Dollar Hong Cong",
         }
-        HNL{
-            "HNL",
-            "Lempira Hondúras",
-        }
         HRK{
             "HRK",
             "Kuna na Cróite",
-        }
-        HTG{
-            "HTG",
-            "Gourde Háítí",
         }
         HUF{
             "HUF",
@@ -258,25 +146,9 @@ ga{
             "IRR",
             "Rial na hIaráine",
         }
-        ISK{
-            "ISK",
-            "Króna na hÍoslainne",
-        }
-        JMD{
-            "JMD",
-            "Dollar na hIamáice",
-        }
-        JOD{
-            "JOD",
-            "Dinar na hIordáine",
-        }
         JPY{
             "¥",
             "Yen na Seapáine",
-        }
-        KES{
-            "KES",
-            "Scilling na Céinia",
         }
         KGS{
             "KGS",
@@ -286,14 +158,6 @@ ga{
             "KHR",
             "Riel na Cambóide",
         }
-        KMF{
-            "KMF",
-            "Franc Oileáin Chomóra",
-        }
-        KPW{
-            "KPW",
-            "Won na Cóiré Thuaidh",
-        }
         KRW{
             "₩",
             "Won na Cóiré Theas",
@@ -301,10 +165,6 @@ ga{
         KWD{
             "KWD",
             "Dinar Chuáit",
-        }
-        KYD{
-            "KYD",
-            "Dollar Oileáin Cayman",
         }
         KZT{
             "KZT",
@@ -314,25 +174,9 @@ ga{
             "LAK",
             "Kip Laos",
         }
-        LBP{
-            "LBP",
-            "Punt na Liobáine",
-        }
         LKR{
             "LKR",
             "Rúipí Shrí Lanca",
-        }
-        LRD{
-            "LRD",
-            "Dollar na Libéire",
-        }
-        LSL{
-            "LSL",
-            "Loti Leosóta",
-        }
-        LYD{
-            "LYD",
-            "Dinar na Libia",
         }
         MAD{
             "MAD",
@@ -342,42 +186,6 @@ ga{
             "MDL",
             "Leu na Moldóive",
         }
-        MGA{
-            "MGA",
-            "Ariary Mhadagascar",
-        }
-        MKD{
-            "MKD",
-            "Denar na Macadóine",
-        }
-        MMK{
-            "MMK",
-            "Kyat Mhaenmar",
-        }
-        MNT{
-            "MNT",
-            "Tugrik na Mongóile",
-        }
-        MOP{
-            "MOP",
-            "Pataca Mhacao",
-        }
-        MRU{
-            "MRU",
-            "Ouguiya na Máratáine",
-        }
-        MUR{
-            "MUR",
-            "Rúipí Oileán Mhuirís",
-        }
-        MVR{
-            "MVR",
-            "Rufiyaa Oileáin Mhaildíve",
-        }
-        MWK{
-            "MWK",
-            "Kwacha na Maláive",
-        }
         MXN{
             "MX$",
             "Peso Mheicsiceo",
@@ -386,21 +194,9 @@ ga{
             "MYR",
             "Ringgit na Malaeisia",
         }
-        MZN{
-            "MZN",
-            "Metical Mhósaimbíc",
-        }
-        NAD{
-            "NAD",
-            "Dollar na Namaibe",
-        }
         NGN{
             "NGN",
             "Naira na Nigéire",
-        }
-        NIO{
-            "NIO",
-            "Córdoba Nicearagua",
         }
         NOK{
             "NOK",
@@ -414,21 +210,9 @@ ga{
             "NZ$",
             "Dollar na Nua-Shéalainne",
         }
-        OMR{
-            "OMR",
-            "Rial Óman",
-        }
-        PAB{
-            "PAB",
-            "Balboa Phanama",
-        }
         PEN{
             "PEN",
             "Sol Pheiriú",
-        }
-        PGK{
-            "PGK",
-            "Kina Nua-Ghuine Phapua",
         }
         PHP{
             "PHP",
@@ -441,10 +225,6 @@ ga{
         PLN{
             "PLN",
             "Zloty na Polainne",
-        }
-        PYG{
-            "PYG",
-            "Guaraní Pharagua",
         }
         QAR{
             "QAR",
@@ -462,25 +242,9 @@ ga{
             "RUB",
             "Rúbal na Rúise",
         }
-        RWF{
-            "RWF",
-            "Franc Ruanda",
-        }
         SAR{
             "SAR",
             "Riyal na hAraibe Sádaí",
-        }
-        SBD{
-            "SBD",
-            "Dollar Oileáin Sholomón",
-        }
-        SCR{
-            "SCR",
-            "Rúipí na Séiséal",
-        }
-        SDG{
-            "SDG",
-            "Punt na Súdáine",
         }
         SEK{
             "SEK",
@@ -490,42 +254,6 @@ ga{
             "SGD",
             "Dollar Shingeapór",
         }
-        SHP{
-            "SHP",
-            "Punt San Héilin",
-        }
-        SLL{
-            "SLL",
-            "Leone Shiarra Leon",
-        }
-        SOS{
-            "SOS",
-            "Scilling na Somáile",
-        }
-        SRD{
-            "SRD",
-            "Dollar Shuranam",
-        }
-        SSP{
-            "SSP",
-            "Punt na Súdáine Theas",
-        }
-        STN{
-            "STN",
-            "Dobra São Tomé agus Príncipe",
-        }
-        SVC{
-            "SVC",
-            "Colón na Salvadóire",
-        }
-        SYP{
-            "SYP",
-            "Punt na Siria",
-        }
-        SZL{
-            "SZL",
-            "Lilangeni na Suasalainne",
-        }
         THB{
             "฿",
             "Baht na Téalainne",
@@ -534,53 +262,21 @@ ga{
             "TJS",
             "Somoni na Táidsíceastáine",
         }
-        TMT{
-            "TMT",
-            "Manat na Tuircméanastáine",
-        }
-        TND{
-            "TND",
-            "Dinar na Túinéise",
-        }
-        TOP{
-            "TOP",
-            "Paʻanga Thonga",
-        }
         TRY{
             "TRY",
             "Lira na Tuirce",
-        }
-        TTD{
-            "TTD",
-            "Dollar Oileán na Tríonóide agus Tobága",
         }
         TWD{
             "NT$",
             "Dollar Nua na Téaváine",
         }
-        TZS{
-            "TZS",
-            "Scilling na Tansáine",
-        }
         UAH{
             "UAH",
             "Hryvnia na hÚcráine",
         }
-        UGX{
-            "UGX",
-            "Scilling Uganda",
-        }
         USD{
             "$",
             "Dollar S.A.M.",
-        }
-        UYU{
-            "UYU",
-            "Peso Uragua",
-        }
-        UZS{
-            "UZS",
-            "Sum na hÚisbéiceastáine",
         }
         VEF{
             "VEF",
@@ -590,146 +286,67 @@ ga{
             "₫",
             "Dong Vítneam",
         }
-        VUV{
-            "VUV",
-            "Vatu Vanuatú",
-        }
-        WST{
-            "WST",
-            "Tala Shamó",
-        }
-        XAF{
-            "FCFA",
-            "Franc CFA na hAfraice Láir",
-        }
-        XCD{
-            "EC$",
-            "Dollar na Cairibe Thoir",
-        }
         XDR{
             "XDR",
             "Cearta Speisialta Tarraingthe",
-        }
-        XOF{
-            "CFA",
-            "Franc CFA Iarthar na hAfraice",
-        }
-        XPF{
-            "CFPF",
-            "Franc CFP",
-        }
-        XSU{
-            "XSU",
-            "XSU",
-        }
-        YER{
-            "YER",
-            "Rial Éimin",
         }
         ZAR{
             "ZAR",
             "Rand na hAfraice Theas",
         }
-        ZMW{
-            "ZMW",
-            "Kwacha na Saimbia",
-        }
     }
     Currencies%narrow{
-        AOA{"Kz"}
         ARS{"$"}
         AUD{"$"}
         BAM{"KM"}
-        BBD{"$"}
         BDT{"৳"}
-        BMD{"$"}
         BND{"$"}
-        BOB{"Bs"}
         BRL{"R$"}
-        BSD{"$"}
-        BWP{"P"}
         BYN{"р."}
-        BZD{"$"}
         CAD{"$"}
         CLP{"$"}
         CNY{"¥"}
         COP{"$"}
         CRC{"₡"}
-        CUC{"$"}
-        CUP{"$"}
         CZK{"Kč"}
         DKK{"kr"}
-        DOP{"$"}
         EGP{"E£"}
         EUR{"€"}
-        FJD{"$"}
-        FKP{"£"}
         GBP{"£"}
         GEL{"₾"}
-        GIP{"£"}
-        GNF{"FG"}
-        GTQ{"Q"}
-        GYD{"$"}
         HKD{"$"}
-        HNL{"L"}
         HRK{"kn"}
         HUF{"Ft"}
         IDR{"Rp"}
         ILS{"₪"}
         INR{"₹"}
-        ISK{"kr"}
-        JMD{"$"}
         JPY{"¥"}
         KHR{"៛"}
-        KMF{"CF"}
-        KPW{"₩"}
         KRW{"₩"}
-        KYD{"$"}
         KZT{"₸"}
         LAK{"₭"}
-        LBP{"L£"}
         LKR{"Rs"}
-        LRD{"$"}
-        MGA{"Ar"}
-        MMK{"K"}
-        MNT{"₮"}
-        MUR{"Rs"}
         MXN{"$"}
         MYR{"RM"}
-        NAD{"$"}
         NGN{"₦"}
-        NIO{"C$"}
         NOK{"kr"}
         NPR{"Rs"}
         NZD{"$"}
         PHP{"₱"}
         PKR{"Rs"}
         PLN{"zł"}
-        PYG{"₲"}
         RON{"lei"}
         RUB{"₽"}
-        RWF{"RF"}
-        SBD{"$"}
         SEK{"kr"}
         SGD{"$"}
-        SHP{"£"}
-        SRD{"$"}
-        SSP{"£"}
-        STN{"Db"}
-        SYP{"£"}
         THB{"฿"}
-        TOP{"T$"}
         TRY{"₺"}
-        TTD{"$"}
         TWD{"NT$"}
         UAH{"₴"}
         USD{"$"}
-        UYU{"$"}
         VEF{"Bs"}
         VND{"₫"}
-        XCD{"$"}
         ZAR{"R"}
-        ZMW{"ZK"}
     }
     CurrencyPlurals{
         AED{
@@ -760,20 +377,6 @@ ga{
             other{"dram na hAirméine"}
             two{"dhram na hAirméine"}
         }
-        ANG{
-            few{"ghildear Aintillí na hÍsiltíre"}
-            many{"ngildear Aintillí na hÍsiltíre"}
-            one{"ghildear Aintillí na hÍsiltíre"}
-            other{"gildear Aintillí na hÍsiltíre"}
-            two{"ghildear Aintillí na hÍsiltíre"}
-        }
-        AOA{
-            few{"kwanza Angóla"}
-            many{"kwanza Angóla"}
-            one{"kwanza Angóla"}
-            other{"kwanza Angóla"}
-            two{"kwanza Angóla"}
-        }
         ARS{
             few{"pheso na hAirgintíne"}
             many{"bpeso na hAirgintíne"}
@@ -788,13 +391,6 @@ ga{
             other{"dollar na hAstráile"}
             two{"dhollar na hAstráile"}
         }
-        AWG{
-            few{"fhlóirín Arúba"}
-            many{"bhflóirín Arúba"}
-            one{"fhlóirín Arúba"}
-            other{"flóirín Arúba"}
-            two{"fhlóirín Arúba"}
-        }
         AZN{
             few{"mhanat na hAsarbaiseáine"}
             many{"manat na hAsarbaiseáine"}
@@ -808,13 +404,6 @@ ga{
             one{"mharg inmhalartaithe na Boisnia-Heirseagaivéine"}
             other{"marg inmhalartaithe na Boisnia-Heirseagaivéine"}
             two{"mharg inmhalartaithe na Boisnia-Heirseagaivéine"}
-        }
-        BBD{
-            few{"dhollar Bharbadós"}
-            many{"ndollar Bharbadós"}
-            one{"dollar Bharbadós"}
-            other{"dollar Bharbadós"}
-            two{"dhollar Bharbadós"}
         }
         BDT{
             few{"thaka na Banglaidéise"}
@@ -837,33 +426,12 @@ ga{
             other{"dinar Bhairéin"}
             two{"dhinar Bhairéin"}
         }
-        BIF{
-            few{"fhranc na Burúine"}
-            many{"bhfranc na Burúine"}
-            one{"fhranc na Burúine"}
-            other{"franc na Burúine"}
-            two{"fhranc na Burúine"}
-        }
-        BMD{
-            few{"dhollar Bheirmiúda"}
-            many{"ndollar Bheirmiúda"}
-            one{"dollar Bheirmiúda"}
-            other{"dollar Bheirmiúda"}
-            two{"dhollar Bheirmiúda"}
-        }
         BND{
             few{"dhollar Bhrúiné"}
             many{"ndollar Bhrúiné"}
             one{"dollar Bhrúiné"}
             other{"dollar Bhrúiné"}
             two{"dhollar Bhrúiné"}
-        }
-        BOB{
-            few{"bholiviano"}
-            many{"mboliviano"}
-            one{"bholiviano"}
-            other{"boliviano"}
-            two{"bholiviano"}
         }
         BRL{
             few{"real na Brasaíle"}
@@ -872,27 +440,6 @@ ga{
             other{"real na Brasaíle"}
             two{"real na Brasaíle"}
         }
-        BSD{
-            few{"dhollar na mBahámaí"}
-            many{"ndollar na mBahámaí"}
-            one{"dollar na mBahámaí"}
-            other{"dollar na mBahámaí"}
-            two{"dhollar na mBahámaí"}
-        }
-        BTN{
-            few{"ngultrum na Bútáine"}
-            many{"ngultrum na Bútáine"}
-            one{"ngultrum na Bútáine"}
-            other{"ngultrum na Bútáine"}
-            two{"ngultrum na Bútáine"}
-        }
-        BWP{
-            few{"phula na Botsuáine"}
-            many{"bpula na Botsuáine"}
-            one{"phula na Botsuáine"}
-            other{"pula na Botsuáine"}
-            two{"phula na Botsuáine"}
-        }
         BYN{
             few{"rúbal na Bealarúise"}
             many{"rúbal na Bealarúise"}
@@ -900,26 +447,12 @@ ga{
             other{"rúbal na Bealarúise"}
             two{"rúbal na Bealarúise"}
         }
-        BZD{
-            few{"dhollar na Beilíse"}
-            many{"ndollar na Beilíse"}
-            one{"dollar na Beilíse"}
-            other{"dollar na Beilíse"}
-            two{"dhollar na Beilíse"}
-        }
         CAD{
             few{"dhollar Cheanada"}
             many{"ndollar Cheanada"}
             one{"dollar Cheanada"}
             other{"dollar Cheanada"}
             two{"dhollar Cheanada"}
-        }
-        CDF{
-            few{"fhranc an Chongó"}
-            many{"bhfranc an Chongó"}
-            one{"fhranc an Chongó"}
-            other{"franc an Chongó"}
-            two{"fhranc an Chongó"}
         }
         CHF{
             few{"fhranc na hEilvéise"}
@@ -956,27 +489,6 @@ ga{
             other{"colón Chósta Ríce"}
             two{"cholón Chósta Ríce"}
         }
-        CUC{
-            few{"pheso inmhalartaithe Chúba"}
-            many{"bpeso inmhalartaithe Chúba"}
-            one{"pheso inmhalartaithe Chúba"}
-            other{"peso inmhalartaithe Chúba"}
-            two{"pheso inmhalartaithe Chúba"}
-        }
-        CUP{
-            few{"pheso Chúba"}
-            many{"bpeso Chúba"}
-            one{"pheso Chúba"}
-            other{"peso Chúba"}
-            two{"pheso Chúba"}
-        }
-        CVE{
-            few{"escudo Rinn Verde"}
-            many{"n-escudo Rinn Verde"}
-            one{"escudo Rinn Verde"}
-            other{"escudo Rinn Verde"}
-            two{"escudo Rinn Verde"}
-        }
         CZK{
             few{"koruna Phoblacht na Seice"}
             many{"koruna Phoblacht na Seice"}
@@ -984,26 +496,12 @@ ga{
             other{"koruna Phoblacht na Seice"}
             two{"koruna Phoblacht na Seice"}
         }
-        DJF{
-            few{"fhranc Djibouti"}
-            many{"bhfranc Djibouti"}
-            one{"fhranc Djibouti"}
-            other{"franc Djibouti"}
-            two{"fhranc Djibouti"}
-        }
         DKK{
             few{"choróin na Danmhairge"}
             many{"gcoróin na Danmhairge"}
             one{"choróin na Danmhairge"}
             other{"coróin na Danmhairge"}
             two{"choróin na Danmhairge"}
-        }
-        DOP{
-            few{"pheso na Poblachta Doiminicí"}
-            many{"bpeso na Poblachta Doiminicí"}
-            one{"pheso na Poblachta Doiminicí"}
-            other{"peso na Poblachta Doiminicí"}
-            two{"pheso na Poblachta Doiminicí"}
         }
         DZD{
             few{"dhinar na hAilgéire"}
@@ -1019,13 +517,6 @@ ga{
             other{"punt na hÉigipte"}
             two{"phunt na hÉigipte"}
         }
-        ERN{
-            few{"nakfa na hEiritré"}
-            many{"nakfa na hEiritré"}
-            one{"nakfa na hEiritré"}
-            other{"nakfa na hEiritré"}
-            two{"nakfa na hEiritré"}
-        }
         ETB{
             few{"bhirr na hAetóipe"}
             many{"mbirr na hAetóipe"}
@@ -1039,20 +530,6 @@ ga{
             one{"euro"}
             other{"euro"}
             two{"euro"}
-        }
-        FJD{
-            few{"dhollar Fhidsí"}
-            many{"ndollar Fhidsí"}
-            one{"dollar Fhidsí"}
-            other{"dollar Fhidsí"}
-            two{"dhollar Fhidsí"}
-        }
-        FKP{
-            few{"phunt Oileáin Fháclainne"}
-            many{"bpunt Oileáin Fháclainne"}
-            one{"phunt Oileáin Fháclainne"}
-            other{"punt Oileáin Fháclainne"}
-            two{"phunt Oileáin Fháclainne"}
         }
         GBP{
             few{"phunt steirling"}
@@ -1068,48 +545,6 @@ ga{
             other{"lari na Seoirsia"}
             two{"lari na Seoirsia"}
         }
-        GHS{
-            few{"chedi Ghána"}
-            many{"gcedi Ghána"}
-            one{"chedi Ghána"}
-            other{"cedi Ghána"}
-            two{"chedi Ghána"}
-        }
-        GIP{
-            few{"phunt Ghiobráltar"}
-            many{"bpunt Ghiobráltar"}
-            one{"phunt Ghiobráltar"}
-            other{"punt Ghiobráltar"}
-            two{"phunt Ghiobráltar"}
-        }
-        GMD{
-            few{"dhalasi na Gaimbia"}
-            many{"ndalasi na Gaimbia"}
-            one{"dalasi na Gaimbia"}
-            other{"dalasi na Gaimbia"}
-            two{"dhalasi na Gaimbia"}
-        }
-        GNF{
-            few{"fhranc na Guine"}
-            many{"bhfranc na Guine"}
-            one{"fhranc na Guine"}
-            other{"franc na Guine"}
-            two{"fhranc na Guine"}
-        }
-        GTQ{
-            few{"quetzal Ghuatamala"}
-            many{"quetzal Ghuatamala"}
-            one{"quetzal Ghuatamala"}
-            other{"quetzal Ghuatamala"}
-            two{"quetzal Ghuatamala"}
-        }
-        GYD{
-            few{"dhollar na Guáine"}
-            many{"ndollar na Guáine"}
-            one{"dollar na Guáine"}
-            other{"dollar na Guáine"}
-            two{"dhollar na Guáine"}
-        }
         HKD{
             few{"dhollar Hong Cong"}
             many{"ndollar Hong Cong"}
@@ -1117,26 +552,12 @@ ga{
             other{"dollar Hong Cong"}
             two{"dhollar Hong Cong"}
         }
-        HNL{
-            few{"lempira Hondúras"}
-            many{"lempira Hondúras"}
-            one{"lempira Hondúras"}
-            other{"lempira Hondúras"}
-            two{"lempira Hondúras"}
-        }
         HRK{
             few{"kuna na Cróite"}
             many{"kuna na Cróite"}
             one{"kuna na Cróite"}
             other{"kuna na Cróite"}
             two{"kuna na Cróite"}
-        }
-        HTG{
-            few{"ghourde Háítí"}
-            many{"ngourde Háítí"}
-            one{"ghourde Háítí"}
-            other{"gourde Háítí"}
-            two{"ghourde Háítí"}
         }
         HUF{
             few{"fhorint na hUngáire"}
@@ -1180,40 +601,12 @@ ga{
             other{"rial na hIaráine"}
             two{"rial na hIaráine"}
         }
-        ISK{
-            few{"króna na hÍoslainne"}
-            many{"króna na hÍoslainne"}
-            one{"króna na hÍoslainne"}
-            other{"króna na hÍoslainne"}
-            two{"króna na hÍoslainne"}
-        }
-        JMD{
-            few{"dhollar na hIamáice"}
-            many{"ndollar na hIamáice"}
-            one{"dollar na hIamáice"}
-            other{"dollar na hIamáice"}
-            two{"dhollar na hIamáice"}
-        }
-        JOD{
-            few{"dhinar na hIordáine"}
-            many{"ndinar na hIordáine"}
-            one{"dinar na hIordáine"}
-            other{"dinar na hIordáine"}
-            two{"dhinar na hIordáine"}
-        }
         JPY{
             few{"yen na Seapáine"}
             many{"yen na Seapáine"}
             one{"yen na Seapáine"}
             other{"yen na Seapáine"}
             two{"yen na Seapáine"}
-        }
-        KES{
-            few{"scilling na Céinia"}
-            many{"scilling na Céinia"}
-            one{"scilling na Céinia"}
-            other{"scilling na Céinia"}
-            two{"scilling na Céinia"}
         }
         KGS{
             few{"shom na Cirgeastáine"}
@@ -1229,20 +622,6 @@ ga{
             other{"riel na Cambóide"}
             two{"riel na Cambóide"}
         }
-        KMF{
-            few{"fhranc Oileáin Chomóra"}
-            many{"bhfranc Oileáin Chomóra"}
-            one{"fhranc Oileáin Chomóra"}
-            other{"franc Oileáin Chomóra"}
-            two{"fhranc Oileáin Chomóra"}
-        }
-        KPW{
-            few{"won na Cóiré Thuaidh"}
-            many{"won na Cóiré Thuaidh"}
-            one{"won na Cóiré Thuaidh"}
-            other{"won na Cóiré Thuaidh"}
-            two{"won na Cóiré Thuaidh"}
-        }
         KRW{
             few{"won na Cóiré Theas"}
             many{"won na Cóiré Theas"}
@@ -1256,13 +635,6 @@ ga{
             one{"dinar Chuáit"}
             other{"dinar Chuáit"}
             two{"dhinar Chuáit"}
-        }
-        KYD{
-            few{"dhollar Oileáin Cayman"}
-            many{"ndollar Oileáin Cayman"}
-            one{"dollar Oileáin Cayman"}
-            other{"dollar Oileáin Cayman"}
-            two{"dhollar Oileáin Cayman"}
         }
         KZT{
             few{"thenge na Casacstáine"}
@@ -1278,40 +650,12 @@ ga{
             other{"kip Laos"}
             two{"kip Laos"}
         }
-        LBP{
-            few{"phunt na Liobáine"}
-            many{"bpunt na Liobáine"}
-            one{"phunt na Liobáine"}
-            other{"punt na Liobáine"}
-            two{"phunt na Liobáine"}
-        }
         LKR{
             few{"rúipí Shrí Lanca"}
             many{"rúipí Shrí Lanca"}
             one{"rúipí Shrí Lanca"}
             other{"rúipí Shrí Lanca"}
             two{"rúipí Shrí Lanca"}
-        }
-        LRD{
-            few{"dhollar na Libéire"}
-            many{"ndollar na Libéire"}
-            one{"dollar na Libéire"}
-            other{"dollar na Libéire"}
-            two{"dhollar na Libéire"}
-        }
-        LSL{
-            few{"Loti Leosóta"}
-            many{"Loti Leosóta"}
-            one{"Loti Leosóta"}
-            other{"Loti Leosóta"}
-            two{"Loti Leosóta"}
-        }
-        LYD{
-            few{"dhinar na Libia"}
-            many{"ndinar na Libia"}
-            one{"dinar na Libia"}
-            other{"dinar na Libia"}
-            two{"dhinar na Libia"}
         }
         MAD{
             few{"dhirham Mharacó"}
@@ -1327,69 +671,6 @@ ga{
             other{"leu na Moldóive"}
             two{"leu na Moldóive"}
         }
-        MGA{
-            few{"ariary Mhadagascar"}
-            many{"n-ariary Mhadagascar"}
-            one{"ariary Mhadagascar"}
-            other{"ariary Mhadagascar"}
-            two{"ariary Mhadagascar"}
-        }
-        MKD{
-            few{"dhenar na Macadóine"}
-            many{"ndenar na Macadóine"}
-            one{"denar na Macadóine"}
-            other{"denar na Macadóine"}
-            two{"dhenar na Macadóine"}
-        }
-        MMK{
-            few{"kyat Mhaenmar"}
-            many{"kyat Mhaenmar"}
-            one{"kyat Mhaenmar"}
-            other{"kyat Mhaenmar"}
-            two{"kyat Mhaenmar"}
-        }
-        MNT{
-            few{"thugrik na Mongóile"}
-            many{"dtugrik na Mongóile"}
-            one{"tugrik na Mongóile"}
-            other{"tugrik na Mongóile"}
-            two{"thugrik na Mongóile"}
-        }
-        MOP{
-            few{"phataca Mhacao"}
-            many{"bpataca Mhacao"}
-            one{"phataca Mhacao"}
-            other{"pataca Mhacao"}
-            two{"phataca Mhacao"}
-        }
-        MRU{
-            few{"ouguiya na Máratáine"}
-            many{"n-ouguiya na Máratáine"}
-            one{"ouguiya na Máratáine"}
-            other{"ouguiya na Máratáine"}
-            two{"ouguiya na Máratáine"}
-        }
-        MUR{
-            few{"rúipí Oileán Mhuirís"}
-            many{"rúipí Oileán Mhuirís"}
-            one{"rúipí Oileán Mhuirís"}
-            other{"rúipí Oileán Mhuirís"}
-            two{"rúipí Oileán Mhuirís"}
-        }
-        MVR{
-            few{"rufiyaa Oileáin Mhaildíve"}
-            many{"rufiyaa Oileáin Mhaildíve"}
-            one{"rufiyaa Oileáin Mhaildíve"}
-            other{"rufiyaa Oileáin Mhaildíve"}
-            two{"rufiyaa Oileáin Mhaildíve"}
-        }
-        MWK{
-            few{"kwacha na Maláive"}
-            many{"kwacha na Maláive"}
-            one{"kwacha na Maláive"}
-            other{"kwacha na Maláive"}
-            two{"kwacha na Maláive"}
-        }
         MXN{
             few{"pheso Mheicsiceo"}
             many{"bpeso Mheicsiceo"}
@@ -1404,33 +685,12 @@ ga{
             other{"ringgit na Malaeisia"}
             two{"ringgit na Malaeisia"}
         }
-        MZN{
-            few{"mhetical Mhósaimbíc"}
-            many{"metical Mhósaimbíc"}
-            one{"mhetical Mhósaimbíc"}
-            other{"metical Mhósaimbíc"}
-            two{"mhetical Mhósaimbíc"}
-        }
-        NAD{
-            few{"dhollar na Namaibe"}
-            many{"ndollar na Namaibe"}
-            one{"dollar na Namaibe"}
-            other{"dollar na Namaibe"}
-            two{"dhollar na Namaibe"}
-        }
         NGN{
             few{"naira na Nigéire"}
             many{"naira na Nigéire"}
             one{"naira na Nigéire"}
             other{"naira na Nigéire"}
             two{"naira na Nigéire"}
-        }
-        NIO{
-            few{"chórdoba Nicearagua"}
-            many{"gcórdoba Nicearagua"}
-            one{"chórdoba Nicearagua"}
-            other{"córdoba Nicearagua"}
-            two{"chórdoba Nicearagua"}
         }
         NOK{
             few{"choróin na hIorua"}
@@ -1453,33 +713,12 @@ ga{
             other{"dollar na Nua-Shéalainne"}
             two{"dhollar na Nua-Shéalainne"}
         }
-        OMR{
-            few{"rial Óman"}
-            many{"rial Óman"}
-            one{"rial Óman"}
-            other{"rial Óman"}
-            two{"rial Óman"}
-        }
-        PAB{
-            few{"bhalboa Phanama"}
-            many{"mbalboa Phanama"}
-            one{"bhalboa Phanama"}
-            other{"balboa Phanama"}
-            two{"bhalboa Phanama"}
-        }
         PEN{
             few{"sol Pheiriú"}
             many{"sol Pheiriú"}
             one{"sol Pheiriú"}
             other{"Sol Pheiriú"}
             two{"shol Pheiriú"}
-        }
-        PGK{
-            few{"kina Nua-Ghuine Phapua"}
-            many{"kina Nua-Ghuine Phapua"}
-            one{"kina Nua-Ghuine Phapua"}
-            other{"kina Nua-Ghuine Phapua"}
-            two{"kina Nua-Ghuine Phapua"}
         }
         PHP{
             few{"pheso na nOileán Filipíneach"}
@@ -1501,13 +740,6 @@ ga{
             one{"zloty na Polainne"}
             other{"zloty na Polainne"}
             two{"zloty na Polainne"}
-        }
-        PYG{
-            few{"ghuaraní Pharagua"}
-            many{"nguaraní Pharagua"}
-            one{"ghuaraní Pharagua"}
-            other{"guaraní Pharagua"}
-            two{"ghuaraní Pharagua"}
         }
         QAR{
             few{"riyal Chatar"}
@@ -1537,40 +769,12 @@ ga{
             other{"rúbal na Rúise"}
             two{"rúbal na Rúise"}
         }
-        RWF{
-            few{"fhranc Ruanda"}
-            many{"bhfranc Ruanda"}
-            one{"fhranc Ruanda"}
-            other{"franc Ruanda"}
-            two{"fhranc Ruanda"}
-        }
         SAR{
             few{"riyal na hAraibe Sádaí"}
             many{"riyal na hAraibe Sádaí"}
             one{"riyal na hAraibe Sádaí"}
             other{"riyal na hAraibe Sádaí"}
             two{"riyal na hAraibe Sádaí"}
-        }
-        SBD{
-            few{"dhollar Oileáin Sholomón"}
-            many{"ndollar Oileáin Sholomón"}
-            one{"dollar Oileáin Sholomón"}
-            other{"dollar Oileáin Sholomón"}
-            two{"dhollar Oileáin Sholomón"}
-        }
-        SCR{
-            few{"rúipí na Séiséal"}
-            many{"rúipí na Séiséal"}
-            one{"rúipí na Séiséal"}
-            other{"rúipí na Séiséal"}
-            two{"rúipí na Séiséal"}
-        }
-        SDG{
-            few{"phunt na Súdáine"}
-            many{"bpunt na Súdáine"}
-            one{"phunt na Súdáine"}
-            other{"punt na Súdáine"}
-            two{"phunt na Súdáine"}
         }
         SEK{
             few{"choróin na Sualainne"}
@@ -1586,69 +790,6 @@ ga{
             other{"dollar Shingeapór"}
             two{"dhollar Shingeapór"}
         }
-        SHP{
-            few{"phunt San Héilin"}
-            many{"bpunt San Héilin"}
-            one{"phunt San Héilin"}
-            other{"punt San Héilin"}
-            two{"phunt San Héilin"}
-        }
-        SLL{
-            few{"leone Shiarra Leon"}
-            many{"leone Shiarra Leon"}
-            one{"leone Shiarra Leon"}
-            other{"leone Shiarra Leon"}
-            two{"leone Shiarra Leon"}
-        }
-        SOS{
-            few{"scilling na Somáile"}
-            many{"scilling na Somáile"}
-            one{"scilling na Somáile"}
-            other{"scilling na Somáile"}
-            two{"scilling na Somáile"}
-        }
-        SRD{
-            few{"dhollar Shuranam"}
-            many{"ndollar Shuranam"}
-            one{"dollar Shuranam"}
-            other{"dollar Shuranam"}
-            two{"dhollar Shuranam"}
-        }
-        SSP{
-            few{"phunt na Súdáine Theas"}
-            many{"bpunt na Súdáine Theas"}
-            one{"phunt na Súdáine Theas"}
-            other{"punt na Súdáine Theas"}
-            two{"phunt na Súdáine Theas"}
-        }
-        STN{
-            few{"dhobra São Tomé agus Príncipe"}
-            many{"ndobra São Tomé agus Príncipe"}
-            one{"dobra São Tomé agus Príncipe"}
-            other{"dobra São Tomé agus Príncipe"}
-            two{"dhobra São Tomé agus Príncipe"}
-        }
-        SVC{
-            few{"cholón na Salvadóire"}
-            many{"gcolón na Salvadóire"}
-            one{"cholón na Salvadóire"}
-            other{"colón na Salvadóire"}
-            two{"cholón na Salvadóire"}
-        }
-        SYP{
-            few{"phunt na Siria"}
-            many{"bpunt na Siria"}
-            one{"phunt na Siria"}
-            other{"punt na Siria"}
-            two{"phunt na Siria"}
-        }
-        SZL{
-            few{"lilangeni na Suasalainne"}
-            many{"lilangeni na Suasalainne"}
-            one{"lilangeni na Suasalainne"}
-            other{"lilangeni na Suasalainne"}
-            two{"lilangeni na Suasalainne"}
-        }
         THB{
             few{"bhaht na Téalainne"}
             many{"mbaht na Téalainne"}
@@ -1663,40 +804,12 @@ ga{
             other{"somoni na Táidsíceastáine"}
             two{"shomoni na Táidsíceastáine"}
         }
-        TMT{
-            few{"mhanat na Tuircméanastáine"}
-            many{"manat na Tuircméanastáine"}
-            one{"mhanat na Tuircméanastáine"}
-            other{"manat na Tuircméanastáine"}
-            two{"mhanat na Tuircméanastáine"}
-        }
-        TND{
-            few{"dhinar na Túinéise"}
-            many{"ndinar na Túinéise"}
-            one{"dinar na Túinéise"}
-            other{"dinar na Túinéise"}
-            two{"dhinar na Túinéise"}
-        }
-        TOP{
-            few{"phaʻanga Thonga"}
-            many{"bpaʻanga Thonga"}
-            one{"phaʻanga Thonga"}
-            other{"paʻanga Thonga"}
-            two{"phaʻanga Thonga"}
-        }
         TRY{
             few{"lira na Tuirce"}
             many{"lira na Tuirce"}
             one{"lira na Tuirce"}
             other{"lira na Tuirce"}
             two{"lira na Tuirce"}
-        }
-        TTD{
-            few{"dhollar Oileán na Tríonóide agus Tobága"}
-            many{"ndollar Oileán na Tríonóide agus Tobága"}
-            one{"dollar Oileán na Tríonóide agus Tobága"}
-            other{"dollar Oileán na Tríonóide agus Tobága"}
-            two{"dhollar Oileán na Tríonóide agus Tobága"}
         }
         TWD{
             few{"dhollar nua na Téaváine"}
@@ -1705,13 +818,6 @@ ga{
             other{"dollar nua na Téaváine"}
             two{"dhollar nua na Téaváine"}
         }
-        TZS{
-            few{"scilling na Tansáine"}
-            many{"scilling na Tansáine"}
-            one{"scilling na Tansáine"}
-            other{"scilling na Tansáine"}
-            two{"scilling na Tansáine"}
-        }
         UAH{
             few{"hryvnia na hÚcráine"}
             many{"hryvnia na hÚcráine"}
@@ -1719,33 +825,12 @@ ga{
             other{"hryvnia na hÚcráine"}
             two{"hryvnia na hÚcráine"}
         }
-        UGX{
-            few{"scilling Uganda"}
-            many{"scilling Uganda"}
-            one{"scilling Uganda"}
-            other{"scilling Uganda"}
-            two{"scilling Uganda"}
-        }
         USD{
             few{"dhollar S.A.M."}
             many{"ndollar S.A.M."}
             one{"dollar S.A.M."}
             other{"dollar S.A.M."}
             two{"dhollar S.A.M."}
-        }
-        UYU{
-            few{"pheso Uragua"}
-            many{"bpeso Uragua"}
-            one{"pheso Uragua"}
-            other{"peso Uragua"}
-            two{"pheso Uragua"}
-        }
-        UZS{
-            few{"shum na hÚisbéiceastáine"}
-            many{"sum na hÚisbéiceastáine"}
-            one{"sum na hÚisbéiceastáine"}
-            other{"sum na hÚisbéiceastáine"}
-            two{"shum na hÚisbéiceastáine"}
         }
         VEF{
             few{"bholívar Veiniséala"}
@@ -1761,34 +846,6 @@ ga{
             other{"Dong Vítneam"}
             two{"dhong Vítneam"}
         }
-        VUV{
-            few{"vatu Vanuatú"}
-            many{"vatu Vanuatú"}
-            one{"vatu Vanuatú"}
-            other{"vatu Vanuatú"}
-            two{"vatu Vanuatú"}
-        }
-        WST{
-            few{"thala Shamó"}
-            many{"dtala Shamó"}
-            one{"tala Shamó"}
-            other{"tala Shamó"}
-            two{"thala Shamó"}
-        }
-        XAF{
-            few{"fhranc CFA na hAfraice Láir"}
-            many{"bhfranc CFA na hAfraice Láir"}
-            one{"fhranc CFA na hAfraice Láir"}
-            other{"franc CFA na hAfraice Láir"}
-            two{"fhranc CFA na hAfraice Láir"}
-        }
-        XCD{
-            few{"dhollar na Cairibe Thoir"}
-            many{"ndollar na Cairibe Thoir"}
-            one{"dollar na Cairibe Thoir"}
-            other{"dollar na Cairibe Thoir"}
-            two{"dhollar na Cairibe Thoir"}
-        }
         XDR{
             few{"Cearta Speisialta Tarraingthe"}
             many{"Cearta Speisialta Tarraingthe"}
@@ -1796,40 +853,12 @@ ga{
             other{"Cearta Speisialta Tarraingthe"}
             two{"Cearta Speisialta Tarraingthe"}
         }
-        XOF{
-            few{"fhranc CFA Iarthar na hAfraice"}
-            many{"bhfranc CFA Iarthar na hAfraice"}
-            one{"fhranc CFA Iarthar na hAfraice"}
-            other{"franc CFA Iarthar na hAfraice"}
-            two{"fhranc CFA Iarthar na hAfraice"}
-        }
-        XPF{
-            few{"fhranc CFP"}
-            many{"bhfranc CFP"}
-            one{"fhranc CFP"}
-            other{"franc CFP"}
-            two{"fhranc CFP"}
-        }
-        YER{
-            few{"rial Éimin"}
-            many{"rial Éimin"}
-            one{"rial Éimin"}
-            other{"rial Éimin"}
-            two{"rial Éimin"}
-        }
         ZAR{
             few{"rand na hAfraice Theas"}
             many{"rand na hAfraice Theas"}
             one{"rand na hAfraice Theas"}
             other{"rand na hAfraice Theas"}
             two{"rand na hAfraice Theas"}
-        }
-        ZMW{
-            few{"kwacha na Saimbia"}
-            many{"kwacha na Saimbia"}
-            one{"kwacha na Saimbia"}
-            other{"kwacha na Saimbia"}
-            two{"kwacha na Saimbia"}
         }
     }
     CurrencyUnitPatterns{

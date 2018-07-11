@@ -14,10 +14,6 @@ fur{
             "A$",
             "dolar australian",
         }
-        BIF{
-            "BIF",
-            "Franc burundês",
-        }
         BND{
             "BND",
             "Dolar dal Brunei",
@@ -41,10 +37,6 @@ fur{
         CNY{
             "CN¥",
             "yuan cinês",
-        }
-        CUP{
-            "CUP",
-            "Peso cuban",
         }
         CZK{
             "CZK",
@@ -97,14 +89,6 @@ fur{
         MXN{
             "MX$",
             "peso messican",
-        }
-        NAD{
-            "NAD",
-            "Dolar namibian",
-        }
-        NIO{
-            "NIO",
-            "Córdoba oro nicaraguan",
         }
         NOK{
             "NOK",

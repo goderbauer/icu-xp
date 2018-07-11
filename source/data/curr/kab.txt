@@ -6,10 +6,6 @@ kab{
             "AED",
             "Adirham n Tgeldunin Taɛrabin Yedduklen",
         }
-        AOA{
-            "AOA",
-            "Akwanza n Ungula",
-        }
         AUD{
             "A$",
             "Adular n Lusṭrali",
@@ -18,21 +14,9 @@ kab{
             "BHD",
             "Adinar Abaḥrini",
         }
-        BIF{
-            "BIF",
-            "Afrank Aburandi",
-        }
-        BWP{
-            "BWP",
-            "Apula Abusṭwanan",
-        }
         CAD{
             "CA$",
             "Adular Akanadi",
-        }
-        CDF{
-            "CDF",
-            "Afrank Akunguli",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ kab{
             "CN¥",
             "Ayuwan Renminbi Acinwa",
         }
-        CVE{
-            "CVE",
-            "Akabuviradinu Askudi",
-        }
-        DJF{
-            "DJF",
-            "Afrank Ajibuti",
-        }
         DZD{
             "DA",
             "Adinar Azzayri",
@@ -57,10 +33,6 @@ kab{
         EGP{
             "EGP",
             "Apund Amaṣri",
-        }
-        ERN{
-            "ERN",
-            "Anakfa Iritiri",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ kab{
             "£",
             "Apund Aglizi",
         }
-        GMD{
-            "GMD",
-            "Adalasi Agambi",
-        }
         INR{
             "₹",
             "Arupi Ahendi",
@@ -86,121 +54,25 @@ kab{
             "JP¥",
             "Ayen Ajappuni",
         }
-        KES{
-            "KES",
-            "Aciling Akini",
-        }
-        KMF{
-            "KMF",
-            "Afrank Akamiruni",
-        }
-        LRD{
-            "LRD",
-            "Adular Alibiri",
-        }
-        LSL{
-            "LSL",
-            "Aluṭi Alizuṭi",
-        }
-        LYD{
-            "LYD",
-            "Adinar Alibi",
-        }
         MAD{
             "MAD",
             "Adirham Amerruki",
-        }
-        MGA{
-            "MGA",
-            "Aryari Amalgac",
-        }
-        MRU{
-            "MRU",
-            "Agiya Amuriṭani",
-        }
-        MUR{
-            "MUR",
-            "Arupi Amurisi",
-        }
-        MWK{
-            "MWK",
-            "Akwaca Amalawi",
-        }
-        NAD{
-            "NAD",
-            "Adular Anamibi",
         }
         NGN{
             "NGN",
             "Anayra Anijiri",
         }
-        RWF{
-            "RWF",
-            "Afrank Aruwandi",
-        }
         SAR{
             "SAR",
             "Aryal Asuɛudi",
-        }
-        SCR{
-            "SCR",
-            "Arupi Aseycili",
-        }
-        SDG{
-            "SDG",
-            "Apund Asudani",
-        }
-        SHP{
-            "SHP",
-            "Apund Asant Ilini",
-        }
-        SLL{
-            "SLL",
-            "Alyun",
-        }
-        SOS{
-            "SOS",
-            "Aciling Aṣumali",
-        }
-        STN{
-            "STN",
-            "Asw Ṭum d Udubra Amenzay",
-        }
-        SZL{
-            "SZL",
-            "Alilangini",
-        }
-        TND{
-            "TND",
-            "Adinar Atunsi",
-        }
-        TZS{
-            "TZS",
-            "Aciling Aṭanẓani",
-        }
-        UGX{
-            "UGX",
-            "Aciling Awgandi",
         }
         USD{
             "US$",
             "Adular WD",
         }
-        XAF{
-            "FCFA",
-            "Afrank BCEA CFA",
-        }
-        XOF{
-            "CFA",
-            "Afrank BCEAO CFA",
-        }
         ZAR{
             "ZAR",
             "Arand Afriqi n Wadda",
-        }
-        ZMW{
-            "ZMW",
-            "Akwaca Azambi",
         }
     }
     Version{"2.1.41.97"}

@@ -6,10 +6,6 @@ mg{
             "AED",
             "Dirham",
         }
-        AOA{
-            "AOA",
-            "kwanza angoley",
-        }
         AUD{
             "A$",
             "Dolara aostralianina",
@@ -18,21 +14,9 @@ mg{
             "BHD",
             "dinar bahreïni",
         }
-        BIF{
-            "BIF",
-            "Farantsa Borondi",
-        }
-        BWP{
-            "BWP",
-            "Pola botsoaney",
-        }
         CAD{
             "CA$",
             "Dôlara Kanadianina",
-        }
-        CDF{
-            "CDF",
-            "Farantsa kôngôley",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ mg{
             "CN¥",
             "Yoan sinoa Renminbi",
         }
-        CVE{
-            "CVE",
-            "Escudo",
-        }
-        DJF{
-            "DJF",
-            "Farantsa Djibotianina",
-        }
         DZD{
             "DZD",
             "Dinara alzerianina",
@@ -57,10 +33,6 @@ mg{
         EGP{
             "EGP",
             "vola venty ejipsiana",
-        }
-        ERN{
-            "ERN",
-            "Nakfà Eritreanina",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ mg{
             "£",
             "livre sterling",
         }
-        GMD{
-            "GMD",
-            "Dalasi gambianina",
-        }
         INR{
             "₹",
             "Ropia Indianina",
@@ -86,121 +54,25 @@ mg{
             "JP¥",
             "Yen Japoney",
         }
-        KES{
-            "KES",
-            "Shilling kenianina",
-        }
-        KMF{
-            "KMF",
-            "Farantsa Komorianina",
-        }
-        LRD{
-            "LRD",
-            "Dôlara Liberianina",
-        }
-        LSL{
-            "LSL",
-            "Loti",
-        }
-        LYD{
-            "LYD",
-            "Dinara Libyanina",
-        }
         MAD{
             "MAD",
             "Dirham marokianina",
-        }
-        MGA{
-            "Ar",
-            "Ariary",
-        }
-        MRU{
-            "MRU",
-            "Ouguiya moritanianina",
-        }
-        MUR{
-            "MUR",
-            "Ropia maorisianina",
-        }
-        MWK{
-            "MWK",
-            "kwacha malawite",
-        }
-        NAD{
-            "NAD",
-            "Dolara namibianina",
         }
         NGN{
             "NGN",
             "Naira nigerianina",
         }
-        RWF{
-            "RWF",
-            "Farantsa Roande",
-        }
         SAR{
             "SAR",
             "Rial saodianina",
-        }
-        SCR{
-            "SCR",
-            "Ropia Seysheloà",
-        }
-        SDG{
-            "SDG",
-            "Dinara Sodaney",
-        }
-        SHP{
-            "SHP",
-            "livre de Sainte-Hélène",
-        }
-        SLL{
-            "SLL",
-            "Leone",
-        }
-        SOS{
-            "SOS",
-            "Shilling somalianina",
-        }
-        STN{
-            "STN",
-            "Dobra",
-        }
-        SZL{
-            "SZL",
-            "Lilangeni",
-        }
-        TND{
-            "TND",
-            "Dinar tonizianina",
-        }
-        TZS{
-            "TZS",
-            "Shilling tanzanianina",
-        }
-        UGX{
-            "UGX",
-            "Shilling ogandianina",
         }
         USD{
             "US$",
             "Dolara amerikanina",
         }
-        XAF{
-            "FCFA",
-            "Farantsa CFA (BEAC)",
-        }
-        XOF{
-            "CFA",
-            "Farantsa CFA (BCEAO)",
-        }
         ZAR{
             "ZAR",
             "Rand afrikanina tatsimo",
-        }
-        ZMW{
-            "ZMW",
-            "Kwacha zambianina",
         }
     }
     CurrencyUnitPatterns{

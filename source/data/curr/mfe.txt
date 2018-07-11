@@ -6,10 +6,6 @@ mfe{
             "AED",
             "dirham Emira arab ini",
         }
-        AOA{
-            "AOA",
-            "kwanza angole",
-        }
         AUD{
             "A$",
             "dolar ostralien",
@@ -18,21 +14,9 @@ mfe{
             "BHD",
             "dinar bahreïn",
         }
-        BIF{
-            "BIF",
-            "fran burunde",
-        }
-        BWP{
-            "BWP",
-            "pula ya botswane",
-        }
         CAD{
             "CA$",
             "dolar kanadien",
-        }
-        CDF{
-            "CDF",
-            "fran kongole",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ mfe{
             "CN¥",
             "yuan renminbi sinwa",
         }
-        CVE{
-            "CVE",
-            "eskudo kapverdien",
-        }
-        DJF{
-            "DJF",
-            "fran djiboutien",
-        }
         DZD{
             "DZD",
             "dinar alzerien",
@@ -57,10 +33,6 @@ mfe{
         EGP{
             "EGP",
             "liv ezipsien",
-        }
-        ERN{
-            "ERN",
-            "nafka erythreen",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ mfe{
             "£",
             "liv sterlin",
         }
-        GMD{
-            "GMD",
-            "dalasi gambien",
-        }
         INR{
             "₹",
             "roupi",
@@ -86,121 +54,25 @@ mfe{
             "JP¥",
             "yen zapone",
         }
-        KES{
-            "KES",
-            "shiling kenyan",
-        }
-        KMF{
-            "KMF",
-            "fran komorien",
-        }
-        LRD{
-            "LRD",
-            "dolar liberien",
-        }
-        LSL{
-            "LSL",
-            "loti lezoto",
-        }
-        LYD{
-            "LYD",
-            "dinar libien",
-        }
         MAD{
             "MAD",
             "dirham marokin",
-        }
-        MGA{
-            "MGA",
-            "fran malgas",
-        }
-        MRU{
-            "MRU",
-            "ouguiya moritanien",
-        }
-        MUR{
-            "Rs",
-            "roupi morisien",
-        }
-        MWK{
-            "MWK",
-            "kwacha malawit",
-        }
-        NAD{
-            "NAD",
-            "dolar namibien",
         }
         NGN{
             "NGN",
             "naira nizerian",
         }
-        RWF{
-            "RWF",
-            "fran rwande",
-        }
         SAR{
             "SAR",
             "rial saoudien",
-        }
-        SCR{
-            "SCR",
-            "roupi seselwa",
-        }
-        SDG{
-            "SDG",
-            "dinar soudane",
-        }
-        SHP{
-            "SHP",
-            "liv Sainte-Hélène",
-        }
-        SLL{
-            "SLL",
-            "leonn Sierra-Leone",
-        }
-        SOS{
-            "SOS",
-            "shilingi somalien",
-        }
-        STN{
-            "STN",
-            "dobra santomeen",
-        }
-        SZL{
-            "SZL",
-            "lilangeni swazi",
-        }
-        TND{
-            "TND",
-            "dinar tinizien",
-        }
-        TZS{
-            "TZS",
-            "shiling tanzanien",
-        }
-        UGX{
-            "UGX",
-            "shiling ougande",
         }
         USD{
             "US$",
             "dolar amerikin",
         }
-        XAF{
-            "FCFA",
-            "fran CFA (BEAC)",
-        }
-        XOF{
-            "CFA",
-            "fran CFA (BCEAO)",
-        }
         ZAR{
             "ZAR",
             "rand sid-afrikin",
-        }
-        ZMW{
-            "ZMW",
-            "kwacha zanbien",
         }
     }
     Version{"2.1.39.11"}

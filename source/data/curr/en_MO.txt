@@ -3,10 +3,6 @@
 en_MO{
     %%Parent{"en_001"}
     Currencies{
-        MOP{
-            "MOP$",
-            "Macanese Pataca",
-        }
     }
     Version{"2.1.38.69"}
 }

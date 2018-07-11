@@ -6,10 +6,6 @@ ha{
             "AED",
             "Kuɗin Haɗaɗɗiyar Daular Larabawa",
         }
-        AOA{
-            "AOA",
-            "Kuɗin Angola",
-        }
         AUD{
             "A$",
             "Dalar Ostareliya",
@@ -18,21 +14,9 @@ ha{
             "BHD",
             "Kuɗin Baharan",
         }
-        BIF{
-            "BIF",
-            "Kuɗin Burundi",
-        }
-        BWP{
-            "BWP",
-            "Kuɗin Baswana",
-        }
         CAD{
             "CA$",
             "Dalar Kanada",
-        }
-        CDF{
-            "CDF",
-            "Kuɗin Kongo",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ ha{
             "CN¥",
             "Kuɗin Caina/Sin",
         }
-        CVE{
-            "CVE",
-            "Kuɗin Tsibiran Kap Barde",
-        }
-        DJF{
-            "DJF",
-            "Kuɗin Jibuti",
-        }
         DZD{
             "DZD",
             "Kuɗin Aljeriya",
@@ -57,10 +33,6 @@ ha{
         EGP{
             "EGP",
             "Fam kin Masar",
-        }
-        ERN{
-            "ERN",
-            "Kuɗin Eritireya",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ ha{
             "£",
             "Fam kin Ingila",
         }
-        GMD{
-            "GMD",
-            "Kuɗin Gambiya",
-        }
         INR{
             "₹",
             "Kuɗin Indiya",
@@ -86,121 +54,25 @@ ha{
             "JP¥",
             "Kuɗin Japan",
         }
-        KES{
-            "KES",
-            "Sulen Kenya",
-        }
-        KMF{
-            "KMF",
-            "Kuɗin Kwamoras",
-        }
-        LRD{
-            "LRD",
-            "Dalar Laberiya",
-        }
-        LSL{
-            "LSL",
-            "Kuɗin Lesoto",
-        }
-        LYD{
-            "LYD",
-            "Kuɗin Libiya",
-        }
         MAD{
             "MAD",
             "Kuɗin Maroko",
-        }
-        MGA{
-            "MGA",
-            "Kuɗin Madagaskar",
-        }
-        MRU{
-            "MRU",
-            "Kuɗin Moritaniya",
-        }
-        MUR{
-            "MUR",
-            "Kuɗin Moritus",
-        }
-        MWK{
-            "MWK",
-            "Kuɗin Malawi",
-        }
-        NAD{
-            "NAD",
-            "Dalar Namibiya",
         }
         NGN{
             "₦",
             "Naira",
         }
-        RWF{
-            "RWF",
-            "Kuɗin Ruwanda",
-        }
         SAR{
             "SAR",
             "Riyal",
-        }
-        SCR{
-            "SCR",
-            "Kuɗin Saishal",
-        }
-        SDG{
-            "SDG",
-            "Fam kin Sudan",
-        }
-        SHP{
-            "SHP",
-            "Fam kin San Helena",
-        }
-        SLL{
-            "SLL",
-            "Kuɗin Salewo",
-        }
-        SOS{
-            "SOS",
-            "Sulen Somaliya",
-        }
-        STN{
-            "STN",
-            "Kuɗin Sawo Tome da Paransip",
-        }
-        SZL{
-            "SZL",
-            "Kuɗin Lilangeni",
-        }
-        TND{
-            "TND",
-            "Kuɗin Tunisiya",
-        }
-        TZS{
-            "TZS",
-            "Sulen Tanzaniya",
-        }
-        UGX{
-            "UGX",
-            "Sule Yuganda",
         }
         USD{
             "US$",
             "Dalar Amurka",
         }
-        XAF{
-            "FCFA",
-            "Kuɗin Sefa na Afirka Ta Tsakiya",
-        }
-        XOF{
-            "CFA",
-            "Kuɗin Sefa na Afirka Ta Yamma",
-        }
         ZAR{
             "ZAR",
             "Kuɗin Afirka Ta Kudu",
-        }
-        ZMW{
-            "ZMW",
-            "Kuɗin Zambiya",
         }
     }
     Version{"2.1.39.11"}

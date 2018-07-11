@@ -7,10 +7,6 @@ en_SS{
             "GB£",
             "British Pound",
         }
-        SSP{
-            "£",
-            "South Sudanese Pound",
-        }
     }
     Version{"2.1.38.69"}
 }

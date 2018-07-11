@@ -34,10 +34,6 @@ wo{
             "$",
             "Dolaaru US",
         }
-        XOF{
-            "CFA",
-            "Franc CFA bu Afrik Sowwu-jant",
-        }
     }
     Currencies%narrow{
         BRL{"R$"}
@@ -73,9 +69,6 @@ wo{
         }
         USD{
             other{"Dolaari US"}
-        }
-        XOF{
-            other{"Franc CFA yu Afrik Sowwu-jant"}
         }
     }
     CurrencyUnitPatterns{

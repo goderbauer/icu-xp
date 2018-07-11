@@ -7,10 +7,6 @@ en_SH{
             "GB£",
             "British Pound",
         }
-        SHP{
-            "£",
-            "St. Helena Pound",
-        }
     }
     Version{"2.1.38.69"}
 }

@@ -3,10 +3,6 @@
 en_ZM{
     %%Parent{"en_001"}
     Currencies{
-        ZMW{
-            "K",
-            "Zambian Kwacha",
-        }
     }
     Version{"2.1.38.69"}
 }

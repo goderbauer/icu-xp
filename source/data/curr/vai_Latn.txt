@@ -7,10 +7,6 @@ vai_Latn{
             "AED",
             "Yunaitɛ Arabhi Ɛmire Dihami",
         }
-        AOA{
-            "AOA",
-            "Angola Kuwaŋza",
-        }
         AUD{
             "A$",
             "Ɔ́situwa Dala",
@@ -19,21 +15,9 @@ vai_Latn{
             "BHD",
             "Bharɛŋ Dina",
         }
-        BIF{
-            "BIF",
-            "Bhurundi Furaŋki",
-        }
-        BWP{
-            "BWP",
-            "Bhosuwana Pula",
-        }
         CAD{
             "CA$",
             "Kanada Dala",
-        }
-        CDF{
-            "CDF",
-            "Kóngo Furaŋki",
         }
         CHF{
             "CHF",
@@ -43,14 +27,6 @@ vai_Latn{
             "CN¥",
             "Chaníĩ Yuwaŋ Rɛŋmimbi",
         }
-        CVE{
-            "CVE",
-            "Ɛsikudo Cabovɛdiyano",
-        }
-        DJF{
-            "DJF",
-            "Jibhuti Furaŋki",
-        }
         DZD{
             "DZD",
             "Agiriya Dina",
@@ -58,10 +34,6 @@ vai_Latn{
         EGP{
             "EGP",
             "Míséla Pɔɔ̃",
-        }
-        ERN{
-            "ERN",
-            "Ɛritera Nakifa",
         }
         ETB{
             "ETB",
@@ -75,10 +47,6 @@ vai_Latn{
             "£",
             "Jengési Pɔɔ̃",
         }
-        GMD{
-            "GMD",
-            "Gambiya Dalasi",
-        }
         INR{
             "₹",
             "Índiya Rupi",
@@ -87,117 +55,25 @@ vai_Latn{
             "JP¥",
             "Japaniĩ Yɛŋ",
         }
-        KES{
-            "KES",
-            "Kénya Siyeŋ",
-        }
-        KMF{
-            "KMF",
-            "Komoro Furaŋki",
-        }
-        LRD{
-            "$",
-            "Laibhiya Dala",
-        }
-        LSL{
-            "LSL",
-            "Lisóto Loti",
-        }
-        LYD{
-            "LYD",
-            "Libhiya Dina",
-        }
         MAD{
             "MAD",
             "Mɔroko Dihami",
-        }
-        MGA{
-            "MGA",
-            "Malagasi Ariyari",
-        }
-        MRU{
-            "MRU",
-            "Mɔretani Yugiya",
-        }
-        MUR{
-            "MUR",
-            "Mɔreshɔ Rupi",
-        }
-        MWK{
-            "MWK",
-            "Malawi Kuwacha",
-        }
-        NAD{
-            "NAD",
-            "Namibiya Dala",
         }
         NGN{
             "NGN",
             "Naĩjiriya Naĩra",
         }
-        RWF{
-            "RWF",
-            "Rawunda Furaŋki",
-        }
         SAR{
             "SAR",
             "Lahabu Sawodi Riya",
-        }
-        SDG{
-            "SDG",
-            "Sudaniĩ Pɔɔ̃",
-        }
-        SHP{
-            "SHP",
-            "Siŋ Hɛlina Pɔɔ̃",
-        }
-        SLL{
-            "SLL",
-            "Liyɔɔ̀",
-        }
-        SOS{
-            "SOS",
-            "Somaliya Siyeŋ",
-        }
-        STN{
-            "STN",
-            "Sawo Tombe ɓɛ a Gbawo Dobura",
-        }
-        SZL{
-            "SZL",
-            "Lilangeni",
-        }
-        TND{
-            "TND",
-            "Tunisiya Dina",
-        }
-        TZS{
-            "TZS",
-            "Taŋzaniya Siyeŋ",
-        }
-        UGX{
-            "UGX",
-            "Yuganda Siyeŋ",
         }
         USD{
             "US$",
             "Poo Dala",
         }
-        XAF{
-            "FCFA",
-            "Áfíríka Tɛ Sifa",
-        }
-        XOF{
-            "CFA",
-            "Áfíríka Tele Jíí Sifa",
-        }
         ZAR{
             "ZAR",
             "Afirika Kɔi Leŋŋɛ lɔ Randi",
-        }
-        ZMW{
-            "ZMW",
-            "Zambiya Kuwacha",
         }
     }
     Version{"2.1.39.11"}

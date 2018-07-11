@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 nnh{
     Currencies{
-        XAF{
-            "FCFA",
-            "feláŋ CFA",
-        }
     }
     Version{"2.1.38.69"}
 }

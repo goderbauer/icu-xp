@@ -3,10 +3,6 @@
 en_TZ{
     %%Parent{"en_001"}
     Currencies{
-        TZS{
-            "TSh",
-            "Tanzanian Shilling",
-        }
     }
     Version{"2.1.38.69"}
 }

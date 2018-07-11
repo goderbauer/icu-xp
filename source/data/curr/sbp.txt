@@ -6,10 +6,6 @@ sbp{
             "AED",
             "Ihela ya Shitwa sha Shiyalabu",
         }
-        AOA{
-            "AOA",
-            "Ihela ya Angola",
-        }
         AUD{
             "A$",
             "Ihela ya Awusitilaliya",
@@ -18,21 +14,9 @@ sbp{
             "BHD",
             "Ihela ya Bahaleni",
         }
-        BIF{
-            "BIF",
-            "Ihela ya Bulundi",
-        }
-        BWP{
-            "BWP",
-            "Ihela ya Botiswana",
-        }
         CAD{
             "CA$",
             "Ihela ya Kanada",
-        }
-        CDF{
-            "CDF",
-            "Ihela ya Kongo",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ sbp{
             "CN¥",
             "Ihela ya Shina",
         }
-        CVE{
-            "CVE",
-            "Ihela ya Kepuvede",
-        }
-        DJF{
-            "DJF",
-            "Ihela ya Jibuti",
-        }
         DZD{
             "DZD",
             "Ihela ya Alijeliya",
@@ -57,10 +33,6 @@ sbp{
         EGP{
             "EGP",
             "Ihela ya Misili",
-        }
-        ERN{
-            "ERN",
-            "Ihela ya Elitileya",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ sbp{
             "£",
             "Ihela ya Uwingelesa",
         }
-        GMD{
-            "GMD",
-            "Ihela ya Gambiya",
-        }
         INR{
             "₹",
             "Ihela ya Indiya",
@@ -86,121 +54,25 @@ sbp{
             "JP¥",
             "Ihela ya Japani",
         }
-        KES{
-            "KES",
-            "Ihela ya Kenya",
-        }
-        KMF{
-            "KMF",
-            "Ihela ya Komolo",
-        }
-        LRD{
-            "LRD",
-            "Ihela ya Libeliya",
-        }
-        LSL{
-            "LSL",
-            "Ihela ya Lesoto",
-        }
-        LYD{
-            "LYD",
-            "Ihela ya Libiya",
-        }
         MAD{
             "MAD",
             "Ihela ya Moloko",
-        }
-        MGA{
-            "MGA",
-            "Ihela ya Bukini",
-        }
-        MRU{
-            "MRU",
-            "Ihela ya Molitaniya",
-        }
-        MUR{
-            "MUR",
-            "Ihela ya Molisi",
-        }
-        MWK{
-            "MWK",
-            "Ihela ya Malawi",
-        }
-        NAD{
-            "NAD",
-            "Ihela ya Namibiya",
         }
         NGN{
             "NGN",
             "Ihela ya Nijeliya",
         }
-        RWF{
-            "RWF",
-            "Ihela ya Lwanda",
-        }
         SAR{
             "SAR",
             "Ihela ya Sawudiya",
-        }
-        SCR{
-            "SCR",
-            "Ihela ya Shelisheli",
-        }
-        SDG{
-            "SDG",
-            "Ihela ya Sudani",
-        }
-        SHP{
-            "SHP",
-            "Ihela ya Santahelena",
-        }
-        SLL{
-            "SLL",
-            "Ihela ya Siela Liyoni",
-        }
-        SOS{
-            "SOS",
-            "Ihela ya Somaliya",
-        }
-        STN{
-            "STN",
-            "Ihela ya Sao Tome ni Pilinsipe",
-        }
-        SZL{
-            "SZL",
-            "Ihela ya Uswasi",
-        }
-        TND{
-            "TND",
-            "Ihela ya Tunisiya",
-        }
-        TZS{
-            "TSh",
-            "Ihela ya Tansaniya",
-        }
-        UGX{
-            "UGX",
-            "Ihela ya Uganda",
         }
         USD{
             "US$",
             "Ihela ya Malekani",
         }
-        XAF{
-            "FCFA",
-            "Ihela ya CFA BEAC",
-        }
-        XOF{
-            "CFA",
-            "Ihela ya CFA BCEAO",
-        }
         ZAR{
             "ZAR",
             "Ihela ya Afilika Kusini",
-        }
-        ZMW{
-            "ZMW",
-            "Ihela ya Sambiya",
         }
     }
     Version{"2.1.39.11"}

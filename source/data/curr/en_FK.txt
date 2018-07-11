@@ -3,10 +3,6 @@
 en_FK{
     %%Parent{"en_001"}
     Currencies{
-        FKP{
-            "£",
-            "Falkland Islands Pound",
-        }
         GBP{
             "GB£",
             "British Pound",

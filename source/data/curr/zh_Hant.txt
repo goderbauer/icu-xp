@@ -19,14 +19,6 @@ zh_Hant{
             "AMD",
             "亞美尼亞德拉姆",
         }
-        ANG{
-            "ANG",
-            "荷屬安地列斯盾",
-        }
-        AOA{
-            "AOA",
-            "安哥拉寬扎",
-        }
         ARS{
             "ARS",
             "阿根廷披索",
@@ -35,10 +27,6 @@ zh_Hant{
             "AU$",
             "澳幣",
         }
-        AWG{
-            "AWG",
-            "阿路巴盾",
-        }
         AZN{
             "AZN",
             "亞塞拜然馬納特",
@@ -46,10 +34,6 @@ zh_Hant{
         BAM{
             "BAM",
             "波士尼亞-赫塞哥維納可轉換馬克",
-        }
-        BBD{
-            "BBD",
-            "巴貝多元",
         }
         BDT{
             "BDT",
@@ -63,53 +47,21 @@ zh_Hant{
             "BHD",
             "巴林第納爾",
         }
-        BIF{
-            "BIF",
-            "蒲隆地法郎",
-        }
-        BMD{
-            "BMD",
-            "百慕達幣",
-        }
         BND{
             "BND",
             "汶萊元",
-        }
-        BOB{
-            "BOB",
-            "玻利維亞諾",
         }
         BRL{
             "R$",
             "巴西里拉",
         }
-        BSD{
-            "BSD",
-            "巴哈馬元",
-        }
-        BTN{
-            "BTN",
-            "不丹那特倫",
-        }
-        BWP{
-            "BWP",
-            "波札那普拉",
-        }
         BYN{
             "BYN",
             "白俄羅斯盧布",
         }
-        BZD{
-            "BZD",
-            "貝里斯元",
-        }
         CAD{
             "CA$",
             "加幣",
-        }
-        CDF{
-            "CDF",
-            "剛果法郎",
         }
         CHF{
             "CHF",
@@ -131,33 +83,13 @@ zh_Hant{
             "CRC",
             "哥斯大黎加科朗",
         }
-        CUC{
-            "CUC",
-            "古巴可轉換披索",
-        }
-        CUP{
-            "CUP",
-            "古巴披索",
-        }
-        CVE{
-            "CVE",
-            "維德角埃斯庫多",
-        }
         CZK{
             "CZK",
             "捷克克朗",
         }
-        DJF{
-            "DJF",
-            "吉布地法郎",
-        }
         DKK{
             "DKK",
             "丹麥克朗",
-        }
-        DOP{
-            "DOP",
-            "多明尼加披索",
         }
         DZD{
             "DZD",
@@ -167,10 +99,6 @@ zh_Hant{
             "EGP",
             "埃及鎊",
         }
-        ERN{
-            "ERN",
-            "厄立特里亞納克法",
-        }
         ETB{
             "ETB",
             "衣索比亞比爾",
@@ -178,14 +106,6 @@ zh_Hant{
         EUR{
             "€",
             "歐元",
-        }
-        FJD{
-            "FJD",
-            "斐濟元",
-        }
-        FKP{
-            "FKP",
-            "福克蘭群島鎊",
         }
         GBP{
             "£",
@@ -195,45 +115,13 @@ zh_Hant{
             "GEL",
             "喬治亞拉里",
         }
-        GHS{
-            "GHS",
-            "迦納塞地",
-        }
-        GIP{
-            "GIP",
-            "直布羅陀鎊",
-        }
-        GMD{
-            "GMD",
-            "甘比亞達拉西",
-        }
-        GNF{
-            "GNF",
-            "幾內亞法郎",
-        }
-        GTQ{
-            "GTQ",
-            "瓜地馬拉格查爾",
-        }
-        GYD{
-            "GYD",
-            "圭亞那元",
-        }
         HKD{
             "HK$",
             "港幣",
         }
-        HNL{
-            "HNL",
-            "洪都拉斯倫皮拉",
-        }
         HRK{
             "HRK",
             "克羅埃西亞庫納",
-        }
-        HTG{
-            "HTG",
-            "海地古德",
         }
         HUF{
             "HUF",
@@ -259,25 +147,9 @@ zh_Hant{
             "IRR",
             "伊朗里亞爾",
         }
-        ISK{
-            "ISK",
-            "冰島克朗",
-        }
-        JMD{
-            "JMD",
-            "牙買加元",
-        }
-        JOD{
-            "JOD",
-            "約旦第納爾",
-        }
         JPY{
             "¥",
             "日圓",
-        }
-        KES{
-            "KES",
-            "肯尼亞先令",
         }
         KGS{
             "KGS",
@@ -287,14 +159,6 @@ zh_Hant{
             "KHR",
             "柬埔寨瑞爾",
         }
-        KMF{
-            "KMF",
-            "科摩羅法郎",
-        }
-        KPW{
-            "KPW",
-            "北韓元",
-        }
         KRW{
             "￦",
             "韓元",
@@ -302,10 +166,6 @@ zh_Hant{
         KWD{
             "KWD",
             "科威特第納爾",
-        }
-        KYD{
-            "KYD",
-            "開曼群島元",
         }
         KZT{
             "KZT",
@@ -315,25 +175,9 @@ zh_Hant{
             "LAK",
             "寮國基普",
         }
-        LBP{
-            "LBP",
-            "黎巴嫩鎊",
-        }
         LKR{
             "LKR",
             "斯里蘭卡盧比",
-        }
-        LRD{
-            "LRD",
-            "賴比瑞亞元",
-        }
-        LSL{
-            "LSL",
-            "賴索托洛蒂",
-        }
-        LYD{
-            "LYD",
-            "利比亞第納爾",
         }
         MAD{
             "MAD",
@@ -343,42 +187,6 @@ zh_Hant{
             "MDL",
             "摩杜雲列伊",
         }
-        MGA{
-            "MGA",
-            "馬達加斯加阿里亞里",
-        }
-        MKD{
-            "MKD",
-            "馬其頓第納爾",
-        }
-        MMK{
-            "MMK",
-            "緬甸元",
-        }
-        MNT{
-            "MNT",
-            "蒙古圖格里克",
-        }
-        MOP{
-            "MOP",
-            "澳門元",
-        }
-        MRU{
-            "MRU",
-            "茅利塔尼亞烏吉亞",
-        }
-        MUR{
-            "MUR",
-            "模里西斯盧比",
-        }
-        MVR{
-            "MVR",
-            "馬爾地夫盧非亞",
-        }
-        MWK{
-            "MWK",
-            "馬拉維克瓦查",
-        }
         MXN{
             "MX$",
             "墨西哥披索",
@@ -387,21 +195,9 @@ zh_Hant{
             "MYR",
             "馬來西亞令吉",
         }
-        MZN{
-            "MZN",
-            "莫三比克梅蒂卡爾",
-        }
-        NAD{
-            "NAD",
-            "納米比亞元",
-        }
         NGN{
             "NGN",
             "奈及利亞奈拉",
-        }
-        NIO{
-            "NIO",
-            "尼加拉瓜金科多巴",
         }
         NOK{
             "NOK",
@@ -415,21 +211,9 @@ zh_Hant{
             "NZ$",
             "紐西蘭幣",
         }
-        OMR{
-            "OMR",
-            "阿曼里亞爾",
-        }
-        PAB{
-            "PAB",
-            "巴拿馬巴波亞",
-        }
         PEN{
             "PEN",
             "秘魯太陽幣",
-        }
-        PGK{
-            "PGK",
-            "巴布亞紐幾內亞基那",
         }
         PHP{
             "PHP",
@@ -442,10 +226,6 @@ zh_Hant{
         PLN{
             "PLN",
             "波蘭茲羅提",
-        }
-        PYG{
-            "PYG",
-            "巴拉圭瓜拉尼",
         }
         QAR{
             "QAR",
@@ -463,25 +243,9 @@ zh_Hant{
             "RUB",
             "俄羅斯盧布",
         }
-        RWF{
-            "RWF",
-            "盧安達法郎",
-        }
         SAR{
             "SAR",
             "沙烏地里亞爾",
-        }
-        SBD{
-            "SBD",
-            "索羅門群島元",
-        }
-        SCR{
-            "SCR",
-            "塞席爾盧比",
-        }
-        SDG{
-            "SDG",
-            "蘇丹鎊",
         }
         SEK{
             "SEK",
@@ -491,42 +255,6 @@ zh_Hant{
             "SGD",
             "新加坡幣",
         }
-        SHP{
-            "SHP",
-            "聖赫勒拿鎊",
-        }
-        SLL{
-            "SLL",
-            "獅子山利昂",
-        }
-        SOS{
-            "SOS",
-            "索馬利亞先令",
-        }
-        SRD{
-            "SRD",
-            "蘇利南元",
-        }
-        SSP{
-            "SSP",
-            "南蘇丹鎊",
-        }
-        STN{
-            "STN",
-            "聖多美島和普林西比島多布拉",
-        }
-        SVC{
-            "SVC",
-            "薩爾瓦多科郎",
-        }
-        SYP{
-            "SYP",
-            "敘利亞鎊",
-        }
-        SZL{
-            "SZL",
-            "史瓦濟蘭里朗吉尼",
-        }
         THB{
             "THB",
             "泰銖",
@@ -535,53 +263,21 @@ zh_Hant{
             "TJS",
             "塔吉克索莫尼",
         }
-        TMT{
-            "TMT",
-            "土庫曼馬納特",
-        }
-        TND{
-            "TND",
-            "突尼西亞第納爾",
-        }
-        TOP{
-            "TOP",
-            "東加潘加",
-        }
         TRY{
             "TRY",
             "新土耳其里拉",
-        }
-        TTD{
-            "TTD",
-            "千里達及托巴哥元",
         }
         TWD{
             "$",
             "新台幣",
         }
-        TZS{
-            "TZS",
-            "坦尚尼亞先令",
-        }
         UAH{
             "UAH",
             "烏克蘭格里夫納",
         }
-        UGX{
-            "UGX",
-            "烏干達先令",
-        }
         USD{
             "US$",
             "美元",
-        }
-        UYU{
-            "UYU",
-            "烏拉圭披索",
-        }
-        UZS{
-            "UZS",
-            "烏茲別克索姆",
         }
         VEF{
             "VEF",
@@ -591,150 +287,67 @@ zh_Hant{
             "₫",
             "越南盾",
         }
-        VUV{
-            "VUV",
-            "萬那杜瓦圖",
-        }
-        WST{
-            "WST",
-            "西薩摩亞塔拉",
-        }
-        XAF{
-            "FCFA",
-            "法郎 (CFA–BEAC)",
-        }
-        XCD{
-            "EC$",
-            "格瑞那達元",
-        }
         XDR{
             "XDR",
             "特殊提款權",
-        }
-        XOF{
-            "CFA",
-            "法郎 (CFA–BCEAO)",
-        }
-        XPF{
-            "CFPF",
-            "法郎 (CFP)",
-        }
-        XSU{
-            "XSU",
-            "蘇克雷貨幣",
-        }
-        YER{
-            "YER",
-            "葉門里亞爾",
         }
         ZAR{
             "ZAR",
             "南非蘭特",
         }
-        ZMW{
-            "ZMW",
-            "尚比亞克瓦查",
-        }
-        ZWL{
-            "ZWL",
-            "辛巴威元 (2009)",
-        }
     }
     Currencies%narrow{
-        AOA{"Kz"}
         ARS{"$"}
         AUD{"$"}
         BAM{"KM"}
-        BBD{"$"}
         BDT{"৳"}
-        BMD{"$"}
         BND{"$"}
-        BOB{"Bs"}
         BRL{"R$"}
-        BSD{"$"}
-        BWP{"P"}
         BYN{"р."}
-        BZD{"$"}
         CAD{"$"}
         CLP{"$"}
         CNY{"¥"}
         COP{"$"}
         CRC{"₡"}
-        CUC{"$"}
-        CUP{"$"}
         CZK{"Kč"}
         DKK{"kr"}
-        DOP{"$"}
         EGP{"E£"}
         EUR{"€"}
-        FJD{"$"}
-        FKP{"£"}
         GBP{"£"}
         GEL{"₾"}
-        GIP{"£"}
-        GNF{"FG"}
-        GTQ{"Q"}
-        GYD{"$"}
         HKD{"$"}
-        HNL{"L"}
         HRK{"kn"}
         HUF{"Ft"}
         IDR{"Rp"}
         ILS{"₪"}
         INR{"₹"}
-        ISK{"kr"}
-        JMD{"$"}
         JPY{"¥"}
         KHR{"៛"}
-        KMF{"CF"}
-        KPW{"₩"}
         KRW{"₩"}
-        KYD{"$"}
         KZT{"₸"}
         LAK{"₭"}
-        LBP{"L£"}
         LKR{"Rs"}
-        LRD{"$"}
-        MGA{"Ar"}
-        MMK{"K"}
-        MNT{"₮"}
-        MUR{"Rs"}
         MXN{"$"}
         MYR{"RM"}
-        NAD{"$"}
         NGN{"₦"}
-        NIO{"C$"}
         NOK{"kr"}
         NPR{"Rs"}
         NZD{"$"}
         PHP{"₱"}
         PKR{"Rs"}
         PLN{"zł"}
-        PYG{"₲"}
         RON{"L"}
         RUB{"₽"}
-        RWF{"RF"}
-        SBD{"$"}
         SEK{"kr"}
         SGD{"$"}
-        SHP{"£"}
-        SRD{"$"}
-        SSP{"£"}
-        STN{"Db"}
-        SYP{"£"}
         THB{"฿"}
-        TOP{"T$"}
         TRY{"₺"}
-        TTD{"$"}
         TWD{"$"}
         UAH{"₴"}
         USD{"$"}
-        UYU{"$"}
         VEF{"Bs"}
         VND{"₫"}
-        XCD{"$"}
         ZAR{"R"}
-        ZMW{"ZK"}
     }
     CurrencyPlurals{
         AED{
@@ -749,29 +362,17 @@ zh_Hant{
         AMD{
             other{"亞美尼亞德拉姆"}
         }
-        ANG{
-            other{"荷屬安地列斯盾"}
-        }
-        AOA{
-            other{"安哥拉寬扎"}
-        }
         ARS{
             other{"阿根廷披索"}
         }
         AUD{
             other{"澳幣"}
         }
-        AWG{
-            other{"阿路巴盾"}
-        }
         AZN{
             other{"亞塞拜然馬納特"}
         }
         BAM{
             other{"波士尼亞-赫塞哥維納可轉換馬克"}
-        }
-        BBD{
-            other{"巴貝多元"}
         }
         BDT{
             other{"孟加拉塔卡"}
@@ -782,41 +383,17 @@ zh_Hant{
         BHD{
             other{"巴林第納爾"}
         }
-        BIF{
-            other{"蒲隆地法郎"}
-        }
-        BMD{
-            other{"百慕達幣"}
-        }
         BND{
             other{"汶萊元"}
-        }
-        BOB{
-            other{"玻利維亞諾"}
         }
         BRL{
             other{"巴西里拉"}
         }
-        BSD{
-            other{"巴哈馬元"}
-        }
-        BTN{
-            other{"不丹那特倫"}
-        }
-        BWP{
-            other{"波札那普拉"}
-        }
         BYN{
             other{"白俄羅斯盧布"}
         }
-        BZD{
-            other{"貝里斯元"}
-        }
         CAD{
             other{"加幣"}
-        }
-        CDF{
-            other{"剛果法郎"}
         }
         CHF{
             other{"瑞士法郎"}
@@ -833,26 +410,11 @@ zh_Hant{
         CRC{
             other{"哥斯大黎加科朗"}
         }
-        CUC{
-            other{"古巴可轉換披索"}
-        }
-        CUP{
-            other{"古巴披索"}
-        }
-        CVE{
-            other{"維德角埃斯庫多"}
-        }
         CZK{
             other{"捷克克朗"}
         }
-        DJF{
-            other{"吉布地法郎"}
-        }
         DKK{
             other{"丹麥克朗"}
-        }
-        DOP{
-            other{"多明尼加披索"}
         }
         DZD{
             other{"阿爾及利亞第納爾"}
@@ -860,20 +422,11 @@ zh_Hant{
         EGP{
             other{"埃及鎊"}
         }
-        ERN{
-            other{"厄立特里亞納克法"}
-        }
         ETB{
             other{"衣索比亞比爾"}
         }
         EUR{
             other{"歐元"}
-        }
-        FJD{
-            other{"斐濟元"}
-        }
-        FKP{
-            other{"福克蘭群島鎊"}
         }
         GBP{
             other{"英鎊"}
@@ -881,35 +434,11 @@ zh_Hant{
         GEL{
             other{"喬治亞拉里"}
         }
-        GHS{
-            other{"迦納塞地"}
-        }
-        GIP{
-            other{"直布羅陀鎊"}
-        }
-        GMD{
-            other{"甘比亞達拉西"}
-        }
-        GNF{
-            other{"幾內亞法郎"}
-        }
-        GTQ{
-            other{"瓜地馬拉格查爾"}
-        }
-        GYD{
-            other{"圭亞那元"}
-        }
         HKD{
             other{"港幣"}
         }
-        HNL{
-            other{"洪都拉斯倫皮拉"}
-        }
         HRK{
             other{"克羅埃西亞庫納"}
-        }
-        HTG{
-            other{"海地古德"}
         }
         HUF{
             other{"匈牙利福林"}
@@ -929,20 +458,8 @@ zh_Hant{
         IRR{
             other{"伊朗里亞爾"}
         }
-        ISK{
-            other{"冰島克朗"}
-        }
-        JMD{
-            other{"牙買加元"}
-        }
-        JOD{
-            other{"約旦第納爾"}
-        }
         JPY{
             other{"日圓"}
-        }
-        KES{
-            other{"肯尼亞先令"}
         }
         KGS{
             other{"吉爾吉斯索姆"}
@@ -950,20 +467,11 @@ zh_Hant{
         KHR{
             other{"柬埔寨瑞爾"}
         }
-        KMF{
-            other{"科摩羅法郎"}
-        }
-        KPW{
-            other{"北韓元"}
-        }
         KRW{
             other{"韓元"}
         }
         KWD{
             other{"科威特第納爾"}
-        }
-        KYD{
-            other{"開曼群島元"}
         }
         KZT{
             other{"哈薩克堅戈"}
@@ -971,20 +479,8 @@ zh_Hant{
         LAK{
             other{"寮國基普"}
         }
-        LBP{
-            other{"黎巴嫩鎊"}
-        }
         LKR{
             other{"斯里蘭卡盧比"}
-        }
-        LRD{
-            other{"賴比瑞亞元"}
-        }
-        LSL{
-            other{"賴索托洛蒂"}
-        }
-        LYD{
-            other{"利比亞第納爾"}
         }
         MAD{
             other{"摩洛哥迪拉姆"}
@@ -992,50 +488,14 @@ zh_Hant{
         MDL{
             other{"摩杜雲列伊"}
         }
-        MGA{
-            other{"馬達加斯加阿里亞里"}
-        }
-        MKD{
-            other{"馬其頓第納爾"}
-        }
-        MMK{
-            other{"緬甸元"}
-        }
-        MNT{
-            other{"蒙古圖格里克"}
-        }
-        MOP{
-            other{"澳門元"}
-        }
-        MRU{
-            other{"茅利塔尼亞烏吉亞"}
-        }
-        MUR{
-            other{"模里西斯盧比"}
-        }
-        MVR{
-            other{"馬爾地夫盧非亞"}
-        }
-        MWK{
-            other{"馬拉維克瓦查"}
-        }
         MXN{
             other{"墨西哥披索"}
         }
         MYR{
             other{"馬來西亞令吉"}
         }
-        MZN{
-            other{"莫三比克梅蒂卡爾"}
-        }
-        NAD{
-            other{"納米比亞元"}
-        }
         NGN{
             other{"奈及利亞奈拉"}
-        }
-        NIO{
-            other{"尼加拉瓜金科多巴"}
         }
         NOK{
             other{"挪威克朗"}
@@ -1046,17 +506,8 @@ zh_Hant{
         NZD{
             other{"紐西蘭幣"}
         }
-        OMR{
-            other{"阿曼里亞爾"}
-        }
-        PAB{
-            other{"巴拿馬巴波亞"}
-        }
         PEN{
             other{"秘魯太陽幣"}
-        }
-        PGK{
-            other{"巴布亞紐幾內亞基那"}
         }
         PHP{
             other{"菲律賓披索"}
@@ -1066,9 +517,6 @@ zh_Hant{
         }
         PLN{
             other{"波蘭茲羅提"}
-        }
-        PYG{
-            other{"巴拉圭瓜拉尼"}
         }
         QAR{
             other{"卡達里亞爾"}
@@ -1082,20 +530,8 @@ zh_Hant{
         RUB{
             other{"俄羅斯盧布"}
         }
-        RWF{
-            other{"盧安達法郎"}
-        }
         SAR{
             other{"沙烏地里亞爾"}
-        }
-        SBD{
-            other{"索羅門群島元"}
-        }
-        SCR{
-            other{"塞席爾盧比"}
-        }
-        SDG{
-            other{"蘇丹鎊"}
         }
         SEK{
             other{"瑞典克朗"}
@@ -1103,74 +539,23 @@ zh_Hant{
         SGD{
             other{"新加坡幣"}
         }
-        SHP{
-            other{"聖赫勒拿鎊"}
-        }
-        SLL{
-            other{"獅子山利昂"}
-        }
-        SOS{
-            other{"索馬利亞先令"}
-        }
-        SRD{
-            other{"蘇利南元"}
-        }
-        SSP{
-            other{"南蘇丹鎊"}
-        }
-        STN{
-            other{"聖多美島和普林西比島多布拉"}
-        }
-        SVC{
-            other{"薩爾瓦多科郎"}
-        }
-        SYP{
-            other{"敘利亞鎊"}
-        }
-        SZL{
-            other{"史瓦濟蘭里朗吉尼"}
-        }
         THB{
             other{"泰銖"}
         }
         TJS{
             other{"塔吉克索莫尼"}
         }
-        TMT{
-            other{"土庫曼馬納特"}
-        }
-        TND{
-            other{"突尼西亞第納爾"}
-        }
-        TOP{
-            other{"東加潘加"}
-        }
         TRY{
             other{"新土耳其里拉"}
-        }
-        TTD{
-            other{"千里達及托巴哥元"}
         }
         TWD{
             other{"新台幣"}
         }
-        TZS{
-            other{"坦尚尼亞先令"}
-        }
         UAH{
             other{"烏克蘭格里夫納"}
         }
-        UGX{
-            other{"烏干達先令"}
-        }
         USD{
             other{"美元"}
-        }
-        UYU{
-            other{"烏拉圭披索"}
-        }
-        UZS{
-            other{"烏茲別克索姆"}
         }
         VEF{
             other{"委內瑞拉玻利瓦"}
@@ -1178,41 +563,11 @@ zh_Hant{
         VND{
             other{"越南盾"}
         }
-        VUV{
-            other{"萬那杜瓦圖"}
-        }
-        WST{
-            other{"西薩摩亞塔拉"}
-        }
-        XAF{
-            other{"法郎 (CFA–BEAC)"}
-        }
-        XCD{
-            other{"格瑞那達元"}
-        }
         XDR{
             other{"特殊提款權"}
         }
-        XOF{
-            other{"法郎 (CFA–BCEAO)"}
-        }
-        XPF{
-            other{"法郎 (CFP)"}
-        }
-        XSU{
-            other{"蘇克雷貨幣"}
-        }
-        YER{
-            other{"葉門里亞爾"}
-        }
         ZAR{
             other{"南非蘭特"}
-        }
-        ZMW{
-            other{"尚比亞克瓦查"}
-        }
-        ZWL{
-            other{"辛巴威元 (2009)"}
         }
     }
     CurrencyUnitPatterns{

@@ -3,10 +3,6 @@
 es_MX{
     %%Parent{"es_419"}
     Currencies{
-        ERN{
-            "ERN",
-            "nakfa",
-        }
         MXN{
             "$",
             "peso mexicano",
@@ -15,29 +11,14 @@ es_MX{
             "MYR",
             "ringit",
         }
-        STN{
-            "STN",
-            "dobra santotomense",
-        }
         THB{
             "THB",
             "baht tailandés",
         }
-        UZS{
-            "UZS",
-            "sum",
-        }
-        ZMW{
-            "ZMW",
-            "kwacha zambiano",
-        }
     }
     Currencies%narrow{
         BYN{"p."}
-        FKP{"£"}
         RON{"lei"}
-        SSP{"£"}
-        SYP{"£"}
     }
     CurrencyPlurals{
         BGN{
@@ -47,21 +28,9 @@ es_MX{
             one{"ringit"}
             other{"ringits"}
         }
-        STN{
-            one{"dobra santotomense"}
-            other{"dobra santotomense"}
-        }
         THB{
             one{"baht tailandés"}
             other{"bats"}
-        }
-        UZS{
-            one{"sum"}
-            other{"sums"}
-        }
-        ZMW{
-            one{"kwacha zambiano"}
-            other{"kwachas zambianos"}
         }
     }
     Version{"2.1.38.73"}

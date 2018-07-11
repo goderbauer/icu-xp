@@ -6,10 +6,6 @@ bas{
             "AED",
             "Dirhàm èmìrâ",
         }
-        AOA{
-            "AOA",
-            "Kwànza àŋgolà",
-        }
         AUD{
             "A$",
             "Dɔ̀lâr òstralìà",
@@ -18,21 +14,9 @@ bas{
             "BHD",
             "Dinâr Bàraìn",
         }
-        BIF{
-            "BIF",
-            "Frǎŋ bùrundì",
-        }
-        BWP{
-            "BWP",
-            "Pùla Bòtswanà",
-        }
         CAD{
             "CA$",
             "Dɔ̀lâr kànadà",
-        }
-        CDF{
-            "CDF",
-            "Frǎŋ kòŋgo",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ bas{
             "CN¥",
             "Yùan kinà",
         }
-        CVE{
-            "CVE",
-            "Èskudò kabwe᷆r",
-        }
-        DJF{
-            "DJF",
-            "Frǎŋ jìbutì",
-        }
         DZD{
             "DZD",
             "Dìnâr àlgerìà",
@@ -57,10 +33,6 @@ bas{
         EGP{
             "EGP",
             "Paùnd ègîptò",
-        }
-        ERN{
-            "ERN",
-            "Nafkà èrìtrěà",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ bas{
             "£",
             "Stɛrlìŋ ŋgìsì",
         }
-        GMD{
-            "GMD",
-            "Dalasì gambìà",
-        }
         INR{
             "₹",
             "Rùpi īndìà",
@@ -86,121 +54,25 @@ bas{
             "JP¥",
             "Yɛ̂n yàpân",
         }
-        KES{
-            "KES",
-            "Silîŋ kenìà",
-        }
-        KMF{
-            "KMF",
-            "Frǎŋ kòmorà",
-        }
-        LRD{
-            "LRD",
-            "Dɔ̀lâr lìberìà",
-        }
-        LSL{
-            "LSL",
-            "Lotì lèsòtò",
-        }
-        LYD{
-            "LYD",
-            "Dìnâr libìà",
-        }
         MAD{
             "MAD",
             "Dìrham màrôk",
-        }
-        MGA{
-            "MGA",
-            "Frǎŋ màlàgasì",
-        }
-        MRU{
-            "MRU",
-            "Ùgwiya mòrìtanìa",
-        }
-        MUR{
-            "MUR",
-            "Rupìɛ̀ mòrîs",
-        }
-        MWK{
-            "MWK",
-            "Kwaca màlawì",
-        }
-        NAD{
-            "NAD",
-            "Dɔ̀lâr nàmibìà",
         }
         NGN{
             "NGN",
             "Nayrà nìgerìà",
         }
-        RWF{
-            "RWF",
-            "Frǎŋ Rùandà",
-        }
         SAR{
             "SAR",
             "Rìal sàudì",
-        }
-        SCR{
-            "SCR",
-            "Rùpiɛ̀ sèsɛ̂l",
-        }
-        SDG{
-            "SDG",
-            "Dìnâr sùdân",
-        }
-        SHP{
-            "SHP",
-            "Paùnd hèlenà",
-        }
-        SLL{
-            "SLL",
-            "Lèonɛ̀",
-        }
-        SOS{
-            "SOS",
-            "Silîŋ sòmàli",
-        }
-        STN{
-            "STN",
-            "Dobrà sàotòme",
-        }
-        SZL{
-            "SZL",
-            "Lìlàŋgeni swàzì",
-        }
-        TND{
-            "TND",
-            "Dìnâr tùnîs",
-        }
-        TZS{
-            "TZS",
-            "Silîŋ tànzànià",
-        }
-        UGX{
-            "UGX",
-            "Silîŋ ùgàndà",
         }
         USD{
             "US$",
             "Dɔla àmerkà",
         }
-        XAF{
-            "FCFA",
-            "Frǎŋ CFA (BEAC)",
-        }
-        XOF{
-            "CFA",
-            "Frǎŋ CFA (BCEAO)",
-        }
         ZAR{
             "ZAR",
             "Rân àfrǐkàsɔ̀",
-        }
-        ZMW{
-            "ZMW",
-            "Kwàca sàmbià",
         }
     }
     Version{"2.1.39.11"}

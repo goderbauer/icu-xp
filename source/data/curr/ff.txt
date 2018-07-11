@@ -6,10 +6,6 @@ ff{
             "AED",
             "Dirham Emiraati Araab Dentuɗi",
         }
-        AOA{
-            "AOA",
-            "Kwansaa Anngolaa",
-        }
         AUD{
             "A$",
             "Dolaar Ostaraalii",
@@ -18,21 +14,9 @@ ff{
             "BHD",
             "Dinaar Bahrayn",
         }
-        BIF{
-            "BIF",
-            "Mbuuɗu Burunndi",
-        }
-        BWP{
-            "BWP",
-            "Pulaa Botwanaa",
-        }
         CAD{
             "CA$",
             "Dolaar Kandaaa",
-        }
-        CDF{
-            "CDF",
-            "Faraa Konngo",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ ff{
             "CN¥",
             "Yuam Siin",
         }
-        CVE{
-            "CVE",
-            "Eskudoo Kap Weer",
-        }
-        DJF{
-            "DJF",
-            "Faraa Jibutii",
-        }
         DZD{
             "DZD",
             "Dinaar Alaseri",
@@ -57,10 +33,6 @@ ff{
         EGP{
             "EGP",
             "Liibar Ejipt",
-        }
-        ERN{
-            "ERN",
-            "Nafka Eriteree",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ ff{
             "£",
             "Liibar Sterling",
         }
-        GMD{
-            "GMD",
-            "Dalasi Gammbi",
-        }
         INR{
             "₹",
             "Rupii Enndo",
@@ -86,121 +54,25 @@ ff{
             "JP¥",
             "Yen Sapoo",
         }
-        KES{
-            "KES",
-            "Siling Keñaa",
-        }
-        KMF{
-            "KMF",
-            "Faraa Komoor",
-        }
-        LRD{
-            "LRD",
-            "Dolaar Liberiyaa",
-        }
-        LSL{
-            "LSL",
-            "Loti Lesotoo",
-        }
-        LYD{
-            "LYD",
-            "Dinaar Libi",
-        }
         MAD{
             "MAD",
             "Diraham Maruk",
-        }
-        MGA{
-            "MGA",
-            "Ariyari Madagaskaar",
-        }
-        MRU{
-            "MRU",
-            "Ugiyya Muritani",
-        }
-        MUR{
-            "MUR",
-            "Rupii Moriis",
-        }
-        MWK{
-            "MWK",
-            "Kuwacca Malaawi",
-        }
-        NAD{
-            "NAD",
-            "Dolaar Namibii",
         }
         NGN{
             "NGN",
             "Nayraa Nijeriyaa",
         }
-        RWF{
-            "RWF",
-            "Faraa Ruwanndaa",
-        }
         SAR{
             "SAR",
             "Riyaal Arabi Sawdit",
-        }
-        SCR{
-            "SCR",
-            "Rupii Seysel",
-        }
-        SDG{
-            "SDG",
-            "Liibar Sudaan",
-        }
-        SHP{
-            "SHP",
-            "Liibar Sent Helen",
-        }
-        SLL{
-            "SLL",
-            "Lewoon Seraa Liyon",
-        }
-        SOS{
-            "SOS",
-            "Siling Soomali",
-        }
-        STN{
-            "STN",
-            "Dobra Sawo Tome e Prensipe",
-        }
-        SZL{
-            "SZL",
-            "Lilangeni Swaasilannda",
-        }
-        TND{
-            "TND",
-            "Dinaar Tunisii",
-        }
-        TZS{
-            "TZS",
-            "Siling Tansanii",
-        }
-        UGX{
-            "UGX",
-            "Siling Uganndaa",
         }
         USD{
             "US$",
             "Dolaar Dowlaaji Dentuɗi",
         }
-        XAF{
-            "FCFA",
-            "Mbuuɗi Seefaa BEAC",
-        }
-        XOF{
-            "CFA",
-            "Mbuuɗu Seefaa BCEAO",
-        }
         ZAR{
             "ZAR",
             "Rannda Afrik Bŋ Worgo",
-        }
-        ZMW{
-            "ZMW",
-            "Kuwacca Sammbi",
         }
     }
     Version{"2.1.39.11"}

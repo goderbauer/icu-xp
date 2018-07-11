@@ -3,10 +3,6 @@
 es_DO{
     %%Parent{"es_419"}
     Currencies{
-        DOP{
-            "RD$",
-            "peso dominicano",
-        }
         USD{
             "US$",
             "dólar estadounidense",

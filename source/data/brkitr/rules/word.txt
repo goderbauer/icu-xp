@@ -68,11 +68,9 @@ $Control        = [\p{Grapheme_Cluster_Break = Control}];
 $HangulSyllable = [\uac00-\ud7a3];
 $ComplexContext = [:LineBreak = Complex_Context:];
 $KanaKanji      = [$Han $Hiragana $Katakana];
-$dictionaryCJK  = [$KanaKanji $HangulSyllable];
-$dictionary     = [$ComplexContext $dictionaryCJK];
+$dictionary     = [$ComplexContext];
 
-# leave CJK scripts out of ALetterPlus
-$ALetterPlus  = [$ALetter-$dictionaryCJK [$ComplexContext-$Extend-$Control]];
+$ALetterPlus  = [$ALetter [$ComplexContext-$Extend-$Control]];
 
 
 #
@@ -183,10 +181,6 @@ $ExtendNumLetEx  $KatakanaEx     {400};    #  (13b)
 #    No other rule begins with a Regional_Indicator, so chaining cannot extend the match.
 #
 ^$Regional_IndicatorEx $Regional_IndicatorEx;
-
-# special handling for CJK characters: chain for later dictionary segmentation
-$HangulSyllable $HangulSyllable {200};
-$KanaKanji $KanaKanji {400}; # different rule status if both kana and kanji found 
 
 # Rule 999
 #     Match a single code point if no other rule applies.

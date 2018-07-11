@@ -12,12 +12,6 @@ zh_Hans_SG{
         }
     }
     CurrencyPlurals{
-        ANG{
-            other{"荷兰安的列斯盾"}
-        }
-        NIO{
-            other{"尼加拉瓜科多巴"}
-        }
     }
     CurrencyUnitPatterns{
         other{"{0} {1}"}

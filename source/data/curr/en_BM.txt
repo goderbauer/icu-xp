@@ -3,10 +3,6 @@
 en_BM{
     %%Parent{"en_001"}
     Currencies{
-        BMD{
-            "$",
-            "Bermudan Dollar",
-        }
     }
     Version{"2.1.38.69"}
 }

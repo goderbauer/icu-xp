@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 so_KE{
     Currencies{
-        KES{
-            "Ksh",
-            "KES",
-        }
     }
     Version{"2.1.38.69"}
 }

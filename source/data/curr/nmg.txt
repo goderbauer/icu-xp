@@ -6,10 +6,6 @@ nmg{
             "AED",
             "Mɔn B ´Arabe",
         }
-        AOA{
-            "AOA",
-            "Mɔn Angola",
-        }
         AUD{
             "A$",
             "Dɔ́llɔ Ɔstralia",
@@ -18,21 +14,9 @@ nmg{
             "BHD",
             "Mɔn Bahrein",
         }
-        BIF{
-            "BIF",
-            "Fraŋ Burundi",
-        }
-        BWP{
-            "BWP",
-            "Mɔn Botswana",
-        }
         CAD{
             "CA$",
             "Dɔ́llɔ Kanada",
-        }
-        CDF{
-            "CDF",
-            "Fraŋ bó Kongolɛ̌",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ nmg{
             "CN¥",
             "Mɔn bó Chinois",
         }
-        CVE{
-            "CVE",
-            "Mɔn Kapvɛrt",
-        }
-        DJF{
-            "DJF",
-            "Fraŋ Jibuti",
-        }
         DZD{
             "DZD",
             "Mɔn Algeria",
@@ -57,10 +33,6 @@ nmg{
         EGP{
             "EGP",
             "Mɔn Ägyptɛn",
-        }
-        ERN{
-            "ERN",
-            "Mɔn Erytré",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ nmg{
             "£",
             "Mɔn Ngɛ̄lɛ̄n",
         }
-        GMD{
-            "GMD",
-            "Mɔn Gambia",
-        }
         INR{
             "₹",
             "Mɔn India",
@@ -86,121 +54,25 @@ nmg{
             "JP¥",
             "Mɔn Japɔn",
         }
-        KES{
-            "KES",
-            "Mɔn Kɛnya",
-        }
-        KMF{
-            "KMF",
-            "Fraŋ bó Kɔmɔr",
-        }
-        LRD{
-            "LRD",
-            "Dɔ́llɔ Liberia",
-        }
-        LSL{
-            "LSL",
-            "Mɔn Lesoto",
-        }
-        LYD{
-            "LYD",
-            "Mɔn Libya",
-        }
         MAD{
             "MAD",
             "Mɔn Marɔk",
-        }
-        MGA{
-            "MGA",
-            "Mɔn Madagaskar",
-        }
-        MRU{
-            "MRU",
-            "Mɔn Moritania",
-        }
-        MUR{
-            "MUR",
-            "Mɔn Moriss",
-        }
-        MWK{
-            "MWK",
-            "Mɔn Malawi",
-        }
-        NAD{
-            "NAD",
-            "Dɔ́llɔ Namibia",
         }
         NGN{
             "NGN",
             "Naïra Nigeria",
         }
-        RWF{
-            "RWF",
-            "Fraŋ Rwanda",
-        }
         SAR{
             "SAR",
             "Mɔn Saudi Arabia",
-        }
-        SCR{
-            "SCR",
-            "Mɔn Seychɛlle",
-        }
-        SDG{
-            "SDG",
-            "Mɔn Sudan",
-        }
-        SHP{
-            "SHP",
-            "Mɔn má Saint Lina",
-        }
-        SLL{
-            "SLL",
-            "Mɔn Leɔne",
-        }
-        SOS{
-            "SOS",
-            "Mɔn Somalía",
-        }
-        STN{
-            "STN",
-            "Mɔn Sao tomé na prinship",
-        }
-        SZL{
-            "SZL",
-            "Mɔn Ligangeni",
-        }
-        TND{
-            "TND",
-            "Mɔn Tunisia",
-        }
-        TZS{
-            "TZS",
-            "Mɔn Tanzania",
-        }
-        UGX{
-            "UGX",
-            "Mɔn Uganda",
         }
         USD{
             "US$",
             "Dɔ́llɔ Amɛŕka",
         }
-        XAF{
-            "FCFA",
-            "Fraŋ CFA BEAC",
-        }
-        XOF{
-            "CFA",
-            "Fraŋ CFA BCEAO",
-        }
         ZAR{
             "ZAR",
             "Mɔn Afrik yí sí",
-        }
-        ZMW{
-            "ZMW",
-            "Mɔn Zambia",
         }
     }
     Version{"2.1.39.11"}

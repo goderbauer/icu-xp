@@ -18,14 +18,6 @@ gd{
             "AMD",
             "Dram Airmeineach",
         }
-        ANG{
-            "ANG",
-            "Gulden Eileanan Aintilia nan Tìrean Ìsle",
-        }
-        AOA{
-            "AOA",
-            "Kwanza Angòlach",
-        }
         ARS{
             "ARS",
             "Peso Argantaineach",
@@ -34,10 +26,6 @@ gd{
             "A$",
             "Dolar Astràilianach",
         }
-        AWG{
-            "AWG",
-            "Florin Arùbach",
-        }
         AZN{
             "AZN",
             "Manat Asarbaideànach",
@@ -45,10 +33,6 @@ gd{
         BAM{
             "BAM",
             "Mark iompachail Bhosna agus Hearsagobhana",
-        }
-        BBD{
-            "BBD",
-            "Dolar Barbadach",
         }
         BDT{
             "BDT",
@@ -62,53 +46,21 @@ gd{
             "BHD",
             "Dinar Bachraineach",
         }
-        BIF{
-            "BIF",
-            "Franc Burundaidheach",
-        }
-        BMD{
-            "BMD",
-            "Dolar Bearmùdach",
-        }
         BND{
             "BND",
             "Dolar Brùnaigheach",
-        }
-        BOB{
-            "BOB",
-            "Boliviano Boilibhiach",
         }
         BRL{
             "R$",
             "Real Braisileach",
         }
-        BSD{
-            "BSD",
-            "Dolar Bathamach",
-        }
-        BTN{
-            "BTN",
-            "Ngultrum Butànach",
-        }
-        BWP{
-            "BWP",
-            "Pula Botsuanach",
-        }
         BYN{
             "BYN",
             "Rùbal Bealaruiseach",
         }
-        BZD{
-            "BZD",
-            "Dolar Beilìseach",
-        }
         CAD{
             "CA$",
             "Dolar Canadach",
-        }
-        CDF{
-            "CDF",
-            "Franc Congothach",
         }
         CHF{
             "CHF",
@@ -130,33 +82,13 @@ gd{
             "CRC",
             "Colón Costa Rìceach",
         }
-        CUC{
-            "CUC",
-            "Peso iompachail Cùbach",
-        }
-        CUP{
-            "CUP",
-            "Peso Cùbach",
-        }
-        CVE{
-            "CVE",
-            "Escudo a’ Chip Uaine",
-        }
         CZK{
             "CZK",
             "Koruna Seiceach",
         }
-        DJF{
-            "DJF",
-            "Franc Diobùtaidheach",
-        }
         DKK{
             "DKK",
             "Krone Danmhairgeach",
-        }
-        DOP{
-            "DOP",
-            "Peso Doiminiceach",
         }
         DZD{
             "DZD",
@@ -166,10 +98,6 @@ gd{
             "EGP",
             "Punnd Èipheiteach",
         }
-        ERN{
-            "ERN",
-            "Nakfa Eartrach",
-        }
         ETB{
             "ETB",
             "Birr Itiopach",
@@ -177,14 +105,6 @@ gd{
         EUR{
             "€",
             "Eòro",
-        }
-        FJD{
-            "FJD",
-            "Dolar Fìditheach",
-        }
-        FKP{
-            "FKP",
-            "Punnd Fàclannach",
         }
         GBP{
             "£",
@@ -194,45 +114,13 @@ gd{
             "GEL",
             "Lari Cairtbheileach",
         }
-        GHS{
-            "GHS",
-            "Cedi Gànach",
-        }
-        GIP{
-            "GIP",
-            "Punnd Diobraltarach",
-        }
-        GMD{
-            "GMD",
-            "Dalasi Gaimbitheach",
-        }
-        GNF{
-            "GNF",
-            "Franc Ginitheach",
-        }
-        GTQ{
-            "GTQ",
-            "Quetzal Guatamalach",
-        }
-        GYD{
-            "GYD",
-            "Dolar Guidheànach",
-        }
         HKD{
             "HK$",
             "Dolar Hong Kong",
         }
-        HNL{
-            "HNL",
-            "Lempira Hondùrach",
-        }
         HRK{
             "HRK",
             "Kuna Cròthaiseach",
-        }
-        HTG{
-            "HTG",
-            "Gourde Haidhteach",
         }
         HUF{
             "HUF",
@@ -258,25 +146,9 @@ gd{
             "IRR",
             "Rial Iorànach",
         }
-        ISK{
-            "ISK",
-            "Króna Innis Tìleach",
-        }
-        JMD{
-            "JMD",
-            "Dolar Diameugach",
-        }
-        JOD{
-            "JOD",
-            "Dinar Iòrdanach",
-        }
         JPY{
             "JP¥",
             "Yen Seapanach",
-        }
-        KES{
-            "KES",
-            "Shilling Ceineach",
         }
         KGS{
             "KGS",
@@ -286,14 +158,6 @@ gd{
             "KHR",
             "Riel Cambuideach",
         }
-        KMF{
-            "KMF",
-            "Franc Comorosach",
-        }
-        KPW{
-            "KPW",
-            "Won Choirèa a Tuath",
-        }
         KRW{
             "₩",
             "Won Choirèa a Deas",
@@ -301,10 +165,6 @@ gd{
         KWD{
             "KWD",
             "Dinar Cuibhèiteach",
-        }
-        KYD{
-            "KYD",
-            "Dolar Caimeanach",
         }
         KZT{
             "KZT",
@@ -314,25 +174,9 @@ gd{
             "LAK",
             "Kip Làthosach",
         }
-        LBP{
-            "LBP",
-            "Punnd Leabanach",
-        }
         LKR{
             "LKR",
             "Rupee Sri Lancach",
-        }
-        LRD{
-            "LRD",
-            "Dolar Libèireach",
-        }
-        LSL{
-            "LSL",
-            "Loti Leasotach",
-        }
-        LYD{
-            "LYD",
-            "Dinar Libitheach",
         }
         MAD{
             "MAD",
@@ -342,42 +186,6 @@ gd{
             "MDL",
             "Leu Moldobhach",
         }
-        MGA{
-            "MGA",
-            "Ariary Madagasgarach",
-        }
-        MKD{
-            "MKD",
-            "Denar Masadonach",
-        }
-        MMK{
-            "MMK",
-            "Kyat Miànmarach",
-        }
-        MNT{
-            "MNT",
-            "Tugrik Mongolach",
-        }
-        MOP{
-            "MOP",
-            "Pataca Macàthuach",
-        }
-        MRU{
-            "MRU",
-            "Ouguiya Moratàineach",
-        }
-        MUR{
-            "MUR",
-            "Rupee Moiriseasach",
-        }
-        MVR{
-            "MVR",
-            "Rufiyaa Maladaibheach",
-        }
-        MWK{
-            "MWK",
-            "Kwacha Malabhaidheach",
-        }
         MXN{
             "MX$",
             "Peso Meagsagach",
@@ -386,21 +194,9 @@ gd{
             "MYR",
             "Ringgit Malaidheach",
         }
-        MZN{
-            "MZN",
-            "Metical Mòsaimbiceach",
-        }
-        NAD{
-            "NAD",
-            "Dolar Naimibitheach",
-        }
         NGN{
             "NGN",
             "Naira Nigèiriach",
-        }
-        NIO{
-            "NIO",
-            "Córdoba Niocaragach",
         }
         NOK{
             "NOK",
@@ -414,21 +210,9 @@ gd{
             "NZ$",
             "Dolar Shealainn Nuaidh",
         }
-        OMR{
-            "OMR",
-            "Rial Omànach",
-        }
-        PAB{
-            "PAB",
-            "Balboa Panamach",
-        }
         PEN{
             "PEN",
             "Sol Pearùthach",
-        }
-        PGK{
-            "PGK",
-            "Kina Ghini Nuaidh Paputhaiche",
         }
         PHP{
             "PHP",
@@ -441,10 +225,6 @@ gd{
         PLN{
             "PLN",
             "Złoty Pòlainneach",
-        }
-        PYG{
-            "PYG",
-            "Guaraní Paraguaidheach",
         }
         QAR{
             "QAR",
@@ -462,25 +242,9 @@ gd{
             "RUB",
             "Rùbal Ruiseach",
         }
-        RWF{
-            "RWF",
-            "Franc Rubhandach",
-        }
         SAR{
             "SAR",
             "Riyal Sabhdach",
-        }
-        SBD{
-            "SBD",
-            "Dolar Eileanan Sholaimh",
-        }
-        SCR{
-            "SCR",
-            "Rupee Seiseallach",
-        }
-        SDG{
-            "SDG",
-            "Punnd Sudànach",
         }
         SEK{
             "SEK",
@@ -490,42 +254,6 @@ gd{
             "SGD",
             "Dolar Singeapòrach",
         }
-        SHP{
-            "SHP",
-            "Punnd Eilean Naomh Eilidh",
-        }
-        SLL{
-            "SLL",
-            "Leone Siarra Leòmhannach",
-        }
-        SOS{
-            "SOS",
-            "Shilling Somàilitheach",
-        }
-        SRD{
-            "SRD",
-            "Dolar Suranamach",
-        }
-        SSP{
-            "SSP",
-            "Punnd Sudàin a Deas",
-        }
-        STN{
-            "STN",
-            "Dobra São Tomé agus Príncipe",
-        }
-        SVC{
-            "SVC",
-            "Colón Salbhadorach",
-        }
-        SYP{
-            "SYP",
-            "Punnd Siridheach",
-        }
-        SZL{
-            "SZL",
-            "Lilangeni Suasaidheach",
-        }
         THB{
             "฿",
             "Baht Tàidheach",
@@ -534,53 +262,21 @@ gd{
             "TJS",
             "Somoni Taidigeach",
         }
-        TMT{
-            "TMT",
-            "Manat Turcmanach",
-        }
-        TND{
-            "TND",
-            "Dinar Tuiniseach",
-        }
-        TOP{
-            "TOP",
-            "Paʻanga Tongach",
-        }
         TRY{
             "TRY",
             "Lira Turcach",
-        }
-        TTD{
-            "TTD",
-            "Dolar Thrianaid agus Thobago",
         }
         TWD{
             "NT$",
             "Dolar ùr Taidh-Bhànach",
         }
-        TZS{
-            "TZS",
-            "Shilling Tansanaidheach",
-        }
         UAH{
             "UAH",
             "Hryvnia Ucràineach",
         }
-        UGX{
-            "UGX",
-            "Shilling Ugandach",
-        }
         USD{
             "$",
             "Dolar nan Stàitean Aonaichte",
-        }
-        UYU{
-            "UYU",
-            "Peso Uruguaidheach",
-        }
-        UZS{
-            "UZS",
-            "Som Usbagach",
         }
         VEF{
             "VEF",
@@ -590,150 +286,67 @@ gd{
             "₫",
             "Dong Bhiet-Namach",
         }
-        VUV{
-            "VUV",
-            "Vatu Vanuatuthach",
-        }
-        WST{
-            "WST",
-            "Tala Samothach",
-        }
-        XAF{
-            "FCFA",
-            "Franc CFA Meadhan-Afragach",
-        }
-        XCD{
-            "EC$",
-            "Dolar Caraibeach earach",
-        }
         XDR{
             "XDR",
             "Còir tarraing shònraichte",
-        }
-        XOF{
-            "CFA",
-            "Franc CFA Afraga an Iar",
-        }
-        XPF{
-            "CFPF",
-            "Franc CFP",
-        }
-        XSU{
-            "XSU",
-            "Sucre",
-        }
-        YER{
-            "YER",
-            "Rial Eamanach",
         }
         ZAR{
             "ZAR",
             "Rand Afraga a Deas",
         }
-        ZMW{
-            "ZMW",
-            "Kwacha Sàimbitheach",
-        }
-        ZWL{
-            "ZWL",
-            "Dolar Sìombabuthach (2009)",
-        }
     }
     Currencies%narrow{
-        AOA{"Kz"}
         ARS{"$"}
         AUD{"$"}
         BAM{"KM"}
-        BBD{"$"}
         BDT{"৳"}
-        BMD{"$"}
         BND{"$"}
-        BOB{"Bs"}
         BRL{"R$"}
-        BSD{"$"}
-        BWP{"P"}
         BYN{"р."}
-        BZD{"$"}
         CAD{"$"}
         CLP{"$"}
         CNY{"¥"}
         COP{"$"}
         CRC{"₡"}
-        CUC{"$"}
-        CUP{"$"}
         CZK{"Kč"}
         DKK{"kr"}
-        DOP{"$"}
         EGP{"E£"}
         EUR{"€"}
-        FJD{"$"}
-        FKP{"£"}
         GBP{"£"}
         GEL{"₾"}
-        GIP{"£"}
-        GNF{"FG"}
-        GTQ{"Q"}
-        GYD{"$"}
         HKD{"$"}
-        HNL{"L"}
         HRK{"kn"}
         HUF{"Ft"}
         IDR{"Rp"}
         ILS{"₪"}
         INR{"₹"}
-        ISK{"kr"}
-        JMD{"$"}
         JPY{"¥"}
         KHR{"៛"}
-        KMF{"CF"}
-        KPW{"₩"}
         KRW{"₩"}
-        KYD{"$"}
         KZT{"₸"}
         LAK{"₭"}
-        LBP{"L£"}
         LKR{"Rs"}
-        LRD{"$"}
-        MGA{"Ar"}
-        MMK{"K"}
-        MNT{"₮"}
-        MUR{"Rs"}
         MXN{"$"}
         MYR{"RM"}
-        NAD{"$"}
         NGN{"₦"}
-        NIO{"C$"}
         NOK{"kr"}
         NPR{"Rs"}
         NZD{"$"}
         PHP{"₱"}
         PKR{"Rs"}
         PLN{"zł"}
-        PYG{"₲"}
         RON{"leu"}
         RUB{"₽"}
-        RWF{"RF"}
-        SBD{"$"}
         SEK{"kr"}
         SGD{"$"}
-        SHP{"£"}
-        SRD{"$"}
-        SSP{"£"}
-        STN{"Db"}
-        SYP{"£"}
         THB{"฿"}
-        TOP{"T$"}
         TRY{"₺"}
-        TTD{"$"}
         TWD{"NT$"}
         UAH{"₴"}
         USD{"$"}
-        UYU{"$"}
         VEF{"Bs"}
         VND{"₫"}
-        XCD{"$"}
         ZAR{"R"}
-        ZMW{"ZK"}
     }
     CurrencyPlurals{
         AED{
@@ -760,18 +373,6 @@ gd{
             other{"dram Airmeineach"}
             two{"dhram Airmeineach"}
         }
-        ANG{
-            few{"gulden Eileanan Aintilia nan Tìrean Ìsle"}
-            one{"ghulden Eileanan Aintilia nan Tìrean Ìsle"}
-            other{"gulden Eileanan Aintilia nan Tìrean Ìsle"}
-            two{"ghulden Eileanan Aintilia nan Tìrean Ìsle"}
-        }
-        AOA{
-            few{"kwanza Angòlach"}
-            one{"kwanza Angòlach"}
-            other{"kwanza Angòlach"}
-            two{"kwanza Angòlach"}
-        }
         ARS{
             few{"pesothan Argantaineach"}
             one{"pheso Argantaineach"}
@@ -784,12 +385,6 @@ gd{
             other{"dolar Astràilianach"}
             two{"dholar Astràilianach"}
         }
-        AWG{
-            few{"florin Arùbach"}
-            one{"fhlorin Arùbach"}
-            other{"florin Arùbach"}
-            two{"fhlorin Arùbach"}
-        }
         AZN{
             few{"manat Asarbaideànach"}
             one{"mhanat Asarbaideànach"}
@@ -801,12 +396,6 @@ gd{
             one{"mhark iompachail Bhosna agus Hearsagobhana"}
             other{"mark iompachail Bhosna agus Hearsagobhana"}
             two{"mhark iompachail Bhosna agus Hearsagobhana"}
-        }
-        BBD{
-            few{"dolaran Barbadach"}
-            one{"dolar Barbadach"}
-            other{"dolar Barbadach"}
-            two{"dholar Barbadach"}
         }
         BDT{
             few{"taka Bangladaiseach"}
@@ -826,29 +415,11 @@ gd{
             other{"dinar Bachraineach"}
             two{"dhinar Bachraineach"}
         }
-        BIF{
-            few{"franc Burundaidheach"}
-            one{"fhranc Burundaidheach"}
-            other{"franc Burundaidheach"}
-            two{"fhranc Burundaidheach"}
-        }
-        BMD{
-            few{"dolaran Bearmùdach"}
-            one{"dolar Bearmùdach"}
-            other{"dolar Bearmùdach"}
-            two{"dholar Bearmùdach"}
-        }
         BND{
             few{"dolaran Brùnaigheach"}
             one{"dolar Brùnaigheach"}
             other{"dolar Brùnaigheach"}
             two{"dholar Brùnaigheach"}
-        }
-        BOB{
-            few{"boliviano Boilibhiach"}
-            one{"bholiviano Boilibhiach"}
-            other{"boliviano Boilibhiach"}
-            two{"bholiviano Boilibhiach"}
         }
         BRL{
             few{"real Braisileach"}
@@ -856,47 +427,17 @@ gd{
             other{"real Braisileach"}
             two{"real Braisileach"}
         }
-        BSD{
-            few{"dolaran Bathamach"}
-            one{"dolar Bathamach"}
-            other{"dolar Bathamach"}
-            two{"dholar Bathamach"}
-        }
-        BTN{
-            few{"ngultrum Butànach"}
-            one{"ngultrum Butànach"}
-            other{"ngultrum Butànach"}
-            two{"ngultrum Butànach"}
-        }
-        BWP{
-            few{"pula Botsuanach"}
-            one{"phula Botsuanach"}
-            other{"pula Botsuanach"}
-            two{"phula Botsuanach"}
-        }
         BYN{
             few{"rùbalan Bealaruiseach"}
             one{"rùbal Bealaruiseach"}
             other{"rùbal Bealaruiseach"}
             two{"rùbal Bealaruiseach"}
         }
-        BZD{
-            few{"dolaran Beilìseach"}
-            one{"dolar Beilìseach"}
-            other{"dolar Beilìseach"}
-            two{"dholar Beilìseach"}
-        }
         CAD{
             few{"dolaran Canadach"}
             one{"dolar Canadach"}
             other{"dolar Canadach"}
             two{"dholar Canadach"}
-        }
-        CDF{
-            few{"franc Congothach"}
-            one{"fhranc Congothach"}
-            other{"franc Congothach"}
-            two{"fhranc Congothach"}
         }
         CHF{
             few{"franc Eilbheiseach"}
@@ -928,47 +469,17 @@ gd{
             other{"colón Costa Rìceach"}
             two{"cholón Costa Rìceach"}
         }
-        CUC{
-            few{"pesothan iompachail Cùbach"}
-            one{"pheso iompachail Cùbach"}
-            other{"peso iompachail Cùbach"}
-            two{"pheso iompachail Cùbach"}
-        }
-        CUP{
-            few{"pesothan Cùbach"}
-            one{"pheso Cùbach"}
-            other{"peso Cùbach"}
-            two{"pheso Cùbach"}
-        }
-        CVE{
-            few{"escudo a’ Chip Uaine"}
-            one{"escudo a’ Chip Uaine"}
-            other{"escudo a’ Chip Uaine"}
-            two{"escudo a’ Chip Uaine"}
-        }
         CZK{
             few{"koruna Seiceach"}
             one{"koruna Seiceach"}
             other{"koruna Seiceach"}
             two{"koruna Seiceach"}
         }
-        DJF{
-            few{"franc Diobùtaidheach"}
-            one{"fhranc Diobùtaidheach"}
-            other{"franc Diobùtaidheach"}
-            two{"fhranc Diobùtaidheach"}
-        }
         DKK{
             few{"kroner Danmhairgeach"}
             one{"krone Danmhairgeach"}
             other{"krone Danmhairgeach"}
             two{"krone Danmhairgeach"}
-        }
-        DOP{
-            few{"pesothan Doiminiceach"}
-            one{"pheso Doiminiceach"}
-            other{"peso Doiminiceach"}
-            two{"pheso Doiminiceach"}
         }
         DZD{
             few{"dinar Aildireach"}
@@ -982,12 +493,6 @@ gd{
             other{"punnd Èipheiteach"}
             two{"phunnd Èipheiteach"}
         }
-        ERN{
-            few{"nakfa Eartrach"}
-            one{"nakfa Eartrach"}
-            other{"nakfa Eartrach"}
-            two{"nakfa Eartrach"}
-        }
         ETB{
             few{"birr Itiopach"}
             one{"bhirr Itiopach"}
@@ -999,18 +504,6 @@ gd{
             one{"Eòro"}
             other{"Eòro"}
             two{"Eòro"}
-        }
-        FJD{
-            few{"dolaran Fìditheach"}
-            one{"dolar Fìditheach"}
-            other{"dolar Fìditheach"}
-            two{"dholar Fìditheach"}
-        }
-        FKP{
-            few{"puinnd Fhàclannach"}
-            one{"phunnd Fàclannach"}
-            other{"punnd Fàclannach"}
-            two{"phunnd Fàclannach"}
         }
         GBP{
             few{"puinnd Shasannach"}
@@ -1024,65 +517,17 @@ gd{
             other{"lari Cairtbheileach"}
             two{"lari Cairtbheileach"}
         }
-        GHS{
-            few{"cedi Gànach"}
-            one{"chedi Gànach"}
-            other{"cedi Gànach"}
-            two{"chedi Gànach"}
-        }
-        GIP{
-            few{"puinnd Dhiobraltarach"}
-            one{"phunnd Diobraltarach"}
-            other{"punnd Diobraltarach"}
-            two{"phunnd Diobraltarach"}
-        }
-        GMD{
-            few{"dalasi Gaimbitheach"}
-            one{"dalasi Gaimbitheach"}
-            other{"dalasi Gaimbitheach"}
-            two{"dhalasi Gaimbitheach"}
-        }
-        GNF{
-            few{"franc Ginitheach"}
-            one{"fhranc Ginitheach"}
-            other{"franc Ginitheach"}
-            two{"fhranc Ginitheach"}
-        }
-        GTQ{
-            few{"quetzal Guatamalach"}
-            one{"quetzal Guatamalach"}
-            other{"quetzal Guatamalach"}
-            two{"quetzal Guatamalach"}
-        }
-        GYD{
-            few{"dolaran Guidheànach"}
-            one{"dolar Guidheànach"}
-            other{"dolar Guidheànach"}
-            two{"dholar Guidheànach"}
-        }
         HKD{
             few{"dolaran Hong Kong"}
             one{"dolar Hong Kong"}
             other{"dolar Hong Kong"}
             two{"dholar Hong Kong"}
         }
-        HNL{
-            few{"lempira Hondùrach"}
-            one{"lempira Hondùrach"}
-            other{"lempira Hondùrach"}
-            two{"lempira Hondùrach"}
-        }
         HRK{
             few{"kuna Cròthaiseach"}
             one{"kuna Cròthaiseach"}
             other{"kuna Cròthaiseach"}
             two{"kuna Cròthaiseach"}
-        }
-        HTG{
-            few{"gourde Haidhteach"}
-            one{"ghourde Haidhteach"}
-            other{"gourde Haidhteach"}
-            two{"ghourde Haidhteach"}
         }
         HUF{
             few{"forint Ungaireach"}
@@ -1120,35 +565,11 @@ gd{
             other{"rial Iorànach"}
             two{"rial Iorànach"}
         }
-        ISK{
-            few{"krónur Innis Tìleach"}
-            one{"króna Innis Tìleach"}
-            other{"króna Innis Tìleach"}
-            two{"króna Innis Tìleach"}
-        }
-        JMD{
-            few{"dolaran Diameugach"}
-            one{"dolar Diameugach"}
-            other{"dolar Diameugach"}
-            two{"dholar Diameugach"}
-        }
-        JOD{
-            few{"dinar Iòrdanach"}
-            one{"dinar Iòrdanach"}
-            other{"dinar Iòrdanach"}
-            two{"dhinar Iòrdanach"}
-        }
         JPY{
             few{"yen Seapanach"}
             one{"yen Seapanach"}
             other{"yen Seapanach"}
             two{"yen Seapanach"}
-        }
-        KES{
-            few{"shilling Ceineach"}
-            one{"shilling Ceineach"}
-            other{"shilling Ceineach"}
-            two{"shilling Ceineach"}
         }
         KGS{
             few{"som Cìorgasach"}
@@ -1162,18 +583,6 @@ gd{
             other{"riel Cambuideach"}
             two{"riel Cambuideach"}
         }
-        KMF{
-            few{"franc Comorosach"}
-            one{"fhranc Comorosach"}
-            other{"franc Comorosach"}
-            two{"fhranc Comorosach"}
-        }
-        KPW{
-            few{"won Choirèa a Tuath"}
-            one{"won Choirèa a Tuath"}
-            other{"won Choirèa a Tuath"}
-            two{"won Choirèa a Tuath"}
-        }
         KRW{
             few{"won Choirèa a Deas"}
             one{"won Choirèa a Deas"}
@@ -1185,12 +594,6 @@ gd{
             one{"dinar Cuibhèiteach"}
             other{"dinar Cuibhèiteach"}
             two{"dhinar Cuibhèiteach"}
-        }
-        KYD{
-            few{"dolaran Caimeanach"}
-            one{"dolar Caimeanach"}
-            other{"dolar Caimeanach"}
-            two{"dholar Caimeanach"}
         }
         KZT{
             few{"tenge Casachach"}
@@ -1204,35 +607,11 @@ gd{
             other{"kip Làthosach"}
             two{"kip Làthosach"}
         }
-        LBP{
-            few{"puinnd Leabanach"}
-            one{"phunnd Leabanach"}
-            other{"punnd Leabanach"}
-            two{"phunnd Leabanach"}
-        }
         LKR{
             few{"rupee Sri Lancach"}
             one{"rupee Sri Lancach"}
             other{"rupee Sri Lancach"}
             two{"rupee Sri Lancach"}
-        }
-        LRD{
-            few{"dolaran Libèireach"}
-            one{"dolar Libèireach"}
-            other{"dolar Libèireach"}
-            two{"dholar Libèireach"}
-        }
-        LSL{
-            few{"loti Leasotach"}
-            one{"loti Leasotach"}
-            other{"loti Leasotach"}
-            two{"loti Leasotach"}
-        }
-        LYD{
-            few{"dinar Libitheach"}
-            one{"dinar Libitheach"}
-            other{"dinar Libitheach"}
-            two{"dhinar Libitheach"}
         }
         MAD{
             few{"dirham Morocach"}
@@ -1246,60 +625,6 @@ gd{
             other{"leu Moldobhach"}
             two{"leu Moldobhach"}
         }
-        MGA{
-            few{"ariary Madagasgarach"}
-            one{"ariary Madagasgarach"}
-            other{"ariary Madagasgarach"}
-            two{"ariary Madagasgarach"}
-        }
-        MKD{
-            few{"denar Masadonach"}
-            one{"denar Masadonach"}
-            other{"denar Masadonach"}
-            two{"dhenar Masadonach"}
-        }
-        MMK{
-            few{"kyat Miànmarach"}
-            one{"kyat Miànmarach"}
-            other{"kyat Miànmarach"}
-            two{"kyat Miànmarach"}
-        }
-        MNT{
-            few{"tugrik Mongolach"}
-            one{"tugrik Mongolach"}
-            other{"tugrik Mongolach"}
-            two{"thugrik Mongolach"}
-        }
-        MOP{
-            few{"pataca Macàthuach"}
-            one{"phataca Macàthuach"}
-            other{"pataca Macàthuach"}
-            two{"phataca Macàthuach"}
-        }
-        MRU{
-            few{"ouguiya Moratàineach"}
-            one{"ouguiya Moratàineach"}
-            other{"ouguiya Moratàineach"}
-            two{"ouguiya Moratàineach"}
-        }
-        MUR{
-            few{"rupee Moiriseasach"}
-            one{"rupee Moiriseasach"}
-            other{"rupee Moiriseasach"}
-            two{"rupee Moiriseasach"}
-        }
-        MVR{
-            few{"rufiyaa Maladaibheach"}
-            one{"rufiyaa Maladaibheach"}
-            other{"rufiyaa Maladaibheach"}
-            two{"rufiyaa Maladaibheach"}
-        }
-        MWK{
-            few{"kwacha Malabhaidheach"}
-            one{"kwacha Malabhaidheach"}
-            other{"kwacha Malabhaidheach"}
-            two{"kwacha Malabhaidheach"}
-        }
         MXN{
             few{"pesothan Meagsagach"}
             one{"pheso Meagsagach"}
@@ -1312,29 +637,11 @@ gd{
             other{"ringgit Malaidheach"}
             two{"ringgit Malaidheach"}
         }
-        MZN{
-            few{"metical Mòsaimbiceach"}
-            one{"mhetical Mòsaimbiceach"}
-            other{"metical Mòsaimbiceach"}
-            two{"mhetical Mòsaimbiceach"}
-        }
-        NAD{
-            few{"dolaran Naimibitheach"}
-            one{"dolar Naimibitheach"}
-            other{"dolar Naimibitheach"}
-            two{"dholar Naimibitheach"}
-        }
         NGN{
             few{"naira Nigèiriach"}
             one{"naira Nigèiriach"}
             other{"naira Nigèiriach"}
             two{"naira Nigèiriach"}
-        }
-        NIO{
-            few{"córdoba Niocaragach"}
-            one{"chórdoba Niocaragach"}
-            other{"córdoba Niocaragach"}
-            two{"chórdoba Niocaragach"}
         }
         NOK{
             few{"kroner Nirribheach"}
@@ -1354,29 +661,11 @@ gd{
             other{"dolar Shealainn Nuaidh"}
             two{"dholar Shealainn Nuaidh"}
         }
-        OMR{
-            few{"rial Omànach"}
-            one{"rial Omànach"}
-            other{"rial Omànach"}
-            two{"rial Omànach"}
-        }
-        PAB{
-            few{"balboa Panamach"}
-            one{"bhalboa Panamach"}
-            other{"balboa Panamach"}
-            two{"bhalboa Panamach"}
-        }
         PEN{
             few{"sol Pearùthach"}
             one{"sol Pearùthach"}
             other{"sol Pearùthach"}
             two{"shol Pearùthach"}
-        }
-        PGK{
-            few{"kina Ghini Nuaidh Paputhaiche"}
-            one{"kina Ghini Nuaidh Paputhaiche"}
-            other{"kina Ghini Nuaidh Paputhaiche"}
-            two{"kina Ghini Nuaidh Paputhaiche"}
         }
         PHP{
             few{"pesothan Filipineach"}
@@ -1395,12 +684,6 @@ gd{
             one{"złoty Pòlainneach"}
             other{"złoty Pòlainneach"}
             two{"złoty Pòlainneach"}
-        }
-        PYG{
-            few{"guaraní Paraguaidheach"}
-            one{"ghuaraní Paraguaidheach"}
-            other{"guaraní Paraguaidheach"}
-            two{"ghuaraní Paraguaidheach"}
         }
         QAR{
             few{"rial Catarach"}
@@ -1426,35 +709,11 @@ gd{
             other{"rùbal Ruiseach"}
             two{"rùbal Ruiseach"}
         }
-        RWF{
-            few{"franc Rubhandach"}
-            one{"fhranc Rubhandach"}
-            other{"franc Rubhandach"}
-            two{"fhranc Rubhandach"}
-        }
         SAR{
             few{"riyal Sabhdach"}
             one{"riyal Sabhdach"}
             other{"riyal Sabhdach"}
             two{"riyal Sabhdach"}
-        }
-        SBD{
-            few{"dolaran Eileanan Sholaimh"}
-            one{"dolar Eileanan Sholaimh"}
-            other{"dolar Eileanan Sholaimh"}
-            two{"dholar Eileanan Sholaimh"}
-        }
-        SCR{
-            few{"rupee Seiseallach"}
-            one{"rupee Seiseallach"}
-            other{"rupee Seiseallach"}
-            two{"rupee Seiseallach"}
-        }
-        SDG{
-            few{"puinnd Shudànach"}
-            one{"phunnd Sudànach"}
-            other{"punnd Sudànach"}
-            two{"phunnd Sudànach"}
         }
         SEK{
             few{"kronor Suaineach"}
@@ -1468,60 +727,6 @@ gd{
             other{"dolar Singeapòrach"}
             two{"dholar Singeapòrach"}
         }
-        SHP{
-            few{"puinnd Eilean Naomh Eilidh"}
-            one{"phunnd Eilean Naomh Eilidh"}
-            other{"punnd Eilean Naomh Eilidh"}
-            two{"phunnd Eilean Naomh Eilidh"}
-        }
-        SLL{
-            few{"leone Siarra Leòmhannach"}
-            one{"leone Siarra Leòmhannach"}
-            other{"leone Siarra Leòmhannach"}
-            two{"leone Siarra Leòmhannach"}
-        }
-        SOS{
-            few{"shilling Somàilitheach"}
-            one{"shilling Somàilitheach"}
-            other{"shilling Somàilitheach"}
-            two{"shilling Somàilitheach"}
-        }
-        SRD{
-            few{"dolaran Suranamach"}
-            one{"dolar Suranamach"}
-            other{"dolar Suranamach"}
-            two{"dholar Suranamach"}
-        }
-        SSP{
-            few{"puinnd Shudàin a Deas"}
-            one{"phunnd Sudàin a Deas"}
-            other{"punnd Sudàin a Deas"}
-            two{"phunnd Sudàin a Deas"}
-        }
-        STN{
-            few{"dobra São Tomé agus Príncipe"}
-            one{"dobra São Tomé agus Príncipe"}
-            other{"dobra São Tomé agus Príncipe"}
-            two{"dhobra São Tomé agus Príncipe"}
-        }
-        SVC{
-            few{"colón Salbhadorach"}
-            one{"cholón Salbhadorach"}
-            other{"colón Salbhadorach"}
-            two{"cholón Salbhadorach"}
-        }
-        SYP{
-            few{"puinnd Shiridheach"}
-            one{"phunnd Siridheach"}
-            other{"punnd Siridheach"}
-            two{"phunnd Siridheach"}
-        }
-        SZL{
-            few{"lilangeni Suasaidheach"}
-            one{"lilangeni Suasaidheach"}
-            other{"lilangeni Suasaidheach"}
-            two{"lilangeni Suasaidheach"}
-        }
         THB{
             few{"baht Tàidheach"}
             one{"bhaht Tàidheach"}
@@ -1534,35 +739,11 @@ gd{
             other{"somoni Taidigeach"}
             two{"shomoni Taidigeach"}
         }
-        TMT{
-            few{"manat Turcmanach"}
-            one{"mhanat Turcmanach"}
-            other{"manat Turcmanach"}
-            two{"mhanat Turcmanach"}
-        }
-        TND{
-            few{"dinar Tuiniseach"}
-            one{"dinar Tuiniseach"}
-            other{"dinar Tuiniseach"}
-            two{"dhinar Tuiniseach"}
-        }
-        TOP{
-            few{"paʻanga Tongach"}
-            one{"phaʻanga Tongach"}
-            other{"paʻanga Tongach"}
-            two{"phaʻanga Tongach"}
-        }
         TRY{
             few{"lira Turcach"}
             one{"lira Turcach"}
             other{"lira Turcach"}
             two{"lira Turcach"}
-        }
-        TTD{
-            few{"dolaran Thrianaid agus Thobago"}
-            one{"dolar Thrianaid agus Thobago"}
-            other{"dolar Thrianaid agus Thobago"}
-            two{"dholar Thrianaid agus Thobago"}
         }
         TWD{
             few{"dolaran ùra Taidh-Bhànach"}
@@ -1570,41 +751,17 @@ gd{
             other{"dolar ùr Taidh-Bhànach"}
             two{"dholar ùr Taidh-Bhànach"}
         }
-        TZS{
-            few{"shilling Tansanaidheach"}
-            one{"shilling Tansanaidheach"}
-            other{"shilling Tansanaidheach"}
-            two{"shilling Tansanaidheach"}
-        }
         UAH{
             few{"hryvnia Ucràineach"}
             one{"hryvnia Ucràineach"}
             other{"hryvnia Ucràineach"}
             two{"hryvnia Ucràineach"}
         }
-        UGX{
-            few{"shilling Ugandach"}
-            one{"shilling Ugandach"}
-            other{"shilling Ugandach"}
-            two{"shilling Ugandach"}
-        }
         USD{
             few{"dolaran nan Stàitean Aonaichte"}
             one{"dolar nan Stàitean Aonaichte"}
             other{"dolar nan Stàitean Aonaichte"}
             two{"dholar nan Stàitean Aonaichte"}
-        }
-        UYU{
-            few{"pesothan Uruguaidheach"}
-            one{"pheso Uruguaidheach"}
-            other{"peso Uruguaidheach"}
-            two{"pheso Uruguaidheach"}
-        }
-        UZS{
-            few{"som Usbagach"}
-            one{"som Usbagach"}
-            other{"som Usbagach"}
-            two{"shom Usbagach"}
         }
         VEF{
             few{"bolívar Bheinisealach"}
@@ -1618,77 +775,17 @@ gd{
             other{"dong Bhiet-Namach"}
             two{"dhong Bhiet-Namach"}
         }
-        VUV{
-            few{"vatu Vanuatuthach"}
-            one{"vatu Vanuatuthach"}
-            other{"vatu Vanuatuthach"}
-            two{"vatu Vanuatuthach"}
-        }
-        WST{
-            few{"tala Samothach"}
-            one{"tala Samothach"}
-            other{"tala Samothach"}
-            two{"thala Samothach"}
-        }
-        XAF{
-            few{"franc CFA Meadhan-Afragach"}
-            one{"fhranc CFA Meadhan-Afragach"}
-            other{"franc CFA Meadhan-Afragach"}
-            two{"fhranc CFA Meadhan-Afragach"}
-        }
-        XCD{
-            few{"dolaran Caraibeach earach"}
-            one{"dolar Caraibeach earach"}
-            other{"dolar Caraibeach earach"}
-            two{"dholar Caraibeach earach"}
-        }
         XDR{
             few{"còirichean tarraing sònraichte"}
             one{"chòir tarraing shònraichte"}
             other{"còir tarraing shònraichte"}
             two{"chòir tarraing shònraichte"}
         }
-        XOF{
-            few{"franc CFA Afraga an Iar"}
-            one{"fhranc CFA Afraga an Iar"}
-            other{"franc CFA Afraga an Iar"}
-            two{"fhranc CFA Afraga an Iar"}
-        }
-        XPF{
-            few{"franc CFP"}
-            one{"fhranc CFP"}
-            other{"franc CFP"}
-            two{"fhranc CFP"}
-        }
-        XSU{
-            few{"sucre"}
-            one{"sucre"}
-            other{"sucre"}
-            two{"sucre"}
-        }
-        YER{
-            few{"rial Eamanach"}
-            one{"rial Eamanach"}
-            other{"rial Eamanach"}
-            two{"rial Eamanach"}
-        }
         ZAR{
             few{"rand Afraga a Deas"}
             one{"rand Afraga a Deas"}
             other{"rand Afraga a Deas"}
             two{"rand Afraga a Deas"}
-        }
-        ZMW{
-            few{"kwacha Sàimbitheach"}
-            one{"kwacha Sàimbitheach"}
-            other{"kwacha Sàimbitheach"}
-            two{"kwacha Sàimbitheach"}
-        }
-        ZWL{
-            few{"dolaran Sìombabuthach (2009)"}
-            one{"dolar Sìombabuthach (2009)"}
-            other{"dolar Sìombabuthach (2009)"}
-            two{"dholar Sìombabuthach (2009)"}
         }
     }
     CurrencyUnitPatterns{

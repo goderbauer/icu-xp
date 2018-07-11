@@ -3,10 +3,6 @@
 en_SL{
     %%Parent{"en_001"}
     Currencies{
-        SLL{
-            "Le",
-            "Sierra Leonean Leone",
-        }
     }
     Version{"2.1.38.69"}
 }

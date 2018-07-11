@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 ff_GN{
     Currencies{
-        GNF{
-            "FG",
-            "GNF",
-        }
     }
     Version{"2.1.38.69"}
 }

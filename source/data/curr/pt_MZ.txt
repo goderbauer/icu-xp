@@ -3,10 +3,6 @@
 pt_MZ{
     %%Parent{"pt_PT"}
     Currencies{
-        MZN{
-            "MTn",
-            "Metical de Moçambique",
-        }
     }
     Version{"2.1.38.39"}
 }

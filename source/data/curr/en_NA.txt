@@ -3,10 +3,6 @@
 en_NA{
     %%Parent{"en_001"}
     Currencies{
-        NAD{
-            "$",
-            "Namibian Dollar",
-        }
     }
     Version{"2.1.38.69"}
 }

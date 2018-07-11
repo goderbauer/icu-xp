@@ -6,10 +6,6 @@ bm{
             "AED",
             "arabu mara kafoli Diram",
         }
-        AOA{
-            "AOA",
-            "angola Kwanza",
-        }
         AUD{
             "A$",
             "ositirali Dolar",
@@ -18,21 +14,9 @@ bm{
             "BHD",
             "bareyini Dinar",
         }
-        BIF{
-            "BIF",
-            "burundi Fraŋ",
-        }
-        BWP{
-            "BWP",
-            "bɔtisiwana Pula",
-        }
         CAD{
             "CA$",
             "kanada Dolar",
-        }
-        CDF{
-            "CDF",
-            "kongole Fraŋ",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ bm{
             "CN¥",
             "siniwa Yuwan",
         }
-        CVE{
-            "CVE",
-            "capivɛrdi Esekudo",
-        }
-        DJF{
-            "DJF",
-            "jibuti Fraŋ",
-        }
         DZD{
             "DZD",
             "alizeri Dinar",
@@ -57,10 +33,6 @@ bm{
         EGP{
             "EGP",
             "eziputi Livri",
-        }
-        ERN{
-            "ERN",
-            "eritere Nafika",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ bm{
             "£",
             "angilɛ Livri",
         }
-        GMD{
-            "GMD",
-            "gambi Dalasi",
-        }
         INR{
             "₹",
             "Ɛndu Rupi",
@@ -86,121 +54,25 @@ bm{
             "JP¥",
             "zapɔne Yɛn",
         }
-        KES{
-            "KES",
-            "keniya Siling",
-        }
-        KMF{
-            "KMF",
-            "komɔri Fraŋ",
-        }
-        LRD{
-            "LRD",
-            "liberiya Dolar",
-        }
-        LSL{
-            "LSL",
-            "lesoto Loti",
-        }
-        LYD{
-            "LYD",
-            "libi Dinar",
-        }
         MAD{
             "MAD",
             "marɔku Diram",
-        }
-        MGA{
-            "MGA",
-            "madagasikari Fraŋ",
-        }
-        MRU{
-            "MRU",
-            "mɔritani Uguwiya",
-        }
-        MUR{
-            "MUR",
-            "morisi Rupi",
-        }
-        MWK{
-            "MWK",
-            "malawi Kwaca",
-        }
-        NAD{
-            "NAD",
-            "namibi Dolar",
         }
         NGN{
             "NGN",
             "nizeriya Nɛra",
         }
-        RWF{
-            "RWF",
-            "ruwanda Fraŋ",
-        }
         SAR{
             "SAR",
             "sawudiya Riyal",
-        }
-        SCR{
-            "SCR",
-            "sesɛli Rupi",
-        }
-        SDG{
-            "SDG",
-            "sudani Dinar",
-        }
-        SHP{
-            "SHP",
-            "Ɛlɛni-Senu Livri",
-        }
-        SLL{
-            "SLL",
-            "siyeralewɔni Lewɔni",
-        }
-        SOS{
-            "SOS",
-            "somali Siling",
-        }
-        STN{
-            "STN",
-            "sawotome Dobra",
-        }
-        SZL{
-            "SZL",
-            "swazilandi Lilangeni",
-        }
-        TND{
-            "TND",
-            "tunizi Dinar",
-        }
-        TZS{
-            "TZS",
-            "tanzani Siling",
-        }
-        UGX{
-            "UGX",
-            "uganda Siling",
         }
         USD{
             "US$",
             "ameriki Dolar",
         }
-        XAF{
-            "FCFA",
-            "sefa Fraŋ (BEAC)",
-        }
-        XOF{
-            "CFA",
-            "sefa Fraŋ (BCEAO)",
-        }
         ZAR{
             "ZAR",
             "sudafriki Randi",
-        }
-        ZMW{
-            "ZMW",
-            "zambi Kwaca",
         }
     }
     Version{"2.1.39.11"}

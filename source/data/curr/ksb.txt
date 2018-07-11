@@ -6,10 +6,6 @@ ksb{
             "AED",
             "dilham ya Falme za Kialabu",
         }
-        AOA{
-            "AOA",
-            "kwanza ya Angola",
-        }
         AUD{
             "A$",
             "dola ya Austlalia",
@@ -18,21 +14,9 @@ ksb{
             "BHD",
             "dinali ya Bahaleni",
         }
-        BIF{
-            "BIF",
-            "falanga ya Bulundi",
-        }
-        BWP{
-            "BWP",
-            "pula ya Botswana",
-        }
         CAD{
             "CA$",
             "dola ya Kanada",
-        }
-        CDF{
-            "CDF",
-            "falanga ya Kongo",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ ksb{
             "CN¥",
             "yaun lenminbi ya China",
         }
-        CVE{
-            "CVE",
-            "eskudo ya Kepuvede",
-        }
-        DJF{
-            "DJF",
-            "falanga ya Jibuti",
-        }
         DZD{
             "DZD",
             "dinali ya Aljelia",
@@ -57,10 +33,6 @@ ksb{
         EGP{
             "EGP",
             "pauni ya Misli",
-        }
-        ERN{
-            "ERN",
-            "nakfa ya Elitlea",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ ksb{
             "£",
             "pauni ya Uingeeza",
         }
-        GMD{
-            "GMD",
-            "dalasi ya Gambia",
-        }
         INR{
             "₹",
             "lupia ya India",
@@ -86,121 +54,25 @@ ksb{
             "JP¥",
             "salafu ya Kijapani",
         }
-        KES{
-            "KES",
-            "shilingi ya Kenya",
-        }
-        KMF{
-            "KMF",
-            "falanga ya Komolo",
-        }
-        LRD{
-            "LRD",
-            "dola ya Libelia",
-        }
-        LSL{
-            "LSL",
-            "loti ya Lesoto",
-        }
-        LYD{
-            "LYD",
-            "dinali ya Libya",
-        }
         MAD{
             "MAD",
             "dilham ya Moloko",
-        }
-        MGA{
-            "MGA",
-            "falanga ya Bukini",
-        }
-        MRU{
-            "MRU",
-            "ugwiya ya Molitania",
-        }
-        MUR{
-            "MUR",
-            "lupia ya Molisi",
-        }
-        MWK{
-            "MWK",
-            "kwacha ya Malawi",
-        }
-        NAD{
-            "NAD",
-            "dola ya Namibia",
         }
         NGN{
             "NGN",
             "naila ya Naijelia",
         }
-        RWF{
-            "RWF",
-            "falanga ya Lwanda",
-        }
         SAR{
             "SAR",
             "liyal ya Saudia",
-        }
-        SCR{
-            "SCR",
-            "lupia ya Shelisheli",
-        }
-        SDG{
-            "SDG",
-            "dinali ya Sudani",
-        }
-        SHP{
-            "SHP",
-            "pauni ya Santahelena",
-        }
-        SLL{
-            "SLL",
-            "leoni",
-        }
-        SOS{
-            "SOS",
-            "shilingi ya Somalia",
-        }
-        STN{
-            "STN",
-            "dobla ya Sao Tome na Plincipe",
-        }
-        SZL{
-            "SZL",
-            "lilangeni",
-        }
-        TND{
-            "TND",
-            "dinali ya Tunisia",
-        }
-        TZS{
-            "TSh",
-            "shilingi ya Tanzania",
-        }
-        UGX{
-            "UGX",
-            "shilingi ya Uganda",
         }
         USD{
             "US$",
             "dola ya Malekani",
         }
-        XAF{
-            "FCFA",
-            "falanga CFA BEAC",
-        }
-        XOF{
-            "CFA",
-            "falanga CFA BCEAO",
-        }
         ZAR{
             "ZAR",
             "landi ya Aflika Kusini",
-        }
-        ZMW{
-            "ZMW",
-            "kwacha ya Zambia",
         }
     }
     Version{"2.1.39.11"}

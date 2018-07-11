@@ -211,30 +211,6 @@ it{
     }
     Version{"2.1.41.97"}
     calendar{
-        buddhist{
-            eras{
-                abbreviated{
-                    "EB",
-                }
-            }
-        }
-        chinese{
-            DateTimePatterns{
-                "HH:mm:ss zzzz",
-                "HH:mm:ss z",
-                "HH:mm:ss",
-                "HH:mm",
-                "EEEE d MMMM U",
-                "dd MMMM U",
-                "dd MMM U",
-                "dd/MM/yy",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-            }
-        }
         generic{
             DateTimePatterns{
                 "HH:mm:ss zzzz",
@@ -864,45 +840,6 @@ it{
                         "3º trimestre",
                         "4º trimestre",
                     }
-                }
-            }
-        }
-        hebrew{
-            eras{
-                abbreviated{
-                    "AM",
-                }
-            }
-        }
-        islamic{
-            eras{
-                abbreviated{
-                    "AH",
-                }
-            }
-        }
-        japanese{
-            DateTimePatterns{
-                "HH:mm:ss zzzz",
-                "HH:mm:ss z",
-                "HH:mm:ss",
-                "HH:mm",
-                "EEEE d MMMM y G",
-                "dd MMMM y G",
-                "dd MMM y G",
-                "dd/MM/yy GGGGG",
-                "{1}, {0}",
-                "{1} 'alle' {0}",
-                "{1} 'alle' {0}",
-                "{1}, {0}",
-                "{1}, {0}",
-            }
-        }
-        roc{
-            eras{
-                abbreviated{
-                    "Prima di R.O.C.",
-                    "Minguo",
                 }
             }
         }

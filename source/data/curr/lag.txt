@@ -6,10 +6,6 @@ lag{
             "AED",
             "Diriháamu ya Ʉtemi wa Kɨaráabu",
         }
-        AOA{
-            "AOA",
-            "Kwáanza ya Angóola",
-        }
         AUD{
             "A$",
             "Dóola ya Ausitereelía",
@@ -18,21 +14,9 @@ lag{
             "BHD",
             "Dináari ya Baharéeni",
         }
-        BIF{
-            "BIF",
-            "Faráanga ya Burúundi",
-        }
-        BWP{
-            "BWP",
-            "Púula ya Botiswáana",
-        }
         CAD{
             "CA$",
             "Dóola ya Kánada",
-        }
-        CDF{
-            "CDF",
-            "Faráanga ya Kóongo",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ lag{
             "CN¥",
             "Yúani Renimínibi ya Chíina",
         }
-        CVE{
-            "CVE",
-            "Esikúudo ya Kepuvéede",
-        }
-        DJF{
-            "DJF",
-            "Faráanga ya Jibóuti",
-        }
         DZD{
             "DZD",
             "Dináairi ya Alijéria",
@@ -57,10 +33,6 @@ lag{
         EGP{
             "EGP",
             "Páundi ya Mísiri",
-        }
-        ERN{
-            "ERN",
-            "Nákɨfa ya Eriterea",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ lag{
             "£",
             "Páundi ya Ʉɨngɨréesa",
         }
-        GMD{
-            "GMD",
-            "Daláasi ya Gámbia",
-        }
         INR{
             "₹",
             "Rupía ya Índia",
@@ -86,121 +54,25 @@ lag{
             "JP¥",
             "Yéeni ya Japáani",
         }
-        KES{
-            "KES",
-            "Shilíingi ya Kéenya",
-        }
-        KMF{
-            "KMF",
-            "Faráanga ya Komóoro",
-        }
-        LRD{
-            "LRD",
-            "Dóola ya Libéria",
-        }
-        LSL{
-            "LSL",
-            "Lóoti ya Lesóoto",
-        }
-        LYD{
-            "LYD",
-            "Dináari ya Líbia",
-        }
         MAD{
             "MAD",
             "Diriháamu ya Moróoko",
-        }
-        MGA{
-            "MGA",
-            "Mpía ya bukini",
-        }
-        MRU{
-            "MRU",
-            "Ungwíiya ya Moritánia",
-        }
-        MUR{
-            "MUR",
-            "Rupía ya Moríisi",
-        }
-        MWK{
-            "MWK",
-            "Kwáacha ya Maláawi",
-        }
-        NAD{
-            "NAD",
-            "Dóola ya Namíbia",
         }
         NGN{
             "NGN",
             "Naíira ya Niijéria",
         }
-        RWF{
-            "RWF",
-            "Faráanga ya Rwáanda",
-        }
         SAR{
             "SAR",
             "Riyáali ya Saudía",
-        }
-        SCR{
-            "SCR",
-            "Rupía ya Shelishéeli",
-        }
-        SDG{
-            "SDG",
-            "Páundi ya Sudáani",
-        }
-        SHP{
-            "SHP",
-            "Páundi ya Mʉtakatíifu Heléena",
-        }
-        SLL{
-            "SLL",
-            "Leóoni",
-        }
-        SOS{
-            "SOS",
-            "Shilíingi ya Somália",
-        }
-        STN{
-            "STN",
-            "Dóbura ya SaoTóome na Pirínsipe",
-        }
-        SZL{
-            "SZL",
-            "Lilengéeni",
-        }
-        TND{
-            "TND",
-            "Dináari ya Tunísia",
-        }
-        TZS{
-            "TSh",
-            "Shilíingi ya Taansanía",
-        }
-        UGX{
-            "UGX",
-            "Shilíingi ya Ugáanda",
         }
         USD{
             "US$",
             "Dóola ya Amerɨ́ka",
         }
-        XAF{
-            "FCFA",
-            "Faráanga ya CFA BEAC",
-        }
-        XOF{
-            "CFA",
-            "Faráanga ya CFA BCEAO",
-        }
         ZAR{
             "ZAR",
             "Ráandi ya Afɨrɨka ya Saame",
-        }
-        ZMW{
-            "ZMW",
-            "Kwácha ya Sámbia",
         }
     }
     Version{"2.1.39.11"}

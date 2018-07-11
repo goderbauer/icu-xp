@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 fr_CD{
     Currencies{
-        CDF{
-            "FC",
-            "franc congolais",
-        }
     }
     Version{"2.1.38.39"}
 }

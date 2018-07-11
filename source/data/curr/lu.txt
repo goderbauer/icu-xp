@@ -6,10 +6,6 @@ lu{
             "AED",
             "Ndiriha wa Lemila alabu",
         }
-        AOA{
-            "AOA",
-            "Kwanza wa Angola",
-        }
         AUD{
             "A$",
             "Ndola wa Ositali",
@@ -18,21 +14,9 @@ lu{
             "BHD",
             "Ndina wa Bahrene",
         }
-        BIF{
-            "BIF",
-            "Nfalanga wa Bulundi",
-        }
-        BWP{
-            "BWP",
-            "Pula wa Botswana",
-        }
         CAD{
             "CA$",
             "Ndola wa Kanada",
-        }
-        CDF{
-            "FC",
-            "Nfalanga wa Kongu",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ lu{
             "CN¥",
             "Yuani Renminbi wa Shine",
         }
-        CVE{
-            "CVE",
-            "Esikuludo wa Kapevere",
-        }
-        DJF{
-            "DJF",
-            "Nfalanga wa Dzibuti",
-        }
         DZD{
             "DZD",
             "Ndina wa Alijeri",
@@ -57,10 +33,6 @@ lu{
         EGP{
             "EGP",
             "Pauni wa Mushidi",
-        }
-        ERN{
-            "ERN",
-            "Nakfa wa Elitle",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ lu{
             "£",
             "Pauni wa Angeletele",
         }
-        GMD{
-            "GMD",
-            "Ndalasi wa Ngambi",
-        }
         INR{
             "₹",
             "Rupi wa Inde",
@@ -86,121 +54,25 @@ lu{
             "JP¥",
             "Yeni wa Zapɔ",
         }
-        KES{
-            "KES",
-            "Nshili wa Kenya",
-        }
-        KMF{
-            "KMF",
-            "Nfalanga wa Komoru",
-        }
-        LRD{
-            "LRD",
-            "Ndola wa Liberya",
-        }
-        LSL{
-            "LSL",
-            "Loti wa Lesoto",
-        }
-        LYD{
-            "LYD",
-            "Ndina wa Libi",
-        }
         MAD{
             "MAD",
             "Ndiriha wa Maroke",
-        }
-        MGA{
-            "MGA",
-            "Nfalanga wa Madagasikare",
-        }
-        MRU{
-            "MRU",
-            "Ugwiya wa Moritani",
-        }
-        MUR{
-            "MUR",
-            "Rupia wa Morisi",
-        }
-        MWK{
-            "MWK",
-            "Kwasha wa Malawi",
-        }
-        NAD{
-            "NAD",
-            "Ndola wa Namibi",
         }
         NGN{
             "NGN",
             "Naira wa Nizerya",
         }
-        RWF{
-            "RWF",
-            "Nfalanga wa Rwanda",
-        }
         SAR{
             "SAR",
             "Riyale wa Alabu Nsawu",
-        }
-        SCR{
-            "SCR",
-            "Rupya wa Seshele",
-        }
-        SDG{
-            "SDG",
-            "Ndina wa Suda",
-        }
-        SHP{
-            "SHP",
-            "Pauni wa Santu Elena",
-        }
-        SLL{
-            "SLL",
-            "Leone",
-        }
-        SOS{
-            "SOS",
-            "Nshili wa Somali",
-        }
-        STN{
-            "STN",
-            "Dobra wa Sao Tome ne Presipe",
-        }
-        SZL{
-            "SZL",
-            "Lilangeni",
-        }
-        TND{
-            "TND",
-            "Ndina wa Tinizi",
-        }
-        TZS{
-            "TZS",
-            "Nshili wa Tanzani",
-        }
-        UGX{
-            "UGX",
-            "Nshili wa Uganda",
         }
         USD{
             "US$",
             "Ndola wa Ameriki",
         }
-        XAF{
-            "FCFA",
-            "Nfalanga CFA BEAC",
-        }
-        XOF{
-            "CFA",
-            "Nfalanga CFA BCEAO",
-        }
         ZAR{
             "ZAR",
             "Rande wa Afrika wa Mwinshi",
-        }
-        ZMW{
-            "ZMW",
-            "Kwasha wa Zambi",
         }
     }
     Version{"2.1.39.11"}

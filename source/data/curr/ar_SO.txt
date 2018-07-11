@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 ar_SO{
     Currencies{
-        SOS{
-            "S",
-            "شلن صومالي",
-        }
     }
     Version{"2.1.38.80"}
 }

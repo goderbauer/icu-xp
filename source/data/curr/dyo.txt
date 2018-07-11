@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 dyo{
     Currencies{
-        AOA{
-            "AOA",
-            "kwanza yati Angola",
-        }
         AUD{
             "A$",
             "dolaar yati Ostraalia",
@@ -14,33 +10,13 @@ dyo{
             "BHD",
             "dinaar yati Bahrayn",
         }
-        BIF{
-            "BIF",
-            "fraaŋ yati Burundi",
-        }
-        BWP{
-            "BWP",
-            "pula yati Boswana",
-        }
         CAD{
             "CA$",
             "dolaar yati Kanada",
         }
-        CDF{
-            "CDF",
-            "fraaŋ yati Kongo",
-        }
         CNY{
             "CN¥",
             "yuan yati Siin",
-        }
-        CVE{
-            "CVE",
-            "eskuudo yati Kap Ver",
-        }
-        DJF{
-            "DJF",
-            "fraaŋ yati Jibuti",
         }
         DZD{
             "DZD",
@@ -50,10 +26,6 @@ dyo{
             "EGP",
             "liiverey yati Esípt",
         }
-        ERN{
-            "ERN",
-            "nafka yati Eritree",
-        }
         ETB{
             "ETB",
             "birr yati Ecoopi",
@@ -62,10 +34,6 @@ dyo{
             "€",
             "euro",
         }
-        GMD{
-            "GMD",
-            "dalasi yati Gambi",
-        }
         INR{
             "₹",
             "rupii yati End",
@@ -73,42 +41,6 @@ dyo{
         JPY{
             "JP¥",
             "yen yati Sapoŋ",
-        }
-        KES{
-            "KES",
-            "silliŋ yati Keniya",
-        }
-        KMF{
-            "KMF",
-            "fraaŋ yati Komor",
-        }
-        LRD{
-            "LRD",
-            "dolaar yati Liberia",
-        }
-        LYD{
-            "LYD",
-            "dinaar yati Libia",
-        }
-        MGA{
-            "MGA",
-            "ariari yati Madagaskaar",
-        }
-        MRU{
-            "MRU",
-            "ugiiya yati Mooritanii",
-        }
-        MWK{
-            "MWK",
-            "kwacha yati Malawi",
-        }
-        XAF{
-            "FCFA",
-            "seefa BEAC",
-        }
-        XOF{
-            "CFA",
-            "seefa yati BCEAO",
         }
     }
     Version{"2.1.39.11"}

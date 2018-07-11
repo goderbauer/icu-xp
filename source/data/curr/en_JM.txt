@@ -3,10 +3,6 @@
 en_JM{
     %%Parent{"en_001"}
     Currencies{
-        JMD{
-            "$",
-            "Jamaican Dollar",
-        }
     }
     Version{"2.1.38.69"}
 }

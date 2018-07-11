@@ -33,27 +33,6 @@ zh_Hans_HK{
     }
     Version{"2.1.38.39"}
     calendar{
-        buddhist{
-            DateTimePatterns{
-                "zzzz ah:mm:ss",
-                "z ah:mm:ss",
-                "ah:mm:ss",
-                "ah:mm",
-                "Gy年M月d日EEEE",
-                "Gy年M月d日",
-                "Gy年M月d日",
-                "Gd/M/yy",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-            }
-            availableFormats{
-                M{"L"}
-                MEd{"M/dE"}
-            }
-        }
         chinese{
             DateTimePatterns{
                 "zzzz ah:mm:ss",
@@ -191,66 +170,6 @@ zh_Hans_HK{
                     d{"d/M/y至d/M/y"}
                     y{"d/M/y至d/M/y"}
                 }
-            }
-        }
-        islamic{
-            DateTimePatterns{
-                "zzzz ah:mm:ss",
-                "z ah:mm:ss",
-                "ah:mm:ss",
-                "ah:mm",
-                "Gy年M月d日EEEE",
-                "Gy年M月d日",
-                "Gy年M月d日",
-                "Gd/M/yy",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-            }
-        }
-        japanese{
-            DateTimePatterns{
-                "zzzz ah:mm:ss",
-                "z ah:mm:ss",
-                "ah:mm:ss",
-                "ah:mm",
-                "Gy年M月d日EEEE",
-                "Gy年M月d日",
-                "Gy年M月d日",
-                "Gd/M/yy",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-            }
-            availableFormats{
-                MEd{"M/dE"}
-                Md{"M/d"}
-            }
-        }
-        roc{
-            DateTimePatterns{
-                "zzzz ah:mm:ss",
-                "z ah:mm:ss",
-                "ah:mm:ss",
-                "ah:mm",
-                "Gy年M月d日EEEE",
-                "Gy年M月d日",
-                "Gy年M月d日",
-                "Gd/M/yy",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-                "{1} {0}",
-            }
-            availableFormats{
-                M{"L"}
-                MMM{"M月"}
-                Md{"M-d"}
             }
         }
     }

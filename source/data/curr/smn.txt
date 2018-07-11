@@ -10,10 +10,6 @@ smn{
             "€",
             "euro",
         }
-        ISK{
-            "ISK",
-            "Island ruvnâ",
-        }
         NOK{
             "NOK",
             "Taažâ ruvnâ",

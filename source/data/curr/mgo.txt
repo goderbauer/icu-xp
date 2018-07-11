@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 mgo{
     Currencies{
-        XAF{
-            "FCFA",
-            "shirè",
-        }
     }
     CurrencyUnitPatterns{
         one{"{0} {1}"}

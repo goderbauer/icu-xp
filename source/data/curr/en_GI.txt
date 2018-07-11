@@ -7,10 +7,6 @@ en_GI{
             "GB£",
             "British Pound",
         }
-        GIP{
-            "£",
-            "Gibraltar Pound",
-        }
     }
     Version{"2.1.38.69"}
 }

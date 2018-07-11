@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 mas_TZ{
     Currencies{
-        TZS{
-            "TSh",
-            "Iropiyianí e Tanzania",
-        }
     }
     Version{"2.1.38.69"}
 }

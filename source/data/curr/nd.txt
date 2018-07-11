@@ -6,10 +6,6 @@ nd{
             "AED",
             "Dola laseArab",
         }
-        AOA{
-            "AOA",
-            "Kwanza yase Angola",
-        }
         AUD{
             "A$",
             "Dola yase Australia",
@@ -18,21 +14,9 @@ nd{
             "BHD",
             "Dinari yase Bhahareni",
         }
-        BIF{
-            "BIF",
-            "Fulenki yase Bhurundi",
-        }
-        BWP{
-            "BWP",
-            "Phula yase Botswana",
-        }
         CAD{
             "CA$",
             "Dola yase Khanada",
-        }
-        CDF{
-            "CDF",
-            "Fulenki yase Khongo",
         }
         CHF{
             "CHF",
@@ -42,14 +26,6 @@ nd{
             "CN¥",
             "Yuan Renminbi yase China",
         }
-        CVE{
-            "CVE",
-            "Escudo Caboverdiano",
-        }
-        DJF{
-            "DJF",
-            "Fulenki yase Jibhuthi",
-        }
         DZD{
             "DZD",
             "Dinali yase Aljeriya",
@@ -57,10 +33,6 @@ nd{
         EGP{
             "EGP",
             "Phawundi laseGibhide",
-        }
-        ERN{
-            "ERN",
-            "Nakfa yase Eritrea",
         }
         ETB{
             "ETB",
@@ -74,10 +46,6 @@ nd{
             "£",
             "Phawundi yase Ngilandi",
         }
-        GMD{
-            "GMD",
-            "Dalasi yase Gambia",
-        }
         INR{
             "₹",
             "Rupi yase Indiya",
@@ -86,121 +54,25 @@ nd{
             "JP¥",
             "Yeni yase Japhani",
         }
-        KES{
-            "KES",
-            "Shilingi yase Kenya",
-        }
-        KMF{
-            "KMF",
-            "Fulenki yase Khomoro",
-        }
-        LRD{
-            "LRD",
-            "Dola yase Libheriya",
-        }
-        LSL{
-            "LSL",
-            "Lothi yase Lesotho",
-        }
-        LYD{
-            "LYD",
-            "Dinari yase Libya",
-        }
         MAD{
             "MAD",
             "Dirham yase Morokho",
-        }
-        MGA{
-            "MGA",
-            "Fulenki yase Malagasi",
-        }
-        MRU{
-            "MRU",
-            "Ugwiya yase Moritaniya",
-        }
-        MUR{
-            "MUR",
-            "Rupi yase Morishasi",
-        }
-        MWK{
-            "MWK",
-            "Kwacha yase Malawi",
-        }
-        NAD{
-            "NAD",
-            "Dola yase Namibiya",
         }
         NGN{
             "NGN",
             "Nayira yase Nijeriya",
         }
-        RWF{
-            "RWF",
-            "Fulenki yase Ruwanda",
-        }
         SAR{
             "SAR",
             "Riyal yase Saudi",
-        }
-        SCR{
-            "SCR",
-            "Rupi yase Seyisheli",
-        }
-        SDG{
-            "SDG",
-            "Dinari yase Sudani",
-        }
-        SHP{
-            "SHP",
-            "Phawundindi laseSt Helena",
-        }
-        SLL{
-            "SLL",
-            "Leyoni",
-        }
-        SOS{
-            "SOS",
-            "Shilingi yase Somaliya",
-        }
-        STN{
-            "STN",
-            "Dobra yase Sao Tome lo Principe",
-        }
-        SZL{
-            "SZL",
-            "Lilangeni",
-        }
-        TND{
-            "TND",
-            "Dinari yase Tunisiya",
-        }
-        TZS{
-            "TZS",
-            "Shilingi yase Tanzaniya",
-        }
-        UGX{
-            "UGX",
-            "Shilingi yase Uganda",
         }
         USD{
             "US$",
             "Dola yase Amelika",
         }
-        XAF{
-            "FCFA",
-            "Fulenki CFA BEAC",
-        }
-        XOF{
-            "CFA",
-            "Fulenki CFA BCEAO",
-        }
         ZAR{
             "ZAR",
             "Randi yase Afrika ye Zanzi",
-        }
-        ZMW{
-            "ZMW",
-            "Kwacha yase Zambiya",
         }
     }
     Version{"2.1.39.11"}

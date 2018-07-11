@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 fr_RW{
     Currencies{
-        RWF{
-            "RF",
-            "franc rwandais",
-        }
     }
     Version{"2.1.38.39"}
 }

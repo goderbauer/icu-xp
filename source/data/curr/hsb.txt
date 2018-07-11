@@ -18,14 +18,6 @@ hsb{
             "AMD",
             "armenski dram",
         }
-        ANG{
-            "ANG",
-            "nižozemsko-antilski gulden",
-        }
-        AOA{
-            "AOA",
-            "angolska kwanza",
-        }
         ARS{
             "ARS",
             "argentinski peso",
@@ -34,10 +26,6 @@ hsb{
             "AUD",
             "awstralski dolar",
         }
-        AWG{
-            "AWG",
-            "aruba-florin",
-        }
         AZN{
             "AZN",
             "azerbajdźanski manat",
@@ -45,10 +33,6 @@ hsb{
         BAM{
             "BAM",
             "bosniska konwertibelna hriwna",
-        }
-        BBD{
-            "BBD",
-            "barbadoski dolar",
         }
         BDT{
             "BDT",
@@ -62,53 +46,21 @@ hsb{
             "BHD",
             "bahrainski dinar",
         }
-        BIF{
-            "BIF",
-            "burundiski frank",
-        }
-        BMD{
-            "BMD",
-            "bermudaski dolar",
-        }
         BND{
             "BND",
             "bruneiski dolar",
-        }
-        BOB{
-            "BOB",
-            "boliwiski boliviano",
         }
         BRL{
             "R$",
             "brazilski real",
         }
-        BSD{
-            "BSD",
-            "bahamaski dolar",
-        }
-        BTN{
-            "BTN",
-            "bhutanski ngultrum",
-        }
-        BWP{
-            "BWP",
-            "botswanska pula",
-        }
         BYN{
             "BYN",
             "běłoruski rubl",
         }
-        BZD{
-            "BZD",
-            "belizeski dolar",
-        }
         CAD{
             "CA$",
             "kanadiski dolar",
-        }
-        CDF{
-            "CDF",
-            "kongoski frank",
         }
         CHF{
             "CHF",
@@ -130,33 +82,13 @@ hsb{
             "CRC",
             "kosta-rikaski colón",
         }
-        CUC{
-            "CUC",
-            "kubaski konwertibelny peso",
-        }
-        CUP{
-            "CUP",
-            "kubaski peso",
-        }
-        CVE{
-            "CVE",
-            "kapverdski escudo",
-        }
         CZK{
             "CZK",
             "čěska króna",
         }
-        DJF{
-            "DJF",
-            "dźibutiski frank",
-        }
         DKK{
             "DKK",
             "danska króna",
-        }
-        DOP{
-            "DOP",
-            "dominikanski peso",
         }
         DZD{
             "DZD",
@@ -166,10 +98,6 @@ hsb{
             "EGP",
             "egyptowski punt",
         }
-        ERN{
-            "ERN",
-            "eritrejska nakfa",
-        }
         ETB{
             "ETB",
             "etiopiski birr",
@@ -177,14 +105,6 @@ hsb{
         EUR{
             "€",
             "euro",
-        }
-        FJD{
-            "FJD",
-            "fidźiski dolar",
-        }
-        FKP{
-            "FKP",
-            "falklandski punt",
         }
         GBP{
             "£",
@@ -194,45 +114,13 @@ hsb{
             "GEL",
             "georgiski lari",
         }
-        GHS{
-            "GHS",
-            "ghanaski cedi",
-        }
-        GIP{
-            "GIP",
-            "gibraltarski punt",
-        }
-        GMD{
-            "GMD",
-            "gambiski dalasi",
-        }
-        GNF{
-            "GNF",
-            "ginejski frank",
-        }
-        GTQ{
-            "GTQ",
-            "guatemalski quetzal",
-        }
-        GYD{
-            "GYD",
-            "guyanski dolar",
-        }
         HKD{
             "HK$",
             "hongkongski dolar",
         }
-        HNL{
-            "HNL",
-            "honduraska lempira",
-        }
         HRK{
             "HRK",
             "chorwatska kuna",
-        }
-        HTG{
-            "HTG",
-            "haitiska gourda",
         }
         HUF{
             "HUF",
@@ -258,25 +146,9 @@ hsb{
             "IRR",
             "iranski rial",
         }
-        ISK{
-            "ISK",
-            "islandska króna",
-        }
-        JMD{
-            "JMD",
-            "jamaiski dolar",
-        }
-        JOD{
-            "JOD",
-            "jordaniski dinar",
-        }
         JPY{
             "¥",
             "japanski yen",
-        }
-        KES{
-            "KES",
-            "keniaski šiling",
         }
         KGS{
             "KGS",
@@ -286,14 +158,6 @@ hsb{
             "KHR",
             "kambodźaski riel",
         }
-        KMF{
-            "KMF",
-            "komorski frank",
-        }
-        KPW{
-            "KPW",
-            "sewjernokorejski won",
-        }
         KRW{
             "₩",
             "južnokorejski won",
@@ -301,10 +165,6 @@ hsb{
         KWD{
             "KWD",
             "kuwaitski dinar",
-        }
-        KYD{
-            "KYD",
-            "kajmanski dolar",
         }
         KZT{
             "KZT",
@@ -314,21 +174,9 @@ hsb{
             "LAK",
             "laoski kip",
         }
-        LBP{
-            "LBP",
-            "libanonski punt",
-        }
         LKR{
             "LKR",
             "sri-lankaska rupija",
-        }
-        LRD{
-            "LRD",
-            "liberiski dolar",
-        }
-        LYD{
-            "LYD",
-            "libyski dinar",
         }
         MAD{
             "MAD",
@@ -338,42 +186,6 @@ hsb{
             "MDL",
             "moldawski leu",
         }
-        MGA{
-            "MGA",
-            "madagaskarski ariary",
-        }
-        MKD{
-            "MKD",
-            "makedonski denar",
-        }
-        MMK{
-            "MMK",
-            "myanmarski kyat",
-        }
-        MNT{
-            "MNT",
-            "mongolski tugrik",
-        }
-        MOP{
-            "MOP",
-            "macaoska pataka",
-        }
-        MRU{
-            "MRU",
-            "mawretanska ouguiya",
-        }
-        MUR{
-            "MUR",
-            "mauritiuska rupija",
-        }
-        MVR{
-            "MVR",
-            "malediwiska rupija",
-        }
-        MWK{
-            "MWK",
-            "malawiski kwacha",
-        }
         MXN{
             "MX$",
             "mexiski peso",
@@ -382,21 +194,9 @@ hsb{
             "MYR",
             "malajziski ringgit",
         }
-        MZN{
-            "MZN",
-            "mosambikski metical",
-        }
-        NAD{
-            "NAD",
-            "namibiski dolar",
-        }
         NGN{
             "NGN",
             "nigeriski naira",
-        }
-        NIO{
-            "NIO",
-            "nikaraguaski cordoba",
         }
         NOK{
             "NOK",
@@ -410,21 +210,9 @@ hsb{
             "NZ$",
             "nowoseelandski dolar",
         }
-        OMR{
-            "OMR",
-            "omanski rial",
-        }
-        PAB{
-            "PAB",
-            "panamaski balboa",
-        }
         PEN{
             "PEN",
             "peruski sol",
-        }
-        PGK{
-            "PGK",
-            "papua-nowoginejski kina",
         }
         PHP{
             "PHP",
@@ -437,10 +225,6 @@ hsb{
         PLN{
             "zł",
             "pólski złoty",
-        }
-        PYG{
-            "PYG",
-            "paraguayski guarani",
         }
         QAR{
             "QAR",
@@ -458,25 +242,9 @@ hsb{
             "RUB",
             "ruski rubl",
         }
-        RWF{
-            "RWF",
-            "ruandiski frank",
-        }
         SAR{
             "SAR",
             "saudi-arabski rial",
-        }
-        SBD{
-            "SBD",
-            "salomonski dolar",
-        }
-        SCR{
-            "SCR",
-            "seychellska rupija",
-        }
-        SDG{
-            "SDG",
-            "sudanski punt",
         }
         SEK{
             "SEK",
@@ -486,42 +254,6 @@ hsb{
             "SGD",
             "singapurski dolar",
         }
-        SHP{
-            "SHP",
-            "St. Helenski punt",
-        }
-        SLL{
-            "SLL",
-            "sierra-leoneski leone",
-        }
-        SOS{
-            "SOS",
-            "somaliski šiling",
-        }
-        SRD{
-            "SRD",
-            "surinamski dolar",
-        }
-        SSP{
-            "SSP",
-            "južnosudanski punt",
-        }
-        STN{
-            "STN",
-            "são tomeski dobra",
-        }
-        SVC{
-            "SVC",
-            "el salvadorski colón",
-        }
-        SYP{
-            "SYP",
-            "syriski punt",
-        }
-        SZL{
-            "SZL",
-            "swasiski lilangeni",
-        }
         THB{
             "฿",
             "thaiski baht",
@@ -530,53 +262,21 @@ hsb{
             "TJS",
             "tadźikski somoni",
         }
-        TMT{
-            "TMT",
-            "turkmenski manat",
-        }
-        TND{
-            "TND",
-            "tuneziski dinar",
-        }
-        TOP{
-            "TOP",
-            "tongaski paʻanga",
-        }
         TRY{
             "TRY",
             "turkowska lira",
-        }
-        TTD{
-            "TTD",
-            "trinidad-tobagoski dolar",
         }
         TWD{
             "NT$",
             "nowy taiwanski dolar",
         }
-        TZS{
-            "TZS",
-            "tansaniski šiling",
-        }
         UAH{
             "UAH",
             "ukrainska hriwna",
         }
-        UGX{
-            "UGX",
-            "ugandaski šiling",
-        }
         USD{
             "$",
             "ameriski dolar",
-        }
-        UYU{
-            "UYU",
-            "uruguayski peso",
-        }
-        UZS{
-            "UZS",
-            "uzbekski sum",
         }
         VEF{
             "VEF",
@@ -586,41 +286,9 @@ hsb{
             "₫",
             "vietnamski dong",
         }
-        VUV{
-            "VUV",
-            "vanuatuski vatu",
-        }
-        WST{
-            "WST",
-            "samoaski tala",
-        }
-        XAF{
-            "FCFA",
-            "CFA-frank (BEAC)",
-        }
-        XCD{
-            "EC$",
-            "wuchodnokaribiski dolar",
-        }
-        XOF{
-            "CFA",
-            "CFA-frank (BCEAO)",
-        }
-        XPF{
-            "CFPF",
-            "CFP-frank",
-        }
-        YER{
-            "YER",
-            "jemenski rial",
-        }
         ZAR{
             "ZAR",
             "južnoafriski rand",
-        }
-        ZMW{
-            "ZMW",
-            "sambiski kwacha",
         }
     }
     Currencies%narrow{
@@ -651,18 +319,6 @@ hsb{
             other{"armenskich dramow"}
             two{"armenskej dramaj"}
         }
-        ANG{
-            few{"nižozemsko-antilske guldeny"}
-            one{"nižozemsko-antilski gulden"}
-            other{"nižozemsko-antilskich guldenow"}
-            two{"nižozemsko-antilskej guldenaj"}
-        }
-        AOA{
-            few{"angolske kwanzy"}
-            one{"angolska kwanza"}
-            other{"angolskich kwanzow"}
-            two{"angolskej kwanzy"}
-        }
         ARS{
             few{"argentinske pesa"}
             one{"argentinski peso"}
@@ -675,12 +331,6 @@ hsb{
             other{"awstralskich dolarow"}
             two{"awstralskej dolaraj"}
         }
-        AWG{
-            few{"aruba-floriny"}
-            one{"aruba-florin"}
-            other{"aruba-florinow"}
-            two{"aruba-florinaj"}
-        }
         AZN{
             few{"azerbajdźanski manaty"}
             one{"azerbajdźanski manat"}
@@ -692,12 +342,6 @@ hsb{
             one{"bosniska konwertibelna hriwna"}
             other{"bosniskich konwertibelnych hriwnow"}
             two{"bosniskej konwertibelnej hriwnje"}
-        }
-        BBD{
-            few{"barbadoske dolary"}
-            one{"barbadoski dolar"}
-            other{"barbadoskich dolarow"}
-            two{"barbadoskej dolaraj"}
         }
         BDT{
             few{"bangladešske taki"}
@@ -717,29 +361,11 @@ hsb{
             other{"bahrainskich dinarow"}
             two{"bahrainskej dinaraj"}
         }
-        BIF{
-            few{"burundiske franki"}
-            one{"burundiski frank"}
-            other{"burundiskich frankow"}
-            two{"burundiskej frankaj"}
-        }
-        BMD{
-            few{"bermudaske dolary"}
-            one{"bermudaski dolar"}
-            other{"bermudaskich dolarow"}
-            two{"bermudaskej dolaraj"}
-        }
         BND{
             few{"bruneiske dolary"}
             one{"bruneiski dolar"}
             other{"bruneiskich dolarow"}
             two{"bruneiskej dolaraj"}
-        }
-        BOB{
-            few{"boliwiske boliviany"}
-            one{"boliwiski boliviano"}
-            other{"boliwiskich bolivianow"}
-            two{"boliwiskej bolivianaj"}
         }
         BRL{
             few{"brazilske reale"}
@@ -747,47 +373,17 @@ hsb{
             other{"brazilskich realow"}
             two{"brazilskej realej"}
         }
-        BSD{
-            few{"bahamaske dolary"}
-            one{"bahamaski dolar"}
-            other{"bahamaskich dolarow"}
-            two{"bahamaskej dolaraj"}
-        }
-        BTN{
-            few{"bhutanske ngultrumy"}
-            one{"bhutanski ngultrum"}
-            other{"bhutanskich ngultrumow"}
-            two{"bhutanskej ngultrumaj"}
-        }
-        BWP{
-            few{"botswanske pule"}
-            one{"botswanska pula"}
-            other{"botswanskich pulow"}
-            two{"botswanskej puli"}
-        }
         BYN{
             few{"běłoruske ruble"}
             one{"běłoruski rubl"}
             other{"běłoruskich rublow"}
             two{"běłoruskej rublej"}
         }
-        BZD{
-            few{"belizeske dolary"}
-            one{"belizeski dolar"}
-            other{"belizeskich dolarow"}
-            two{"belizeskej dolaraj"}
-        }
         CAD{
             few{"kanadiske dolary"}
             one{"kanadiski dolar"}
             other{"kanadiskich dolarow"}
             two{"kanadiskej dolaraj"}
-        }
-        CDF{
-            few{"kongoske franki"}
-            one{"kongoski frank"}
-            other{"kongoskich frankow"}
-            two{"kongoskej frankaj"}
         }
         CHF{
             few{"šwicarske franki"}
@@ -819,47 +415,17 @@ hsb{
             other{"kosta-rikaskich colónow"}
             two{"kosta-rikaskej colónaj"}
         }
-        CUC{
-            few{"kubaske konwertibelne pesa"}
-            one{"kubaski konwertibelny peso"}
-            other{"kubaskich konwertibelnych pesow"}
-            two{"kubaskej konwertibelnej pesaj"}
-        }
-        CUP{
-            few{"kubaske pesa"}
-            one{"kubaski peso"}
-            other{"kubaskich pesow"}
-            two{"kubaskej pesaj"}
-        }
-        CVE{
-            few{"kapverdske escuda"}
-            one{"kapverdski escudo"}
-            other{"kapverdskich escudow"}
-            two{"kapverdskej escudaj"}
-        }
         CZK{
             few{"čěske króny"}
             one{"čěska króna"}
             other{"čěskich krónow"}
             two{"čěskej krónje"}
         }
-        DJF{
-            few{"dźibutiske franki"}
-            one{"dźibutiski frank"}
-            other{"dźibutiskich frankow"}
-            two{"dźibutiskej frankaj"}
-        }
         DKK{
             few{"danske króny"}
             one{"danska króna"}
             other{"danskich krónow"}
             two{"danskej krónje"}
-        }
-        DOP{
-            few{"dominikanske pesa"}
-            one{"dominikanski peso"}
-            other{"dominikanskich pesow"}
-            two{"dominikanskej pesaj"}
         }
         DZD{
             few{"algeriske dinary"}
@@ -873,12 +439,6 @@ hsb{
             other{"egyptowskich puntow"}
             two{"egyptowskej puntaj"}
         }
-        ERN{
-            few{"eritrejske nakfy"}
-            one{"eritrejska nakfa"}
-            other{"eritrejskich nakfow"}
-            two{"eritrejskej nakfje"}
-        }
         ETB{
             few{"etiopiske birra"}
             one{"etiopiski birr"}
@@ -890,18 +450,6 @@ hsb{
             one{"euro"}
             other{"eurow"}
             two{"euraj"}
-        }
-        FJD{
-            few{"fidźiske dolary"}
-            one{"fidźiski dolar"}
-            other{"fidźiskich dolarow"}
-            two{"fidźiskej dolaraj"}
-        }
-        FKP{
-            few{"falklandske punty"}
-            one{"falklandski punt"}
-            other{"falklandskich puntow"}
-            two{"falklandskej puntaj"}
         }
         GBP{
             few{"britiske punty"}
@@ -915,65 +463,17 @@ hsb{
             other{"georgiskich larijow"}
             two{"georgiskej larijej"}
         }
-        GHS{
-            few{"ghanaske cedije"}
-            one{"ghanaski cedi"}
-            other{"ghanaskich cedijow"}
-            two{"ghanaskej cedaj"}
-        }
-        GIP{
-            few{"gibraltarske punty"}
-            one{"gibraltarski punt"}
-            other{"gibraltarskich puntow"}
-            two{"gibraltarskej puntaj"}
-        }
-        GMD{
-            few{"gambiske dalasije"}
-            one{"gambiski dalasi"}
-            other{"gambiskich dalasijow"}
-            two{"gambiskej dalasijej"}
-        }
-        GNF{
-            few{"ginejske franki"}
-            one{"ginejski frank"}
-            other{"ginejskich frankow"}
-            two{"ginejskej frankaj"}
-        }
-        GTQ{
-            few{"guatemalske quetzale"}
-            one{"guatemalski quetzal"}
-            other{"guatemalskich quetzalow"}
-            two{"guatemalskej quetzalej"}
-        }
-        GYD{
-            few{"guyanske dolary"}
-            one{"guyanski dolar"}
-            other{"guyanskich dolarow"}
-            two{"guyanskej dolaraj"}
-        }
         HKD{
             few{"hongkongske dolary"}
             one{"hongkongski dolar"}
             other{"hongkongskich dolarow"}
             two{"hongkongskej dolaraj"}
         }
-        HNL{
-            few{"honduraske lempiry"}
-            one{"honduraska lempira"}
-            other{"honduraskich lempirow"}
-            two{"honduraskej lempirje"}
-        }
         HRK{
             few{"chorwatske kuny"}
             one{"chorwatska kuna"}
             other{"chorwatskich kunow"}
             two{"chorwatskej kunje"}
-        }
-        HTG{
-            few{"haitiske gourdy"}
-            one{"haitiska gourda"}
-            other{"haitiskich gourdow"}
-            two{"haitiskej gourdźe"}
         }
         HUF{
             few{"madźarske forinty"}
@@ -1011,35 +511,11 @@ hsb{
             other{"iranskich rialow"}
             two{"iranskej rialej"}
         }
-        ISK{
-            few{"islandske króny"}
-            one{"islandska króna"}
-            other{"islandskich krónow"}
-            two{"islandskej krónje"}
-        }
-        JMD{
-            few{"jamaiske dolary"}
-            one{"jamaiski dolar"}
-            other{"jamaiskich dolarow"}
-            two{"jamaiskej dolaraj"}
-        }
-        JOD{
-            few{"jordaniske dinary"}
-            one{"jordaniski dinar"}
-            other{"jordaniskich dinarow"}
-            two{"jordaniskej dinaraj"}
-        }
         JPY{
             few{"japanske yeny"}
             one{"japanski yen"}
             other{"japanskich yenow"}
             two{"japanskej yenaj"}
-        }
-        KES{
-            few{"keniaske šilingi"}
-            one{"keniaski šiling"}
-            other{"keniaskich šilingow"}
-            two{"keniaskej šilingaj"}
         }
         KGS{
             few{"kirgiske somy"}
@@ -1053,18 +529,6 @@ hsb{
             other{"kambodźaskich rielow"}
             two{"kambodźaskej rielej"}
         }
-        KMF{
-            few{"komorske franki"}
-            one{"komorski frank"}
-            other{"komorskich frankow"}
-            two{"komorskej frankaj"}
-        }
-        KPW{
-            few{"sewjernokorejske wony"}
-            one{"sewjernokorejski won"}
-            other{"sewjernokorejskich wonow"}
-            two{"sewjernokorejskej wonaj"}
-        }
         KRW{
             few{"južnokorejske wony"}
             one{"južnokorejski won"}
@@ -1076,12 +540,6 @@ hsb{
             one{"kuwaitski dinar"}
             other{"kuwaitskich dinarow"}
             two{"kuwaitskej dinaraj"}
-        }
-        KYD{
-            few{"kajmanske dolary"}
-            one{"kajmanski dolar"}
-            other{"kajmanskich dolarow"}
-            two{"kajmanskej dolaraj"}
         }
         KZT{
             few{"kazachske tengi"}
@@ -1095,29 +553,11 @@ hsb{
             other{"laoskich kipow"}
             two{"laoskej kipaj"}
         }
-        LBP{
-            few{"libanonske punty"}
-            one{"libanonski punt"}
-            other{"libanonskich puntow"}
-            two{"libanonskej puntaj"}
-        }
         LKR{
             few{"sri-lankaske rupije"}
             one{"sri-lankaska rupija"}
             other{"sri-lankaskich rupijow"}
             two{"sri-lankaskej rupiji"}
-        }
-        LRD{
-            few{"liberiske dolary"}
-            one{"liberiski dolar"}
-            other{"liberiskich dolarow"}
-            two{"liberiskej dolaraj"}
-        }
-        LYD{
-            few{"libyske dinary"}
-            one{"libyski dinar"}
-            other{"libyskich dinarow"}
-            two{"libyskej dinaraj"}
         }
         MAD{
             few{"marokkoske dirhamy"}
@@ -1131,60 +571,6 @@ hsb{
             other{"moldawskich leuwow"}
             two{"moldawskej leuwaj"}
         }
-        MGA{
-            few{"madagaskarske ariaryje"}
-            one{"madagaskarski ariary"}
-            other{"madagaskarskich ariaryjow"}
-            two{"madagaskarskej ariaryjej"}
-        }
-        MKD{
-            few{"makedonske denary"}
-            one{"makedonski denar"}
-            other{"makedonskich denarow"}
-            two{"makedonskej denaraj"}
-        }
-        MMK{
-            few{"myanmarske kyaty"}
-            one{"myanmarski kyat"}
-            other{"myanmarskich kyatow"}
-            two{"myanmarskej kyataj"}
-        }
-        MNT{
-            few{"mongolske tugriki"}
-            one{"mongolski tugrik"}
-            other{"mongolskich tugrikow"}
-            two{"mongolskej tugrikaj"}
-        }
-        MOP{
-            few{"macaoske pataki"}
-            one{"macaoska pataka"}
-            other{"macaoskich patakow"}
-            two{"macaoskej patace"}
-        }
-        MRU{
-            few{"mawretanske ouguije"}
-            one{"mawretanska ouguiya"}
-            other{"mawretanskich ouguijow"}
-            two{"mawretanskej ouguiji"}
-        }
-        MUR{
-            few{"mauritiuske rupije"}
-            one{"mauritiuska rupija"}
-            other{"mauritiuskich rupijow"}
-            two{"mauritiuskej rupiji"}
-        }
-        MVR{
-            few{"malediwiske rupije"}
-            one{"malediwiska rupija"}
-            other{"malediwiskich rupijow"}
-            two{"malediwiskej rupiji"}
-        }
-        MWK{
-            few{"malawiske kwachi"}
-            one{"malawiski kwacha"}
-            other{"malawiskich kwachow"}
-            two{"malawiskej kwachaj"}
-        }
         MXN{
             few{"mexiske pesa"}
             one{"mexiski peso"}
@@ -1197,29 +583,11 @@ hsb{
             other{"malajziskich ringgitow"}
             two{"malajziskej ringgitaj"}
         }
-        MZN{
-            few{"mosambikske meticale"}
-            one{"mosambikski metical"}
-            other{"mosambikskich meticalow"}
-            two{"mosambikskej meticalej"}
-        }
-        NAD{
-            few{"namibiske dolary"}
-            one{"namibiski dolar"}
-            other{"namibiskich dolarow"}
-            two{"namibiskej dolaraj"}
-        }
         NGN{
             few{"nigeriske nairy"}
             one{"nigeriski naira"}
             other{"nigeriskich nairow"}
             two{"nigeriskej nairaj"}
-        }
-        NIO{
-            few{"nikaraguaske cordoby"}
-            one{"nikaraguaski cordoba"}
-            other{"nikaraguaskich cordobow"}
-            two{"nikaraguaskej cordobaj"}
         }
         NOK{
             few{"norwegske króny"}
@@ -1239,29 +607,11 @@ hsb{
             other{"nowoseelandskich dolarow"}
             two{"nowoseelandskej dolaraj"}
         }
-        OMR{
-            few{"omanske riale"}
-            one{"omanski rial"}
-            other{"omanskich rialow"}
-            two{"omanskej rialej"}
-        }
-        PAB{
-            few{"panamaske balbowy"}
-            one{"panamaski balboa"}
-            other{"panamaskich balbowow"}
-            two{"panamaskej balbowaj"}
-        }
         PEN{
             few{"peruske sole"}
             one{"peruski sol"}
             other{"peruskich solow"}
             two{"peruskej solej"}
-        }
-        PGK{
-            few{"papua-nowoginejske kiny"}
-            one{"papua-nowoginejski kina"}
-            other{"papua-nowoginejskich kinow"}
-            two{"papua-nowoginejskej kinaj"}
         }
         PHP{
             few{"filipinske pesa"}
@@ -1280,12 +630,6 @@ hsb{
             one{"pólski złoty"}
             other{"pólskich złotych"}
             two{"pólskej złotej"}
-        }
-        PYG{
-            few{"paraguayske guaranije"}
-            one{"paraguayski guarani"}
-            other{"paraguayskich guaranijow"}
-            two{"paraguayskej guaranijej"}
         }
         QAR{
             few{"katarske riale"}
@@ -1311,35 +655,11 @@ hsb{
             other{"ruskich rublow"}
             two{"ruskej rublej"}
         }
-        RWF{
-            few{"ruandiske franki"}
-            one{"ruandiski frank"}
-            other{"ruandiskich frankow"}
-            two{"ruandiskej frankaj"}
-        }
         SAR{
             few{"saudi-arabske riale"}
             one{"saudi-arabski rial"}
             other{"saudi-arabskich rialow"}
             two{"saudi-arabskej rialej"}
-        }
-        SBD{
-            few{"salomonske dolary"}
-            one{"salomonski dolar"}
-            other{"salomonskich dolarow"}
-            two{"salomonskej dolaraj"}
-        }
-        SCR{
-            few{"seychellske rupije"}
-            one{"seychellska rupija"}
-            other{"seychellskich rupijow"}
-            two{"seychellskej rupiji"}
-        }
-        SDG{
-            few{"sudanske punty"}
-            one{"sudanski punt"}
-            other{"sudanskich puntow"}
-            two{"sudanskej puntaj"}
         }
         SEK{
             few{"šwedske króny"}
@@ -1353,60 +673,6 @@ hsb{
             other{"singapurskich dolarow"}
             two{"singapurskej dolaraj"}
         }
-        SHP{
-            few{"St. Helenske punty"}
-            one{"St. Helenski punt"}
-            other{"St. Helenskich puntow"}
-            two{"St. Helenskej puntaj"}
-        }
-        SLL{
-            few{"sierra-leoneske leony"}
-            one{"sierra-leoneski leone"}
-            other{"sierra-leoneskich leonow"}
-            two{"sierra-leoneskej leonaj"}
-        }
-        SOS{
-            few{"somaliske šilingi"}
-            one{"somaliski šiling"}
-            other{"somaliskich šilingow"}
-            two{"somaliskej šilingaj"}
-        }
-        SRD{
-            few{"surinamske dolary"}
-            one{"surinamski dolar"}
-            other{"surinamskich dolarow"}
-            two{"surinamskej dolaraj"}
-        }
-        SSP{
-            few{"južnosudanske punty"}
-            one{"južnosudanski punt"}
-            other{"južnosudanskich puntow"}
-            two{"južnosudanskej puntaj"}
-        }
-        STN{
-            few{"são tomeske dobry"}
-            one{"são tomeski dobra"}
-            other{"são tomeskich dobrow"}
-            two{"são tomeskej dobraj"}
-        }
-        SVC{
-            few{"el salvadorske colóny"}
-            one{"el salvadorski colón"}
-            other{"el salvadorskich colónow"}
-            two{"el salvadorskej colónaj"}
-        }
-        SYP{
-            few{"syriske punty"}
-            one{"syriski punt"}
-            other{"syriskich puntow"}
-            two{"syriskej puntaj"}
-        }
-        SZL{
-            few{"swasiske lilangenije"}
-            one{"swasiski lilangeni"}
-            other{"swasiskich lilangenijow"}
-            two{"swasiskej lilangenijej"}
-        }
         THB{
             few{"thaiske bahty"}
             one{"thaiski baht"}
@@ -1419,35 +685,11 @@ hsb{
             other{"tadźikskich somonijow"}
             two{"tadźikskej somonijej"}
         }
-        TMT{
-            few{"turkmenske manaty"}
-            one{"turkmenski manat"}
-            other{"turkmenskich manatow"}
-            two{"turkmenskej manataj"}
-        }
-        TND{
-            few{"tuneziske dinary"}
-            one{"tuneziski dinar"}
-            other{"tuneziskich dinarow"}
-            two{"tuneziskej dinaraj"}
-        }
-        TOP{
-            few{"tongaske pa’angi"}
-            one{"tongaski pa’anga"}
-            other{"tongaskich pa’angow"}
-            two{"tongaskej pa’angaj"}
-        }
         TRY{
             few{"turkowske liry"}
             one{"turkowska lira"}
             other{"turkowskich lirow"}
             two{"turkowskej lirje"}
-        }
-        TTD{
-            few{"trinidad-tobagoske dolary"}
-            one{"trinidad-tobagoski dolar"}
-            other{"trinidad-tobagoskich dolarow"}
-            two{"trinidad-tobagoskej dolaraj"}
         }
         TWD{
             few{"nowe taiwanske dolary"}
@@ -1455,41 +697,17 @@ hsb{
             other{"nowych taiwanskich dolarow"}
             two{"nowej taiwanskej dolaraj"}
         }
-        TZS{
-            few{"tansaniske šilingi"}
-            one{"tansaniski šiling"}
-            other{"tansaniskich šilingow"}
-            two{"tansaniskej šilingaj"}
-        }
         UAH{
             few{"ukrainske hriwny"}
             one{"ukrainska hriwna"}
             other{"ukrainskich hriwnow"}
             two{"ukrainskej hriwnje"}
         }
-        UGX{
-            few{"ugandaske šilingi"}
-            one{"ugandaski šiling"}
-            other{"ugandaskich šilingow"}
-            two{"ugandaskej šilingaj"}
-        }
         USD{
             few{"ameriske dolary"}
             one{"ameriski dolar"}
             other{"ameriskich dolarow"}
             two{"ameriskej dolaraj"}
-        }
-        UYU{
-            few{"uruguayske pesa"}
-            one{"uruguayski peso"}
-            other{"uruguayskich pesow"}
-            two{"uruguayskej pesaj"}
-        }
-        UZS{
-            few{"uzbekske sumy"}
-            one{"uzbekski sum"}
-            other{"uzbekskich sumow"}
-            two{"uzbekskej sumaj"}
         }
         VEF{
             few{"venezuelske bolívary"}
@@ -1503,59 +721,11 @@ hsb{
             other{"vietnamskich dongow"}
             two{"vietnamskej dongaj"}
         }
-        VUV{
-            few{"vanuatuske vatuwy"}
-            one{"vanuatuski vatu"}
-            other{"vanuatuskich vatuwow"}
-            two{"vanuatuskej vatuwaj"}
-        }
-        WST{
-            few{"samoaske tale"}
-            one{"samoaski tala"}
-            other{"samoaskich talow"}
-            two{"samoaskej talej"}
-        }
-        XAF{
-            few{"CFA-franki (BEAC)"}
-            one{"CFA-frank (BEAC)"}
-            other{"CFA-frankow (BEAC)"}
-            two{"CFA-frankaj (BEAC)"}
-        }
-        XCD{
-            few{"wuchodnokaribiske dolary"}
-            one{"wuchodnokaribiski dolar"}
-            other{"wuchodnokaribiskich dolarow"}
-            two{"wuchodnokaribiskej dolaraj"}
-        }
-        XOF{
-            few{"CFA-franki (BCEAO)"}
-            one{"CFA-frank (BCEAO)"}
-            other{"CFA-frankow (BCEAO)"}
-            two{"CFA-frankaj (BCEAO)"}
-        }
-        XPF{
-            few{"CFP-franki"}
-            one{"CFP-frank"}
-            other{"CFP-frankow"}
-            two{"CFP-frankaj"}
-        }
-        YER{
-            few{"jemenske riale"}
-            one{"jemenski rial"}
-            other{"jemenskich rialow"}
-            two{"jemenskej rialej"}
-        }
         ZAR{
             few{"južnoafriske randy"}
             one{"južnoafriski rand"}
             other{"južnoafriskich randow"}
             two{"južnoafriskej randaj"}
-        }
-        ZMW{
-            few{"sambiske kwachi"}
-            one{"sambiski kwacha"}
-            other{"sambiskich kwachow"}
-            two{"sambiskej kwachaj"}
         }
     }
     CurrencyUnitPatterns{

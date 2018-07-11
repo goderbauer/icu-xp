@@ -3,10 +3,6 @@
 es_BZ{
     %%Parent{"es_419"}
     Currencies{
-        BZD{
-            "$",
-            "dólar beliceño",
-        }
     }
     Version{"2.1.38.39"}
 }

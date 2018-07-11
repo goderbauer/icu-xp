@@ -3,10 +3,6 @@
 es_PY{
     %%Parent{"es_419"}
     Currencies{
-        PYG{
-            "Gs.",
-            "guaraní paraguayo",
-        }
     }
     Version{"2.1.38.39"}
 }

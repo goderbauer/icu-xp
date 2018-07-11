@@ -3,10 +3,6 @@
 es_PA{
     %%Parent{"es_419"}
     Currencies{
-        PAB{
-            "B/.",
-            "balboa panameño",
-        }
     }
     Version{"2.1.38.39"}
 }

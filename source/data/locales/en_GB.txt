@@ -136,12 +136,6 @@ en_GB{
                 }
             }
         }
-        islamic{
-            availableFormats{
-                MEd{"E dd/MM"}
-                MMMEd{"E d MMM"}
-            }
-        }
     }
     fields{
         day{

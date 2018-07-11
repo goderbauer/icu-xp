@@ -7,5 +7,6 @@ ja{
         line_loose:process(dependency){"line_loose_cj.brk"}
         line_normal:process(dependency){"line_normal_cj.brk"}
         line_strict:process(dependency){"line.brk"}
+        word:process(dependency){"word_ja.brk"}
     }
 }

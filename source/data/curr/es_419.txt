@@ -10,10 +10,6 @@ es_419{
             "CAD",
             "dólar canadiense",
         }
-        ERN{
-            "ERN",
-            "nafka",
-        }
         EUR{
             "EUR",
             "euro",
@@ -33,9 +29,6 @@ es_419{
     }
     Currencies%narrow{
         EGP{"E£"}
-        FKP{"FK£"}
-        SSP{"SD£"}
-        SYP{"S£"}
         VEF{"BsF"}
     }
     CurrencyPlurals{

@@ -7,10 +7,6 @@ es_UY{
             "US$",
             "dólar estadounidense",
         }
-        UYU{
-            "$",
-            "peso uruguayo",
-        }
     }
     Version{"2.1.38.39"}
 }

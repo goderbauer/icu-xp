@@ -3,10 +3,6 @@
 pt_AO{
     %%Parent{"pt_PT"}
     Currencies{
-        AOA{
-            "Kz",
-            "Kwanza angolano",
-        }
     }
     Version{"2.1.38.39"}
 }
