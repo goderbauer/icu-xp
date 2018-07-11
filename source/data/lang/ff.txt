@@ -14,7 +14,6 @@ ff{
         en{"Engeleere"}
         es{"Español"}
         fa{"Perseere"}
-        ff{"Pulaar"}
         fr{"Farayseere"}
         ha{"Hawsaŋkoore"}
         hi{"Hinndi"}

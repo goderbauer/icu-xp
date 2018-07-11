@@ -15,7 +15,6 @@ guz{
         es{"Kihispania"}
         fa{"Kiajemi"}
         fr{"Kifaransa"}
-        guz{"Ekegusii"}
         ha{"Kihausa"}
         hi{"Kihindi"}
         hu{"Kihungari"}

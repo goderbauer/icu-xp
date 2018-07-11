@@ -2,12 +2,8 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 fa_AF{
     Languages{
-        ab{"افریکانس"}
-        as{"اسامی"}
         az{"آذربایجانی"}
-        ba{"باشقیری"}
         ckb{"کردی سورانی"}
-        dv{"مالدیوی"}
         es{"هسپانوی"}
         fi{"فنلندی"}
         ga{"آیرلندی"}

@@ -38,7 +38,6 @@ teo{
         so{"Kisomali"}
         sv{"Kiswidi"}
         ta{"Kitamil"}
-        teo{"Kiteso"}
         th{"Kitailandi"}
         tr{"Kituruki"}
         uk{"Kiukrania"}

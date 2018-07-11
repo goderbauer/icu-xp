@@ -43,7 +43,6 @@ xog{
         uk{"Oluyukurayine"}
         ur{"Olu-urudu"}
         vi{"Oluvyetinaamu"}
-        xog{"Olusoga"}
         yo{"Oluyoruba"}
         zh{"Olucayina"}
         zu{"Oluzzulu"}

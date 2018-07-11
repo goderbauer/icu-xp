@@ -25,7 +25,6 @@ ksb{
         jv{"Kijava"}
         km{"Kikambodia"}
         ko{"Kikolea"}
-        ksb{"Kishambaa"}
         ms{"Kimalesia"}
         my{"Kibulma"}
         ne{"Kinepali"}

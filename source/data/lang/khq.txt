@@ -23,7 +23,6 @@ khq{
         it{"Itaali senni"}
         ja{"Japonee senni"}
         jv{"Javanee senni"}
-        khq{"Koyra ciini"}
         km{"Kmeer senni, Game here"}
         ko{"Koree senni"}
         ms{"Maleezi senni"}

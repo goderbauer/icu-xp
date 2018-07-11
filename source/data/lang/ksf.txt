@@ -25,7 +25,6 @@ ksf{
         jv{"rijawanɛ́"}
         km{"rikmɛr"}
         ko{"rikɔrɛɛ́"}
-        ksf{"rikpa"}
         ms{"rimalaí"}
         my{"ribirmán"}
         ne{"rinepalɛ́"}

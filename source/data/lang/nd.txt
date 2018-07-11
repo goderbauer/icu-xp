@@ -27,7 +27,6 @@ nd{
         ko{"isi-Koriya"}
         ms{"isi-Malayi"}
         my{"isi-Burma"}
-        nd{"isiNdebele"}
         ne{"isi-Nepali"}
         nl{"isi-Dutch"}
         pa{"isi-Phunjabi"}

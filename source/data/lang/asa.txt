@@ -5,7 +5,6 @@ asa{
         ak{"Kiakan"}
         am{"Kiamhari"}
         ar{"Kiarabu"}
-        asa{"Kipare"}
         be{"Kibelarusi"}
         bg{"Kibulgaria"}
         bn{"Kibangla"}

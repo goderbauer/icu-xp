@@ -1,11 +1,6 @@
 ﻿// © 2016 and later: Unicode, Inc. and others.
 // License & terms of use: http://www.unicode.org/copyright.html#License
 zgh{
-    Keys{
-        calendar{"ⴰⵙⵎⵍⵓⵙⵙⴰⵏ"}
-        collation{"ⴰⵏⵎⴰⵍⴰ ⵏ ⵓⵙⵜⴰⵢ"}
-        currency{"ⴰⴷⵔⵉⵎ"}
-    }
     Languages{
         ak{"ⵜⴰⴽⴰⵏⵜ"}
         am{"ⵜⴰⵎⵀⴰⵔⵉⵜ"}
@@ -49,17 +44,8 @@ zgh{
         ur{"ⵜⵓⵔⴷⵓⵜ"}
         vi{"ⵜⴰⴱⵉⵜⵏⴰⵎⵉⵜ"}
         yo{"ⵜⴰⵢⵔⵓⴱⴰⵜ"}
-        zgh{"ⵜⴰⵎⴰⵣⵉⵖⵜ"}
         zh{"ⵜⴰⵛⵉⵏⵡⵉⵜ"}
         zu{"ⵜⴰⵣⵓⵍⵓⵜ"}
-    }
-    Types{
-        calendar{
-            coptic{"ⴰⵙⵎⵍⵓⵙⵙⴰⵏ ⴰⵇⴱⵟⵉ"}
-            ethiopic{"ⴰⵙⵎⵍⵓⵙⵙⴰⵏ ⵏ ⵉⵜⵢⵓⴱⵢⴰ"}
-            gregorian{"ⴰⵙⵎⵍⵓⵙⵙⴰⵏ ⴰⴳⵔⵉⴳⵓⵔ"}
-            islamic{"ⴰⵙⵎⵍⵓⵙⵙⴰⵏ ⵏ ⵍⵉⵙⵍⴰⵎ"}
-        }
     }
     Version{"2.1.39.11"}
 }

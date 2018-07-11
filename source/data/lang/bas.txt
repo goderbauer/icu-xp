@@ -5,7 +5,6 @@ bas{
         ak{"Hɔp u akan"}
         am{"Hɔp u amhārìk"}
         ar{"Hɔp u arâb"}
-        bas{"Ɓàsàa"}
         be{"Hɔp u bièlòrûs"}
         bg{"Hɔp u bûlgâr"}
         bn{"Hɔp u bɛŋgàli"}

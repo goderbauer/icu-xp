@@ -40,7 +40,6 @@ tzm{
         ta{"Tatamilt"}
         th{"Taṭayt"}
         tr{"Taturkit"}
-        tzm{"Tamaziɣt n laṭlaṣ"}
         uk{"Tukranit"}
         ur{"Turdut"}
         vi{"Taviṭnamit"}

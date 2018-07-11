@@ -3,12 +3,7 @@
 es_PR{
     %%Parent{"es_419"}
     Languages{
-        ace{"acehnés"}
-        arp{"arapaho"}
-        bho{"bhojpuri"}
-        grc{"griego antiguo"}
         nso{"sotho septentrional"}
-        ss{"siswati"}
         wo{"wolof"}
     }
     Version{"2.1.38.39"}

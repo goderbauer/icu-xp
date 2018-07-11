@@ -10,7 +10,6 @@ ebu{
         bn{"Kĩbangla"}
         cs{"Kĩcheki"}
         de{"Kĩnjeremani"}
-        ebu{"Kĩembu"}
         el{"Kĩngriki"}
         en{"Kĩthungu"}
         es{"Kĩhispania"}

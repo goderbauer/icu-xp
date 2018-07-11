@@ -10,7 +10,6 @@ dyo{
         bn{"bengali"}
         cs{"sek"}
         de{"alman"}
-        dyo{"joola"}
         el{"greek"}
         en{"angle"}
         es{"español"}

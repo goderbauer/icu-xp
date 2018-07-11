@@ -29,7 +29,6 @@ nus{
         my{"Thok bormi̱thni"}
         ne{"Thok napalni"}
         nl{"Thok da̱c"}
-        nus{"Thok Nath"}
         pa{"Thok puɔnjabani"}
         pl{"Thok pölicni"}
         pt{"Thok puɔtigali"}

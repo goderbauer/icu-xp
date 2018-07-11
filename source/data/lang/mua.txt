@@ -26,7 +26,6 @@ mua{
         km{"kmer"}
         ko{"korea"}
         ms{"malasiya"}
-        mua{"MUNDAŊ"}
         my{"birmania"}
         ne{"Nepaliya"}
         nl{"zah sǝr ma kasǝŋ"}

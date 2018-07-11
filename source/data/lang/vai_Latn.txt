@@ -43,7 +43,6 @@ vai_Latn{
         tr{"Tɔ́ki"}
         uk{"Yukureniyɛŋ"}
         ur{"Ɔdu"}
-        vai{"Vai"}
         vi{"Viyamíĩ"}
         yo{"Yóróbha"}
         zh{"Chaniĩ"}

@@ -25,7 +25,6 @@ mer{
         jv{"Kĩjava"}
         km{"Kĩkambodia"}
         ko{"Kĩkorea"}
-        mer{"Kĩmĩrũ"}
         ms{"Kĩmalesia"}
         my{"Kĩburma"}
         ne{"Kĩnepali"}

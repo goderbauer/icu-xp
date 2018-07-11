@@ -2,12 +2,9 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 ar_LY{
     Languages{
-        arn{"المابودونجونية"}
         gn{"الغورانية"}
-        hsb{"صوربيا العليا"}
         lo{"اللاوو"}
         sh{"الكرواتية الصربية"}
-        sma{"سامي الجنوبية"}
         sw{"السواحيلية"}
         sw_CD{"السواحيلية الكونغولية"}
         ti{"التيغرينية"}

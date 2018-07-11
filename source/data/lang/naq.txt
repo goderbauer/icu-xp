@@ -27,7 +27,6 @@ naq{
         ko{"Koreaǁî gowab"}
         ms{"Malayǁî gowab"}
         my{"Burmesǁî gowab"}
-        naq{"Khoekhoegowab"}
         ne{"Nepalǁî gowab"}
         nl{"Hollands"}
         pa{"Punjabigowab"}

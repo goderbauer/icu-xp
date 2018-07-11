@@ -6,7 +6,6 @@ yo{
         ak{"Èdè Akani"}
         am{"Èdè Amariki"}
         ar{"Èdè Arabiki"}
-        as{"Ti Assam"}
         az{"Èdè Azerbaijani"}
         be{"Èdè Belarusi"}
         bg{"Èdè Bugaria"}
@@ -43,7 +42,6 @@ yo{
         hy{"Èdè Ile Armenia"}
         ia{"Èdè pipo"}
         id{"Èdè Indonasia"}
-        ie{"Iru Èdè"}
         ig{"Èdè Ibo"}
         is{"Èdè Icelandic"}
         it{"Èdè Italiani"}
@@ -71,7 +69,6 @@ yo{
         ro{"Èdè Romania"}
         ru{"Èdè ̣Rọọsia"}
         rw{"Èdè Ruwanda"}
-        sa{"Èdè awon ara Indo"}
         sd{"Èdè Sindhi"}
         sh{"Èdè Serbo-Croatiani"}
         si{"Èdè Sinhalese"}
@@ -89,7 +86,6 @@ yo{
         th{"Èdè Tai"}
         ti{"Èdè Tigrinya"}
         tk{"Èdè Turkmen"}
-        tlh{"Èdè Klingoni"}
         tr{"Èdè Tọọkisi"}
         uk{"Èdè Ukania"}
         ur{"Èdè Udu"}

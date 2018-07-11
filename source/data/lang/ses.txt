@@ -35,7 +35,6 @@ ses{
         ro{"Rumaani senni"}
         ru{"Ruusi senni"}
         rw{"Rwanda senni"}
-        ses{"Koyraboro senni"}
         so{"Somaali senni"}
         sv{"Suweede senni"}
         ta{"Tamil senni"}

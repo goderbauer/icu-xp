@@ -23,7 +23,6 @@ kam{
         it{"Kiitaliano"}
         ja{"Kijapani"}
         jv{"Kijava"}
-        kam{"Kikamba"}
         km{"Kikambodia"}
         ko{"Kikorea"}
         ms{"Kimalesia"}

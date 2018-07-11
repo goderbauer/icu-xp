@@ -35,7 +35,6 @@ saq{
         ro{"Kiromania"}
         ru{"Kirusi"}
         rw{"Kinyarwanda"}
-        saq{"Kisampur"}
         so{"Kisomali"}
         sv{"Kiswidi"}
         ta{"Kitamil"}

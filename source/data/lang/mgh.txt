@@ -24,7 +24,6 @@ mgh{
         jv{"Ijava"}
         km{"Ikambodia"}
         ko{"Ikorea"}
-        mgh{"Makua"}
         ms{"Imalesia"}
         my{"Iburma"}
         ne{"Inepali"}

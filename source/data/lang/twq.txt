@@ -40,7 +40,6 @@ twq{
         ta{"Tamil senni"}
         th{"Taailandu senni"}
         tr{"Turku senni"}
-        twq{"Tasawaq senni"}
         uk{"Ukreen senni"}
         ur{"Urdu senni"}
         vi{"Vietnaam senni"}

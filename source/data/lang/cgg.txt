@@ -8,7 +8,6 @@ cgg{
         be{"Oruberarusi"}
         bg{"Oruburugariya"}
         bn{"Orubengari"}
-        cgg{"Rukiga"}
         cs{"Oruceeki"}
         de{"Orugirimaani"}
         el{"Oruguriiki"}

@@ -22,7 +22,6 @@ jmc{
         ig{"Kyiigbo"}
         it{"Kyiitaliano"}
         ja{"Kyijapani"}
-        jmc{"Kimachame"}
         jv{"Kyijava"}
         km{"Kyikambodia"}
         ko{"Kyikorea"}

@@ -35,7 +35,6 @@ sg{
         ro{"Rumëen"}
         ru{"Rûsi"}
         rw{"Ruandäa"}
-        sg{"Sängö"}
         so{"Somalïi"}
         sv{"Sueduäa"}
         ta{"Tämûli"}

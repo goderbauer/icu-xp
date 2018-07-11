@@ -25,7 +25,6 @@ lag{
         jv{"Kɨjáava"}
         km{"Kɨkambódia"}
         ko{"Kɨkoréa"}
-        lag{"Kɨlaangi"}
         ms{"Kɨmelésia"}
         my{"Kɨbáama"}
         ne{"Kɨnepáali"}

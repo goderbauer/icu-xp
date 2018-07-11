@@ -2,17 +2,13 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 wae{
     Languages{
-        ab{"Abčasiš"}
         af{"Afrikáns"}
         am{"Amhariš"}
         ar{"Arabiš"}
-        as{"Assamesiš"}
-        ay{"Aymara"}
         az{"Serbaidšaniš"}
         be{"Wísrussiš"}
         bg{"Bulgariš"}
         bn{"Bengališ"}
-        bo{"Tibetiš"}
         bs{"Bosniš"}
         ca{"Katalaniš"}
         cs{"Tšečiš"}
@@ -21,9 +17,6 @@ wae{
         de{"Titš"}
         de_AT{"Öštričišes Titš"}
         de_CH{"Schwizer Hočtitš"}
-        dv{"Malediwiš"}
-        dz{"Butaniš"}
-        efi{"Efik"}
         el{"Gričiš"}
         en{"Engliš"}
         en_AU{"Auštrališes Engliš"}
@@ -38,7 +31,6 @@ wae{
         fa{"Persiš"}
         fi{"Finiš"}
         fil{"Filipiniš"}
-        fj{"Fidšianiš"}
         fr{"Wälš"}
         fr_CA{"Kanadišes Wälš"}
         fr_CH{"Schwizer Wälš"}
@@ -64,7 +56,6 @@ wae{
         km{"Kambodšaniš"}
         kn{"Kannada"}
         ko{"Koreaniš"}
-        ks{"Kašmiriš"}
         ku{"Kurdiš"}
         ky{"Kirgisiš"}
         la{"Latiniš"}
@@ -83,7 +74,6 @@ wae{
         mt{"Maltesiš"}
         my{"Burmesiš"}
         nb{"Norwegiš Bokmål"}
-        nd{"Nordndebele"}
         ne{"Nepalesiš"}
         nl{"Holändiš"}
         nl_BE{"Flämiš"}
@@ -91,7 +81,6 @@ wae{
         nso{"Nordsotho"}
         ny{"Nyanja"}
         or{"Oriya"}
-        os{"Osétiš"}
         pa{"Pandšabiš"}
         pl{"Polniš"}
         ps{"Paštu"}
@@ -104,11 +93,7 @@ wae{
         ro{"Rumäniš"}
         ru{"Rusiš"}
         rw{"Ruandiš"}
-        sa{"Sanskrit"}
-        sah{"Jakutiš"}
         sd{"Sindhi"}
-        se{"Nordsamiš"}
-        sg{"Sango"}
         si{"Singalesiš"}
         sk{"Slowakiš"}
         sl{"Sloweniš"}
@@ -117,32 +102,24 @@ wae{
         so{"Somališ"}
         sq{"Albaniš"}
         sr{"Serbiš"}
-        ss{"Swazi"}
         st{"Südsotho"}
         su{"Sundanesiš"}
         sv{"Schwediš"}
         sw{"Suaheliš"}
         ta{"Tamiliš"}
         te{"Telugu"}
-        tet{"Tetum"}
         tg{"Tadšikiš"}
         th{"Thailändiš"}
         ti{"Tigrinja"}
         tk{"Turkmeniš"}
         tn{"Tswana"}
         to{"Tonga"}
-        tpi{"Niwmelanesiš"}
         tr{"Türkiš"}
-        ts{"Tsonga"}
-        ty{"Taitiš"}
         ug{"Uiguriš"}
         uk{"Ukrainiš"}
-        und{"Unbekannti Schprač"}
         ur{"Urdu"}
         uz{"Usbekiš"}
-        ve{"Venda"}
         vi{"Vietnamesiš"}
-        wae{"Walser"}
         wo{"Wolof"}
         xh{"Xhosa"}
         yo{"Yoruba"}
@@ -180,18 +157,6 @@ wae{
         Thai{"Thai"}
         Zxxx{"Schriftlos"}
         Zzzz{"Unkodierti Schrift"}
-    }
-    Types{
-        calendar{
-            gregorian{"Gregorianišä Kaländer"}
-        }
-        collation{
-            ducet{"Standard Unicode Sortierreiefolg"}
-            search{"Allgmeini Süeč"}
-        }
-        numbers{
-            latn{"Arabiši Zálä"}
-        }
     }
     Version{"2.1.38.69"}
     codePatterns{

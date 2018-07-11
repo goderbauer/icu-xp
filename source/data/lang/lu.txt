@@ -24,7 +24,6 @@ lu{
         ja{"Liyapani"}
         jv{"Java"}
         ko{"Likoreya"}
-        lu{"Tshiluba"}
         ms{"Limalezia"}
         ne{"nepali"}
         nl{"olandi"}

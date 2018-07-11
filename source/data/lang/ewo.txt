@@ -13,7 +13,6 @@ ewo{
         el{"Ǹkɔ́bɔ gəlɛ́g"}
         en{"Ǹkɔ́bɔ éngəlís"}
         es{"ǹkɔ́bɔ kpənyá"}
-        ewo{"ewondo"}
         fa{"ǹkɔ́bɔ fɛ́rəsian"}
         fr{"Ǹkɔ́bɔ fulɛnsí"}
         ha{"Ǹkɔ́bɔ aúsá"}

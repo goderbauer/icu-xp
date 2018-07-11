@@ -6,13 +6,11 @@ ii{
         en{"ꑱꇩꉙ"}
         es{"ꑭꀠꑸꉙ"}
         fr{"ꃔꇩꉙ"}
-        ii{"ꆈꌠꉙ"}
         it{"ꑴꄊꆺꉙ"}
         ja{"ꏝꀪꉙ"}
         pt{"ꁍꄨꑸꉙ"}
         pt_BR{"ꀠꑟꁍꄨꑸꉙ"}
         ru{"ꊉꇩꉙ"}
-        und{"ꅉꀋꌠꅇꂷ"}
         zh{"ꍏꇩꉙ"}
         zh_Hans{"ꈝꐯꍏꇩꉙ"}
         zh_Hant{"ꀎꋏꍏꇩꉙ"}
@@ -26,12 +24,6 @@ ii{
         Yiii{"ꆈꌠꁱꂷ"}
         Zxxx{"ꁱꀋꉆꌠ"}
         Zzzz{"ꅉꀋꐚꌠꁱꂷ"}
-    }
-    Types{
-        calendar{
-            gregorian{"ꄉꉻꃅꑍ"}
-            islamic{"ꑳꌦꇂꑍꉖ"}
-        }
     }
     Version{"2.1.38.69"}
     codePatterns{

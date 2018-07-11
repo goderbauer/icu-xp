@@ -2,7 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 agq{
     Languages{
-        agq{"Aghem"}
         ak{"Akan"}
         am{"Àmalì"}
         ar{"Àlabì"}

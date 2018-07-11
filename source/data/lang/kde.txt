@@ -23,7 +23,6 @@ kde{
         it{"Chiitaliano"}
         ja{"Chidyapani"}
         jv{"Chidyava"}
-        kde{"Chimakonde"}
         km{"Chikambodia"}
         ko{"Chikolea"}
         ms{"Chimalesia"}

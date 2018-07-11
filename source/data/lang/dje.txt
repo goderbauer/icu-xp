@@ -10,7 +10,6 @@ dje{
         bn{"Bengali senni"}
         cs{"Cek senni"}
         de{"Almaŋ senni"}
-        dje{"Zarmaciine"}
         el{"Grek senni"}
         en{"Inglisi senni"}
         es{"Espaaɲe senni"}

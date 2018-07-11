@@ -35,7 +35,6 @@ sbp{
         ro{"Ishilomaniya"}
         ru{"Ishilusi"}
         rw{"Ishinyalwanda"}
-        sbp{"Ishisangu"}
         so{"Ishisomali"}
         sv{"Ishiswidi"}
         ta{"Ishitamili"}

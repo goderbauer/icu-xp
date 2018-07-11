@@ -35,7 +35,6 @@ seh{
         ro{"romeno"}
         ru{"russo"}
         rw{"kinyarwanda"}
-        seh{"sena"}
         so{"somali"}
         sv{"sueco"}
         ta{"tâmil"}

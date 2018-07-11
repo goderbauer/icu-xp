@@ -43,7 +43,6 @@ yav{
         uk{"nukeleniɛ́ŋɛ"}
         ur{"nulutú"}
         vi{"nufiɛtnamíɛŋ"}
-        yav{"nuasue"}
         yo{"nuyolúpa"}
         zh{"sinúɛ"}
         zu{"nusulú"}

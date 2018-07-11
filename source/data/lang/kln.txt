@@ -23,7 +23,6 @@ kln{
         it{"kutitab Talianek"}
         ja{"kutitap Japan"}
         jv{"kutitap Javanese"}
-        kln{"Kalenjin"}
         km{"kutitab Kher nebo Kwen"}
         ko{"kutitab Korea"}
         ms{"kutitab Malay"}

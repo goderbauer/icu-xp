@@ -25,7 +25,6 @@ mas{
         jv{"nkʉtʉ́k ɔ́ɔ̄ ljana"}
         km{"nkʉtʉ́k ɔ́ɔ̄ lkambodia"}
         ko{"nkʉtʉ́k ɔ́ɔ̄ lkorea"}
-        mas{"Maa"}
         ms{"nkʉtʉ́k ɔ́ɔ̄ malay"}
         my{"nkʉtʉ́k ɔ́ɔ̄ lBurma"}
         ne{"nkʉtʉ́k ɔ́ɔ̄ lnepali"}

@@ -35,7 +35,6 @@ rwk{
         ro{"Kyiromania"}
         ru{"Kyirusi"}
         rw{"Kyinyarwanda"}
-        rwk{"Kiruwa"}
         so{"Kyisomalyi"}
         sv{"Kyiswidi"}
         ta{"Kyitamil"}

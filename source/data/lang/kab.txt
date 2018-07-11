@@ -23,7 +23,6 @@ kab{
         it{"Taṭalyanit"}
         ja{"Tajapunit"}
         jv{"Tajavanit"}
-        kab{"Taqbaylit"}
         km{"Takemrit"}
         ko{"Takurit"}
         ms{"Tamalawit"}

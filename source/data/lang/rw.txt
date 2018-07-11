@@ -5,7 +5,6 @@ rw{
         af{"Ikinyafurikaneri"}
         am{"Inyamuhariki"}
         ar{"Icyarabu"}
-        as{"Icyasamizi"}
         az{"Inyazeribayijani"}
         be{"Ikibelarusiya"}
         bg{"Urunyabuligariya"}
@@ -41,7 +40,6 @@ rw{
         hy{"Ikinyarumeniya"}
         ia{"Ururimi Gahuzamiryango"}
         id{"Ikinyendoziya"}
-        ie{"Uruhuzandimi"}
         is{"Igisilande"}
         it{"Igitaliyani"}
         ja{"Ikiyapani"}
@@ -78,7 +76,6 @@ rw{
         ro{"Ikinyarumaniya"}
         ru{"Ikirusiya"}
         rw{"Kinyarwanda"}
-        sa{"Igisansikiri"}
         sd{"Igisindi"}
         sh{"Inyeseribiya na Korowasiya"}
         si{"Inyesimpaleze"}
@@ -96,7 +93,6 @@ rw{
         th{"Igitayi"}
         ti{"Inyatigirinya"}
         tk{"Inyeturukimeni"}
-        tlh{"Inyekilingoni"}
         tr{"Igiturukiya"}
         tw{"Inyetuwi"}
         ug{"Ikiwiguri"}

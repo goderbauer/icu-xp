@@ -7,7 +7,6 @@ bm{
         ar{"larabukan"}
         be{"biyelorisikan"}
         bg{"buligarikan"}
-        bm{"bamanakan"}
         bn{"bɛngalikan"}
         cs{"cɛkikan"}
         de{"alimaɲikan"}

@@ -43,7 +43,6 @@ vun{
         uk{"Kyiukrania"}
         ur{"Kyiurdu"}
         vi{"Kyivietinamu"}
-        vun{"Kyivunjo"}
         yo{"Kyiyoruba"}
         zh{"Kyichina"}
         zu{"Kyizulu"}

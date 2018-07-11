@@ -25,7 +25,6 @@ luy{
         jv{"Kijava"}
         km{"Kikambodia"}
         ko{"Kikorea"}
-        luy{"Luluhia"}
         ms{"Kimalesia"}
         my{"Kiburma"}
         ne{"Kinepali"}

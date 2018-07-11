@@ -6,7 +6,6 @@ bez{
         am{"Hiamhari"}
         ar{"Hiharabu"}
         be{"Hibelarusi"}
-        bez{"Hibena"}
         bg{"Hibulgaria"}
         bn{"Hibangla"}
         cs{"Hicheki"}

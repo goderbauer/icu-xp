@@ -36,7 +36,6 @@ shi_Latn{
         ro{"Tarumanit"}
         ru{"Tarusit"}
         rw{"Taruwandit"}
-        shi{"Tashelḥiyt"}
         so{"Tasumalit"}
         sv{"Taswidit"}
         ta{"Tatamilt"}

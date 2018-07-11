@@ -79,7 +79,6 @@ om{
         th{"Afaan Tayii"}
         ti{"Afaan Tigiree"}
         tk{"Lammii Turkii"}
-        tlh{"Afaan Kilingon"}
         tr{"Afaan Turkii"}
         uk{"Afaan Ukreenii"}
         ur{"Afaan Urdu"}

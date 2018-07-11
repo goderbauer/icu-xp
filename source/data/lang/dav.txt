@@ -9,7 +9,6 @@ dav{
         bg{"Kibulgaria"}
         bn{"Kibangla"}
         cs{"Kichecki"}
-        dav{"Kitaita"}
         de{"Kijerumani"}
         el{"Kigiriki"}
         en{"Kingereza"}

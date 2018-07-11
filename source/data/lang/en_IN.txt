@@ -9,11 +9,5 @@ en_IN{
         Beng{"Bengali"}
         Orya{"Oriya"}
     }
-    Types{
-        numbers{
-            beng{"Bengali Digits"}
-            orya{"Oriya Digits"}
-        }
-    }
     Version{"2.1.38.73"}
 }

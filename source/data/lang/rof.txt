@@ -33,7 +33,6 @@ rof{
         pl{"Kipolandi"}
         pt{"Kireno"}
         ro{"Kiromania"}
-        rof{"Kihorombo"}
         ru{"Kirusi"}
         rw{"Kinyarwanda"}
         so{"Kisomali"}
