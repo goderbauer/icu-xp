@@ -3,8 +3,3 @@
 ii{
     Version{"2.1.38.69"}
     zoneStrings{
-        "Etc:Unknown"{
-            ec{"ꅉꀋꐚꌠ"}
-        }
-    }
-}

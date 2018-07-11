@@ -3,7 +3,3 @@
 om{
     Version{"2.1.38.69"}
     zoneStrings{
-        gmtFormat{"GMT{0}"}
-        hourFormat{"+HH:mm;-HH:mm"}
-    }
-}

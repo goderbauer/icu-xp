@@ -4,36 +4,6 @@ en_GB{
     %%Parent{"en_001"}
     Version{"2.1.38.73"}
     zoneStrings{
-        "America:St_Barthelemy"{
-            ec{"St Barthélemy"}
-        }
-        "America:St_Johns"{
-            ec{"St John’s"}
-        }
-        "America:St_Kitts"{
-            ec{"St Kitts"}
-        }
-        "America:St_Lucia"{
-            ec{"St Lucia"}
-        }
-        "America:St_Thomas"{
-            ec{"St Thomas"}
-        }
-        "America:St_Vincent"{
-            ec{"St Vincent"}
-        }
-        "Asia:Rangoon"{
-            ec{"Rangoon"}
-        }
-        "Atlantic:St_Helena"{
-            ec{"St Helena"}
-        }
-        "Europe:London"{
-            sd{"BST"}
-        }
-        "Pacific:Honolulu"{
-            ec{"Honolulu"}
-        }
         "meta:Australia_Central"{
             lg{"Central Australia Time"}
             ls{"Australian Central Standard Time"}

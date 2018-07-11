@@ -3,15 +3,6 @@
 tg{
     Version{"2.1.38.71"}
     zoneStrings{
-        "Asia:Dushanbe"{
-            ec{"Душанбе"}
-        }
-        "Etc:UTC"{
-            ls{"Вақти ҷаҳонии ҳамоҳангсозӣ"}
-        }
-        "Etc:Unknown"{
-            ec{"Шаҳри номаълум"}
-        }
         "meta:America_Central"{
             ld{"Вақти рӯзонаи марказӣ"}
             lg{"Вақти марказӣ"}
