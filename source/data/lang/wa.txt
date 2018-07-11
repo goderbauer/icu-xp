@@ -10,6 +10,5 @@
  */
 wa{
     Languages{
-        ku{"Walon"}
     }
 }
