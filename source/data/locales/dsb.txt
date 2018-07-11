@@ -1,14 +1,6 @@
 ﻿// © 2016 and later: Unicode, Inc. and others.
 // License & terms of use: http://www.unicode.org/copyright.html#License
 dsb{
-    AuxExemplarCharacters{
-        "[á à ă â å ä ã ą ā æ ç ď đ é è ĕ ê ë ė ę ē ğ í ì ĭ î ï İ ī ı ĺ ľ ň ñ ò ŏ ô ö"
-        " ő ø ō œ ř ş ß ť ú ù ŭ û ů ü ű ū ý ÿ ż]"
-    }
-    ExemplarCharacters{
-        "[a b c č ć d e ě f g h {ch} i j k ł l m n ń o ó p q r ŕ s š ś t u v w x y z "
-        "ž ź]"
-    }
     ExemplarCharactersIndex{"[A B C Č Ć D E F G H {Ch} I J K Ł L M N O P Q R S Š Ś T U V W X Y Z Ž Ź]"}
     ExemplarCharactersNumbers{"[\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]"}
     ExemplarCharactersPunctuation{
@@ -762,27 +754,6 @@ dsb{
         era{
             dn{"epocha"}
         }
-        fri{
-            relative{
-                "-1"{"slědny pětk"}
-                "0"{"ten pětk"}
-                "1"{"pśiducy pětk"}
-            }
-        }
-        fri-narrow{
-            relative{
-                "-1"{"slědny pě."}
-                "0"{"ten pě."}
-                "1"{"pśiducy pě."}
-            }
-        }
-        fri-short{
-            relative{
-                "-1"{"slědny pět."}
-                "0"{"ten pět."}
-                "1"{"pśiducy pět."}
-            }
-        }
         hour{
             dn{"góźina"}
             relativeTime{
@@ -885,27 +856,6 @@ dsb{
                 }
             }
         }
-        mon{
-            relative{
-                "-1"{"slědne pónjeźele"}
-                "0"{"to pónjeźele"}
-                "1"{"pśiduce pónjeźele"}
-            }
-        }
-        mon-narrow{
-            relative{
-                "-1"{"slědne pó."}
-                "0"{"to pó."}
-                "1"{"pśiduce pó."}
-            }
-        }
-        mon-short{
-            relative{
-                "-1"{"slědne pónj."}
-                "0"{"to pónj."}
-                "1"{"pśiduce pónj."}
-            }
-        }
         month{
             dn{"mjasec"}
             relative{
@@ -962,78 +912,6 @@ dsb{
                 }
             }
         }
-        quarter{
-            dn{"kwartal"}
-            relativeTime{
-                future{
-                    few{"za {0} kwartale"}
-                    one{"za {0} kwartal"}
-                    other{"za {0} kwartalow"}
-                    two{"za {0} kwartala"}
-                }
-                past{
-                    few{"pśed {0} kwartalami"}
-                    one{"pśed {0} kwartalom"}
-                    other{"pśed {0} kwartalami"}
-                    two{"pśed {0} kwartaloma"}
-                }
-            }
-        }
-        quarter-narrow{
-            dn{"kw."}
-            relativeTime{
-                future{
-                    few{"za {0} kw."}
-                    one{"za {0} kw."}
-                    other{"za {0} kw."}
-                    two{"za {0} kw."}
-                }
-                past{
-                    few{"pśed {0} kw."}
-                    one{"pśed {0} kw."}
-                    other{"pśed {0} kw."}
-                    two{"pśed {0} kw."}
-                }
-            }
-        }
-        quarter-short{
-            dn{"kwart."}
-            relativeTime{
-                future{
-                    few{"za {0} kwart."}
-                    one{"za {0} kwart."}
-                    other{"za {0} kwart."}
-                    two{"za {0} kwart."}
-                }
-                past{
-                    few{"pśed {0} kwart."}
-                    one{"pśed {0} kwart."}
-                    other{"pśed {0} kwart."}
-                    two{"pśed {0} kwart."}
-                }
-            }
-        }
-        sat{
-            relative{
-                "-1"{"slědnu sobotu"}
-                "0"{"tu sobotu"}
-                "1"{"pśiducu sobotu"}
-            }
-        }
-        sat-narrow{
-            relative{
-                "-1"{"slědnu so."}
-                "0"{"tu so."}
-                "1"{"pśiducu so."}
-            }
-        }
-        sat-short{
-            relative{
-                "-1"{"slědnu sob."}
-                "0"{"tu sob."}
-                "1"{"pśiducu sob."}
-            }
-        }
         second{
             dn{"sekunda"}
             relativeTime{
@@ -1083,90 +961,6 @@ dsb{
                     other{"pśed {0} sek."}
                     two{"pśed {0} sek."}
                 }
-            }
-        }
-        sun{
-            relative{
-                "-1"{"slědnu njeźelu"}
-                "0"{"tu njeźelu"}
-                "1"{"pśiducu njeźelu"}
-            }
-        }
-        sun-narrow{
-            relative{
-                "-1"{"slědnu nj."}
-                "0"{"tu nj."}
-                "1"{"pśiducu nj."}
-            }
-        }
-        sun-short{
-            relative{
-                "-1"{"slědnu nje."}
-                "0"{"tu nje."}
-                "1"{"pśiducu nje."}
-            }
-        }
-        thu{
-            relative{
-                "-1"{"slědny stwórtk"}
-                "0"{"ten stwórtk"}
-                "1"{"pśiducy stwórtk"}
-            }
-        }
-        thu-narrow{
-            relative{
-                "-1"{"slědny st."}
-                "0"{"ten st."}
-                "1"{"pśiducy st."}
-            }
-        }
-        thu-short{
-            relative{
-                "-1"{"slědny stw."}
-                "0"{"ten stw."}
-                "1"{"pśiducy stw."}
-            }
-        }
-        tue{
-            relative{
-                "-1"{"slědnu wałtoru"}
-                "0"{"tu wałtoru"}
-                "1"{"pśiducu wałtoru"}
-            }
-        }
-        tue-narrow{
-            relative{
-                "-1"{"slědnu wa."}
-                "0"{"tu wa."}
-                "1"{"pśiducu wa."}
-            }
-        }
-        tue-short{
-            relative{
-                "-1"{"slědnu wałt."}
-                "0"{"tu wałt."}
-                "1"{"pśiducu wałt."}
-            }
-        }
-        wed{
-            relative{
-                "-1"{"slědnu srjodu"}
-                "0"{"tu srjodu"}
-                "1"{"pśiducu srjodu"}
-            }
-        }
-        wed-narrow{
-            relative{
-                "-1"{"slědnu sr."}
-                "0"{"tu sr."}
-                "1"{"pśiducu sr."}
-            }
-        }
-        wed-short{
-            relative{
-                "-1"{"slědnu srj."}
-                "0"{"tu srj."}
-                "1"{"pśiducu srj."}
             }
         }
         week{

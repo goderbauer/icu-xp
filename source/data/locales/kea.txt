@@ -1,10 +1,6 @@
 ﻿// © 2016 and later: Unicode, Inc. and others.
 // License & terms of use: http://www.unicode.org/copyright.html#License
 kea{
-    AuxExemplarCharacters{
-        "[á à ă â å ä ã ā æ c ç é è ĕ ê ë ẽ ē í ì ĭ î ï ĩ ī {n\u0308} ó ò ŏ ô ö õ ø ō"
-        " œ q {rr} ú ù ŭ û ü ũ ū w ÿ]"
-    }
     Ellipsis{
         final{"{0}…"}
         initial{"…{0}"}
@@ -13,7 +9,6 @@ kea{
         word-initial{"… {0}"}
         word-medial{"{0} … {1}"}
     }
-    ExemplarCharacters{"[a b d {dj} e f g h i j k l {lh} m n ñ {nh} o p r s t {tx} u v x y z]"}
     ExemplarCharactersIndex{"[A B D E F G H I J K L M N O P R S T U V X Z]"}
     ExemplarCharactersNumbers{"[  \\- , % ‰ + 0 1 2 3 4 5 6 7 8 9]"}
     MoreInformation{"?"}
@@ -742,27 +737,6 @@ kea{
         era{
             dn{"Era"}
         }
-        fri{
-            relative{
-                "-1"{"sesta-fera pasadu"}
-                "0"{"es sesta-fera li"}
-                "1"{"prósimu sesta-fera"}
-            }
-        }
-        fri-narrow{
-            relative{
-                "-1"{"ses. pasadu"}
-                "0"{"es ses. li"}
-                "1"{"prósimu ses."}
-            }
-        }
-        fri-short{
-            relative{
-                "-1"{"ses. pasadu"}
-                "0"{"es ses. li"}
-                "1"{"prósimu ses."}
-            }
-        }
         hour{
             dn{"Ora"}
             relativeTime{
@@ -829,27 +803,6 @@ kea{
                 }
             }
         }
-        mon{
-            relative{
-                "-1"{"sigunda-fera pasadu"}
-                "0"{"es sigunda-fera li"}
-                "1"{"prósimu sigunda-fera"}
-            }
-        }
-        mon-narrow{
-            relative{
-                "-1"{"sig. pasadu"}
-                "0"{"es sig. li"}
-                "1"{"prósimu sig."}
-            }
-        }
-        mon-short{
-            relative{
-                "-1"{"sig. pasadu"}
-                "0"{"es sig. li"}
-                "1"{"prósimu sig."}
-            }
-        }
         month{
             dn{"Mes"}
             relative{
@@ -888,60 +841,6 @@ kea{
                 }
             }
         }
-        quarter{
-            dn{"Trimestri"}
-            relativeTime{
-                future{
-                    other{"di li {0} trimestri"}
-                }
-                past{
-                    other{"a ten {0} trimestri"}
-                }
-            }
-        }
-        quarter-narrow{
-            dn{"trim."}
-            relativeTime{
-                future{
-                    other{"di li {0} trim."}
-                }
-                past{
-                    other{"a ten {0} trim."}
-                }
-            }
-        }
-        quarter-short{
-            dn{"trim."}
-            relativeTime{
-                future{
-                    other{"di li {0} trim."}
-                }
-                past{
-                    other{"a ten {0} trim."}
-                }
-            }
-        }
-        sat{
-            relative{
-                "-1"{"sabadu pasadu"}
-                "0"{"es sabadu li"}
-                "1"{"prósimu sabadu"}
-            }
-        }
-        sat-narrow{
-            relative{
-                "-1"{"sab. pasadu"}
-                "0"{"es sab. li"}
-                "1"{"prósimu sab."}
-            }
-        }
-        sat-short{
-            relative{
-                "-1"{"sab. pasadu"}
-                "0"{"es sab. li"}
-                "1"{"prósimu sab."}
-            }
-        }
         second{
             dn{"Sigundu"}
             relativeTime{
@@ -973,90 +872,6 @@ kea{
                 past{
                     other{"a ten {0} sig"}
                 }
-            }
-        }
-        sun{
-            relative{
-                "-1"{"dumingu pasadu"}
-                "0"{"es dumingu li"}
-                "1"{"prósimu dumingu"}
-            }
-        }
-        sun-narrow{
-            relative{
-                "-1"{"dum. pasadu"}
-                "0"{"es dum. li"}
-                "1"{"prósimu dum."}
-            }
-        }
-        sun-short{
-            relative{
-                "-1"{"dum. pasadu"}
-                "0"{"es dum. li"}
-                "1"{"prósimu dum."}
-            }
-        }
-        thu{
-            relative{
-                "-1"{"kinta-fera pasadu"}
-                "0"{"es kinta-fera li"}
-                "1"{"prósimu kinta-fera"}
-            }
-        }
-        thu-narrow{
-            relative{
-                "-1"{"kin. pasadu"}
-                "0"{"es kin. li"}
-                "1"{"prósimu kin."}
-            }
-        }
-        thu-short{
-            relative{
-                "-1"{"kin. pasadu"}
-                "0"{"es kin. li"}
-                "1"{"prósimu kin."}
-            }
-        }
-        tue{
-            relative{
-                "-1"{"tersa-fera pasadu"}
-                "0"{"es tersa-fera li"}
-                "1"{"prósimu tersa-fera"}
-            }
-        }
-        tue-narrow{
-            relative{
-                "-1"{"ter. pasadu"}
-                "0"{"es ter. li"}
-                "1"{"prósimu ter."}
-            }
-        }
-        tue-short{
-            relative{
-                "-1"{"ter. pasadu"}
-                "0"{"es ter. li"}
-                "1"{"prósimu ter."}
-            }
-        }
-        wed{
-            relative{
-                "-1"{"kuarta-fera pasadu"}
-                "0"{"es kuarta-fera li"}
-                "1"{"prósimu kuarta-fera"}
-            }
-        }
-        wed-narrow{
-            relative{
-                "-1"{"kua. pasadu"}
-                "0"{"es kua. li"}
-                "1"{"prósimu kua."}
-            }
-        }
-        wed-short{
-            relative{
-                "-1"{"kua. pasadu"}
-                "0"{"es kua. li"}
-                "1"{"prósimu kua."}
             }
         }
         week{

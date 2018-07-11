@@ -2,7 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 uz_Cyrl{
     %%Parent{"root"}
-    AuxExemplarCharacters{"[ц щ ы ь]"}
     Ellipsis{
         final{"{0}…"}
         initial{"…{0}"}
@@ -11,7 +10,6 @@ uz_Cyrl{
         word-initial{"… {0}"}
         word-medial{"{0} … {1}"}
     }
-    ExemplarCharacters{"[а б в г ғ д е ё ж з и й к қ л м н о п р с т у ў ф х ҳ ч ш ъ э ю я]"}
     ExemplarCharactersNumbers{"[  \\- , % ‰ + 0 1 2 3 4 5 6 7 8 9]"}
     MoreInformation{"?"}
     NumberElements{
@@ -766,13 +764,6 @@ uz_Cyrl{
         era{
             dn{"Эра"}
         }
-        fri{
-            relative{
-                "-1"{"ўтган жума"}
-                "0"{"бу жума"}
-                "1"{"кейинги жума"}
-            }
-        }
         hour{
             dn{"Соат"}
             relativeTime{
@@ -799,13 +790,6 @@ uz_Cyrl{
                 }
             }
         }
-        mon{
-            relative{
-                "-1"{"ўтган душанба"}
-                "0"{"бу душанба"}
-                "1"{"кейинги душанба"}
-            }
-        }
         month{
             dn{"Ой"}
             relative{
@@ -824,13 +808,6 @@ uz_Cyrl{
                 }
             }
         }
-        sat{
-            relative{
-                "-1"{"ўтган шанба"}
-                "0"{"бу шанба"}
-                "1"{"кейинги шанба"}
-            }
-        }
         second{
             dn{"Сония"}
             relative{
@@ -845,34 +822,6 @@ uz_Cyrl{
                     one{"{0} сония олдин"}
                     other{"{0} сония олдин"}
                 }
-            }
-        }
-        sun{
-            relative{
-                "-1"{"ўтган якшанба"}
-                "0"{"бу якшанба"}
-                "1"{"кейинги якшанба"}
-            }
-        }
-        thu{
-            relative{
-                "-1"{"ўтган пайшанба"}
-                "0"{"бу пайшанба"}
-                "1"{"кейинги пайшанба"}
-            }
-        }
-        tue{
-            relative{
-                "-1"{"ўтган сешанба"}
-                "0"{"бу сешанба"}
-                "1"{"кейинги сешанба"}
-            }
-        }
-        wed{
-            relative{
-                "-1"{"ўтган чоршанба"}
-                "0"{"this Wednesday"}
-                "1"{"кейинги чоршанба"}
             }
         }
         week{

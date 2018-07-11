@@ -1,14 +1,6 @@
 ﻿// © 2016 and later: Unicode, Inc. and others.
 // License & terms of use: http://www.unicode.org/copyright.html#License
 hsb{
-    AuxExemplarCharacters{
-        "[á à ă â å ä ã ą ā æ ç ď đ é è ĕ ê ë ė ę ē ğ í ì ĭ î ï İ ī ı ĺ ľ ň ñ ò ŏ ô ö"
-        " ő ø ō œ ŕ ś ş ß ť ú ù ŭ û ů ü ű ū ý ÿ ż ź]"
-    }
-    ExemplarCharacters{
-        "[a b c č ć d {dź} e ě f g h {ch} i j k ł l m n ń o ó p q r ř s š t u v w x y"
-        " z ž]"
-    }
     ExemplarCharactersIndex{"[A B C Č Ć D {DŹ} E F G H {CH} I J K Ł L M N O P Q R S Š T U V W X Y Z Ž]"}
     ExemplarCharactersNumbers{"[\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]"}
     ExemplarCharactersPunctuation{
@@ -762,27 +754,6 @@ hsb{
         era{
             dn{"doba"}
         }
-        fri{
-            relative{
-                "-1"{"zašły pjatk"}
-                "0"{"tutón pjatk"}
-                "1"{"přichodny pjatk"}
-            }
-        }
-        fri-narrow{
-            relative{
-                "-1"{"zašły pj."}
-                "0"{"tutón pj."}
-                "1"{"přichodny pj."}
-            }
-        }
-        fri-short{
-            relative{
-                "-1"{"zašły pja."}
-                "0"{"tutón pja."}
-                "1"{"přichodny pja."}
-            }
-        }
         hour{
             dn{"hodźina"}
             relativeTime{
@@ -885,27 +856,6 @@ hsb{
                 }
             }
         }
-        mon{
-            relative{
-                "-1"{"zašłu póndźelu"}
-                "0"{"tutu póndźelu"}
-                "1"{"přichodnu póndźelu"}
-            }
-        }
-        mon-narrow{
-            relative{
-                "-1"{"zašłu pó."}
-                "0"{"tutu pó."}
-                "1"{"přichodnu pó."}
-            }
-        }
-        mon-short{
-            relative{
-                "-1"{"zašłu pón."}
-                "0"{"tutu pón."}
-                "1"{"přichodnu pón."}
-            }
-        }
         month{
             dn{"měsac"}
             relative{
@@ -962,78 +912,6 @@ hsb{
                 }
             }
         }
-        quarter{
-            dn{"kwartal"}
-            relativeTime{
-                future{
-                    few{"za {0} kwartale"}
-                    one{"za {0} kwartal"}
-                    other{"za {0} kwartalow"}
-                    two{"za {0} kwartalej"}
-                }
-                past{
-                    few{"před {0} kwartalemi"}
-                    one{"před {0} kwartalom"}
-                    other{"před {0} kwartalemi"}
-                    two{"před {0} kwartalomaj"}
-                }
-            }
-        }
-        quarter-narrow{
-            dn{"kw."}
-            relativeTime{
-                future{
-                    few{"za {0} kw."}
-                    one{"za {0} kw."}
-                    other{"za {0} kw."}
-                    two{"za {0} kw."}
-                }
-                past{
-                    few{"před {0} kw."}
-                    one{"před {0} kw."}
-                    other{"před {0} kw."}
-                    two{"před {0} kw."}
-                }
-            }
-        }
-        quarter-short{
-            dn{"kwart."}
-            relativeTime{
-                future{
-                    few{"za {0} kwart."}
-                    one{"za {0} kwart."}
-                    other{"za {0} kwart."}
-                    two{"za {0} kwart."}
-                }
-                past{
-                    few{"před {0} kwart."}
-                    one{"před {0} kwart."}
-                    other{"před {0} kwart."}
-                    two{"před {0} kwart."}
-                }
-            }
-        }
-        sat{
-            relative{
-                "-1"{"zašłu sobotu"}
-                "0"{"tutu sobotu"}
-                "1"{"přichodnu sobotu"}
-            }
-        }
-        sat-narrow{
-            relative{
-                "-1"{"zašłu so."}
-                "0"{"tutu so."}
-                "1"{"přichodnu so."}
-            }
-        }
-        sat-short{
-            relative{
-                "-1"{"zašłu sob."}
-                "0"{"tutu sob."}
-                "1"{"přichodnu sob."}
-            }
-        }
         second{
             dn{"sekunda"}
             relativeTime{
@@ -1083,90 +961,6 @@ hsb{
                     other{"před {0} sek."}
                     two{"před {0} sek."}
                 }
-            }
-        }
-        sun{
-            relative{
-                "-1"{"zašłu njedźelu"}
-                "0"{"tutu njedźelu"}
-                "1"{"přichodnu njedźelu"}
-            }
-        }
-        sun-narrow{
-            relative{
-                "-1"{"zašłu nj."}
-                "0"{"tutu nj."}
-                "1"{"přichodnu nj."}
-            }
-        }
-        sun-short{
-            relative{
-                "-1"{"zašłu nje."}
-                "0"{"tutu nje."}
-                "1"{"přichodnu nje."}
-            }
-        }
-        thu{
-            relative{
-                "-1"{"zašły štwórtk"}
-                "0"{"tutón štwórtk"}
-                "1"{"přichodny štwórtk"}
-            }
-        }
-        thu-narrow{
-            relative{
-                "-1"{"zašły št."}
-                "0"{"tutón št."}
-                "1"{"přichodny št."}
-            }
-        }
-        thu-short{
-            relative{
-                "-1"{"zašły štw."}
-                "0"{"tutón štw."}
-                "1"{"přichodny štw."}
-            }
-        }
-        tue{
-            relative{
-                "-1"{"zašłu wutoru"}
-                "0"{"tutu wutoru"}
-                "1"{"přichodnu wutoru"}
-            }
-        }
-        tue-narrow{
-            relative{
-                "-1"{"zašłu wu."}
-                "0"{"tutu wu."}
-                "1"{"přichodnu wu."}
-            }
-        }
-        tue-short{
-            relative{
-                "-1"{"zašłu wut."}
-                "0"{"tutu wut."}
-                "1"{"přichodnu wut."}
-            }
-        }
-        wed{
-            relative{
-                "-1"{"zašłu srjedu"}
-                "0"{"tutu srjedu"}
-                "1"{"přichodnu srjedu"}
-            }
-        }
-        wed-narrow{
-            relative{
-                "-1"{"zašłu sr."}
-                "0"{"tutu sr."}
-                "1"{"přichodnu sr."}
-            }
-        }
-        wed-short{
-            relative{
-                "-1"{"zašłu srj."}
-                "0"{"tutu srj."}
-                "1"{"přichodnu srj."}
             }
         }
         week{

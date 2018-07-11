@@ -107,23 +107,6 @@ en_SG{
                 }
             }
         }
-        quarter-short{
-            relative{
-                "-1"{"last qtr"}
-                "0"{"this qtr"}
-                "1"{"next qtr"}
-            }
-            relativeTime{
-                future{
-                    one{"in {0} qtr"}
-                    other{"in {0} qtrs"}
-                }
-                past{
-                    one{"{0} qtr ago"}
-                    other{"{0} qtrs ago"}
-                }
-            }
-        }
         week-short{
             relative{
                 "-1"{"last wk"}

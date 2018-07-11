@@ -1,11 +1,6 @@
 ﻿// © 2016 and later: Unicode, Inc. and others.
 // License & terms of use: http://www.unicode.org/copyright.html#License
 lkt{
-    AuxExemplarCharacters{"[c d f {ȟʼ} j q r {sʼ} {šʼ} v x]"}
-    ExemplarCharacters{
-        "[a á {aŋ} b č {čh} {čʼ} e é g ǧ h ȟ i í {iŋ} k {kh} {kȟ} {kʼ} l m n ŋ o ó p "
-        "{ph} {pȟ} {pʼ} s š t {th} {tȟ} {tʼ} u ú {uŋ} w y z ž ʼ]"
-    }
     ExemplarCharactersIndex{"[A B Č E G Ǧ H Ȟ I K L M N Ŋ O P S Š T U W Y Z Ž]"}
     ExemplarCharactersNumbers{"[\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]"}
     ExemplarCharactersPunctuation{"[\\- ‐ – — , ; \\: ! ? . \u0022 “ ” ( ) \\[ \\] @ * / \\& #]"}
@@ -71,13 +66,6 @@ lkt{
                 }
             }
         }
-        fri{
-            relative{
-                "-1"{"Aŋpétuzaŋptaŋ kʼuŋ héhaŋ"}
-                "0"{"Apétuzaptaŋ kiŋ lé"}
-                "1"{"Aŋpétuzaptaŋ kiŋháŋ"}
-            }
-        }
         hour{
             dn{"Owápȟe"}
             relativeTime{
@@ -100,13 +88,6 @@ lkt{
                 }
             }
         }
-        mon{
-            relative{
-                "-1"{"Aŋpétutȟokahe kʼuŋ héhaŋ"}
-                "0"{"Aŋpétutȟokahe kiŋ lé"}
-                "1"{"Aŋpétutȟokahe kiŋháŋ"}
-            }
-        }
         month{
             dn{"Wí"}
             relative{
@@ -123,13 +104,6 @@ lkt{
                 }
             }
         }
-        sat{
-            relative{
-                "-1"{"Owáŋkayužažapi kʼuŋ héhaŋ"}
-                "0"{"Owáŋkayužažapi kiŋ lé"}
-                "1"{"Owáŋkayužažapi kiŋháŋ"}
-            }
-        }
         second{
             dn{"Okpí"}
             relativeTime{
@@ -139,34 +113,6 @@ lkt{
                 past{
                     other{"Hékta okpí {0} k’uŋ héhaŋ"}
                 }
-            }
-        }
-        sun{
-            relative{
-                "-1"{"Aŋpétuwakȟáŋ kʼuŋ héhaŋ"}
-                "0"{"Aŋpétuwakȟáŋ kiŋ lé"}
-                "1"{"Aŋpétuwakȟáŋ kiŋháŋ"}
-            }
-        }
-        thu{
-            relative{
-                "-1"{"Aŋpétutopa kʼuŋ héhaŋ"}
-                "0"{"Aŋpétutopa kiŋ lé"}
-                "1"{"Aŋpétutopa kiŋháŋ"}
-            }
-        }
-        tue{
-            relative{
-                "-1"{"Aŋpétunuŋpa kʼuŋ héhaŋ"}
-                "0"{"Aŋpétunuŋpa kiŋ lé"}
-                "1"{"Aŋpétunuŋpa kiŋháŋ"}
-            }
-        }
-        wed{
-            relative{
-                "-1"{"Aŋpétuyamni kʼuŋ héhaŋ"}
-                "0"{"Aŋpétuyamni kiŋ lé"}
-                "1"{"Aŋpétuyamni kiŋháŋ"}
             }
         }
         week{

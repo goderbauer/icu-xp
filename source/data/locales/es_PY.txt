@@ -142,13 +142,6 @@ es_PY{
                 "2"{"pasado mañana"}
             }
         }
-        mon-narrow{
-            relative{
-                "-1"{"el lun. pasado"}
-                "0"{"este lun."}
-                "1"{"el próximo lun."}
-            }
-        }
         second-narrow{
             relativeTime{
                 future{
@@ -172,20 +165,6 @@ es_PY{
                     one{"hace {0} seg."}
                     other{"hace {0} seg."}
                 }
-            }
-        }
-        sun-narrow{
-            relative{
-                "-1"{"el dom. pasado"}
-                "0"{"este dom."}
-                "1"{"el próximo dom."}
-            }
-        }
-        tue-narrow{
-            relative{
-                "-1"{"el mar. pasado"}
-                "0"{"este mar."}
-                "1"{"el próximo mar."}
             }
         }
     }

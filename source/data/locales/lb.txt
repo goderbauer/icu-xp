@@ -1,10 +1,6 @@
 ﻿// © 2016 and later: Unicode, Inc. and others.
 // License & terms of use: http://www.unicode.org/copyright.html#License
 lb{
-    AuxExemplarCharacters{
-        "[á à ă â å ã ā æ ç è ĕ ê ē ğ í ì ĭ î ï İ ī ı ñ ó ò ŏ ô ö ø ō œ ş ß ú ù ŭ û ü"
-        " ū ÿ]"
-    }
     Ellipsis{
         final{"{0} …"}
         initial{"… {0}"}
@@ -13,7 +9,6 @@ lb{
         word-initial{"… {0}"}
         word-medial{"{0} … {1}"}
     }
-    ExemplarCharacters{"[a ä b c d e é ë f g h i j k l m n o p q r s t u v w x y z]"}
     ExemplarCharactersIndex{"[A B C D E F G H I J K L M N O P Q R S T U V W X Y Z]"}
     ExemplarCharactersNumbers{"[\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]"}
     ExemplarCharactersPunctuation{
@@ -811,27 +806,6 @@ lb{
         era{
             dn{"Epoch"}
         }
-        fri{
-            relative{
-                "-1"{"leschte Freideg"}
-                "0"{"dëse Freideg"}
-                "1"{"nächste Freideg"}
-            }
-        }
-        fri-narrow{
-            relative{
-                "-1"{"leschte Fr."}
-                "0"{"dëse Fr."}
-                "1"{"nächste Fr."}
-            }
-        }
-        fri-short{
-            relative{
-                "-1"{"leschte Fre."}
-                "0"{"dëse Fre."}
-                "1"{"nächste Fre."}
-            }
-        }
         hour{
             dn{"Stonn"}
             relativeTime{
@@ -910,27 +884,6 @@ lb{
                 }
             }
         }
-        mon{
-            relative{
-                "-1"{"leschte Méindeg"}
-                "0"{"dëse Méindeg"}
-                "1"{"nächste Méindeg"}
-            }
-        }
-        mon-narrow{
-            relative{
-                "-1"{"leschte Mé."}
-                "0"{"dëse Mé."}
-                "1"{"nächste Mé."}
-            }
-        }
-        mon-short{
-            relative{
-                "-1"{"leschte Méi."}
-                "0"{"dëse Méi."}
-                "1"{"nächste Méi."}
-            }
-        }
         month{
             dn{"Mount"}
             relative{
@@ -975,66 +928,6 @@ lb{
                 }
             }
         }
-        quarter{
-            dn{"Quartal"}
-            relativeTime{
-                future{
-                    one{"an {0} Quartal"}
-                    other{"a(n) {0} Quartaler"}
-                }
-                past{
-                    one{"virun {0} Quartal"}
-                    other{"viru(n) {0} Quartaler"}
-                }
-            }
-        }
-        quarter-narrow{
-            dn{"Q."}
-            relativeTime{
-                future{
-                    one{"+{0} Q."}
-                    other{"+{0} Q."}
-                }
-                past{
-                    one{"-{0} Q."}
-                    other{"-{0} Q."}
-                }
-            }
-        }
-        quarter-short{
-            dn{"Q."}
-            relativeTime{
-                future{
-                    one{"an {0} Q."}
-                    other{"a(n) {0} Q."}
-                }
-                past{
-                    one{"virun {0} Q."}
-                    other{"viru(n) {0} Q."}
-                }
-            }
-        }
-        sat{
-            relative{
-                "-1"{"leschte Samschdeg"}
-                "0"{"dëse Samschdeg"}
-                "1"{"nächste Samschdeg"}
-            }
-        }
-        sat-narrow{
-            relative{
-                "-1"{"leschte Sa."}
-                "0"{"dëse Sa."}
-                "1"{"nächste Sa."}
-            }
-        }
-        sat-short{
-            relative{
-                "-1"{"leschte Sam."}
-                "0"{"dëse Sam."}
-                "1"{"nächste Sam."}
-            }
-        }
         second{
             dn{"Sekonn"}
             relativeTime{
@@ -1072,90 +965,6 @@ lb{
                     one{"virun {0} Sek."}
                     other{"viru(n) {0} Sek."}
                 }
-            }
-        }
-        sun{
-            relative{
-                "-1"{"leschte Sonndeg"}
-                "0"{"dëse Sonndeg"}
-                "1"{"nächste Sonndeg"}
-            }
-        }
-        sun-narrow{
-            relative{
-                "-1"{"leschte So."}
-                "0"{"dëse So."}
-                "1"{"nächste So."}
-            }
-        }
-        sun-short{
-            relative{
-                "-1"{"leschte Son."}
-                "0"{"dëse Son."}
-                "1"{"nächste Son."}
-            }
-        }
-        thu{
-            relative{
-                "-1"{"leschten Donneschdeg"}
-                "0"{"dësen Donneschdeg"}
-                "1"{"nächsten Donneschdeg"}
-            }
-        }
-        thu-narrow{
-            relative{
-                "-1"{"leschten Do."}
-                "0"{"dësen Do."}
-                "1"{"nächsten Do."}
-            }
-        }
-        thu-short{
-            relative{
-                "-1"{"leschten Don."}
-                "0"{"dësen Don."}
-                "1"{"nächsten Don."}
-            }
-        }
-        tue{
-            relative{
-                "-1"{"leschten Dënschdeg"}
-                "0"{"dësen Dënschdeg"}
-                "1"{"nächsten Dënschdeg"}
-            }
-        }
-        tue-narrow{
-            relative{
-                "-1"{"leschten Dë."}
-                "0"{"dësen Dë."}
-                "1"{"nächsten Dë."}
-            }
-        }
-        tue-short{
-            relative{
-                "-1"{"leschten Dë."}
-                "0"{"dësen Dë."}
-                "1"{"nächsten Dë."}
-            }
-        }
-        wed{
-            relative{
-                "-1"{"leschte Mëttwoch"}
-                "0"{"dëse Mëttwoch"}
-                "1"{"nächste Mëttwoch"}
-            }
-        }
-        wed-narrow{
-            relative{
-                "-1"{"leschte Më."}
-                "0"{"dëse Më."}
-                "1"{"nächste Më."}
-            }
-        }
-        wed-short{
-            relative{
-                "-1"{"leschte Mët."}
-                "0"{"dëse Mët."}
-                "1"{"nächste Mët."}
             }
         }
         week{

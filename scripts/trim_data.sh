@@ -221,15 +221,23 @@ langdatapath="${dataroot}/lang"
 
 
 filter_locale_data
+read -p "Press enter to continue"
 filter_display_language_names
+read -p "Press enter to continue"
 abridge_locale_data_for_non_ui_languages
+read -p "Press enter to continue"
 filter_currency_data
+read -p "Press enter to continue"
 filter_region_data
+read -p "Press enter to continue"
 remove_legacy_chinese_codepoint_collation
+read -p "Press enter to continue"
 filter_unit_data
+read -p "Press enter to continue"
+
 
 # Chromium OS needs exemplar cities for timezones, but not Chromium.
 # It'll save 400kB (uncompressed), but the size difference in
 # 7z compressed installer is <= 100kB.
 # TODO(jshin): Make separate data files for CrOS and Chromium.
-#remove_exemplar_cities
+remove_exemplar_cities

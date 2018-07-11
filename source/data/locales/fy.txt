@@ -1,7 +1,6 @@
 ﻿// © 2016 and later: Unicode, Inc. and others.
 // License & terms of use: http://www.unicode.org/copyright.html#License
 fy{
-    AuxExemplarCharacters{"[æ ò ù]"}
     Ellipsis{
         final{"{0}…"}
         initial{"…{0}"}
@@ -9,10 +8,6 @@ fy{
         word-final{"{0} …"}
         word-initial{"… {0}"}
         word-medial{"{0} … {1}"}
-    }
-    ExemplarCharacters{
-        "[a á à â ä b c d e é è ê ë f g h i í ï {ij} {íj\u0301} j k l m n o ó ô ö p r"
-        " s t u ú û ü v w y ý z]"
     }
     ExemplarCharactersIndex{"[A B C D E F G H I J K L M N O P R S T U V W X Z]"}
     ExemplarCharactersNumbers{"[\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]"}
@@ -1895,13 +1890,6 @@ fy{
         era{
             dn{"Tiidsrin"}
         }
-        fri{
-            relative{
-                "-1"{"ôfrûne freed"}
-                "0"{"dizze freed"}
-                "1"{"folgjende wike freed"}
-            }
-        }
         hour{
             dn{"oere"}
             relativeTime{
@@ -1928,13 +1916,6 @@ fy{
                 }
             }
         }
-        mon{
-            relative{
-                "-1"{"ôfrûne moandei"}
-                "0"{"dizze moandei"}
-                "1"{"folgjende wike moandei"}
-            }
-        }
         month{
             dn{"Moanne"}
             relative{
@@ -1953,13 +1934,6 @@ fy{
                 }
             }
         }
-        sat{
-            relative{
-                "-1"{"ôfrûne sneon"}
-                "0"{"dizze sneon"}
-                "1"{"folgjende wike sneon"}
-            }
-        }
         second{
             dn{"Sekonde"}
             relative{
@@ -1974,34 +1948,6 @@ fy{
                     one{"{0} sekonde lyn"}
                     other{"{0} sekonden lyn"}
                 }
-            }
-        }
-        sun{
-            relative{
-                "-1"{"ôfrûne snein"}
-                "0"{"dizze snein"}
-                "1"{"folgjende wike snein"}
-            }
-        }
-        thu{
-            relative{
-                "-1"{"ôfrûne tongersdei"}
-                "0"{"dizze tongersdei"}
-                "1"{"folgjende wike tongersdei"}
-            }
-        }
-        tue{
-            relative{
-                "-1"{"ôfrûne tiisdei"}
-                "0"{"dizze tiisdei"}
-                "1"{"folgjende wike tiisdei"}
-            }
-        }
-        wed{
-            relative{
-                "-1"{"ôfrûne woansdei"}
-                "0"{"dizze woansdei"}
-                "1"{"folgjende wike woansdei"}
             }
         }
         week{

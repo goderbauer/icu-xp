@@ -1,7 +1,6 @@
 ﻿// © 2016 and later: Unicode, Inc. and others.
 // License & terms of use: http://www.unicode.org/copyright.html#License
 so{
-    ExemplarCharacters{"[a b c d e f g h i j k l m n o p q r s t u v w x y z]"}
     ExemplarCharactersNumbers{"[\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]"}
     NumberElements{
         latn{
@@ -469,43 +468,6 @@ so{
                 }
             }
         }
-        quarter{
-            dn{"Quarter"}
-            relativeTime{
-                future{
-                    one{"+{0} Q"}
-                    other{"+{0} Q"}
-                }
-                past{
-                    one{"-{0} Q"}
-                    other{"-{0} Q"}
-                }
-            }
-        }
-        quarter-narrow{
-            relativeTime{
-                future{
-                    one{"+{0} Q"}
-                    other{"+{0} Q"}
-                }
-                past{
-                    one{"-{0} Q"}
-                    other{"-{0} Q"}
-                }
-            }
-        }
-        quarter-short{
-            relativeTime{
-                future{
-                    one{"+{0} Q"}
-                    other{"+{0} Q"}
-                }
-                past{
-                    one{"-{0} Q"}
-                    other{"-{0} Q"}
-                }
-            }
-        }
         second{
             dn{"Second"}
             relative{
@@ -543,23 +505,6 @@ so{
                 past{
                     one{"-{0} s"}
                     other{"-{0} s"}
-                }
-            }
-        }
-        sun{
-            relative{
-                "-1"{"last Sunday"}
-                "0"{"this Sunday"}
-                "1"{"next Sunday"}
-            }
-            relativeTime{
-                future{
-                    one{"+{0} Sundays"}
-                    other{"+{0} Sundays"}
-                }
-                past{
-                    one{"-{0} Sundays"}
-                    other{"-{0} Sundays"}
                 }
             }
         }

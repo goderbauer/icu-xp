@@ -1,8 +1,6 @@
 ﻿// © 2016 and later: Unicode, Inc. and others.
 // License & terms of use: http://www.unicode.org/copyright.html#License
 wo{
-    AuxExemplarCharacters{"[ã h v z]"}
-    ExemplarCharacters{"[a à b c d e é ë f g i j k l m n ñ ŋ o ó p q r s t u w x y]"}
     ExemplarCharactersIndex{"[A B C D E F G H I J K L M N Ŋ O P Q R S T U V W X Y Z]"}
     ExemplarCharactersNumbers{"[\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]"}
     NumberElements{
@@ -454,15 +452,6 @@ wo{
         }
         month-short{
             dn{"we."}
-        }
-        quarter{
-            dn{"ñeenti-weer"}
-        }
-        quarter-narrow{
-            dn{"ñw."}
-        }
-        quarter-short{
-            dn{"ñw."}
         }
         second{
             dn{"saa"}

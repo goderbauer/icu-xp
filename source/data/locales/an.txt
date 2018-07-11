@@ -10,7 +10,6 @@
     https://en.wikipedia.org/wiki/Aragonese_language#Orthography
  */
 an{
-    ExemplarCharacters{"[a-z á ç í é ó ü]"}
     LocaleScript{
         "Latn",
     }

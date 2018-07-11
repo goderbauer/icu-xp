@@ -136,9 +136,6 @@ es_DO{
         month{
             dn{"Mes"}
         }
-        quarter{
-            dn{"Trimestre"}
-        }
         second{
             dn{"Segundo"}
         }

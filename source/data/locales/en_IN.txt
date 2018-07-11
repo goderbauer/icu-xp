@@ -139,12 +139,5 @@ en_IN{
         dayperiod{
             dn{"AM/PM"}
         }
-        wed-short{
-            relativeTime{
-                future{
-                    other{"in {0} Wed."}
-                }
-            }
-        }
     }
 }

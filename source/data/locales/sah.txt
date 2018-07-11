@@ -1,7 +1,6 @@
 ﻿// © 2016 and later: Unicode, Inc. and others.
 // License & terms of use: http://www.unicode.org/copyright.html#License
 sah{
-    AuxExemplarCharacters{"[в е ё ж з ф ц ш щ ъ ь ю я]"}
     Ellipsis{
         final{"{0}…"}
         initial{"…{0}"}
@@ -10,7 +9,6 @@ sah{
         word-initial{"… {0}"}
         word-medial{"{0} … {1}"}
     }
-    ExemplarCharacters{"[а б г ҕ д {дь} и й к л м н {нь} ҥ о ө п р с т у ү х һ ч ы э]"}
     ExemplarCharactersIndex{"[А Б Г Ҕ Д {Дь} И Й К Л М Н {Нь} Ҥ О Ө П Р С Т У Ү Х Һ Ч Ы Э]"}
     ExemplarCharactersNumbers{"[  \\- , % ‰ + 0 1 2 3 4 5 6 7 8 9]"}
     ExemplarCharactersPunctuation{"[\\:]"}
@@ -633,51 +631,6 @@ sah{
         era{
             dn{"Ээрэ"}
         }
-        fri{
-            relative{
-                "-1"{"ааспыт бээтиҥсэ"}
-                "0"{"бу бээтиҥсэ"}
-                "1"{"кэлэр бээтиҥсэ"}
-            }
-            relativeTime{
-                future{
-                    other{"{0} бээтиҥсэнэн"}
-                }
-                past{
-                    other{"{0} бээтиҥсэ анараа өттүгэр"}
-                }
-            }
-        }
-        fri-narrow{
-            relative{
-                "-1"{"ааспыт бэ."}
-                "0"{"бу бэ."}
-                "1"{"кэлэр бэ."}
-            }
-            relativeTime{
-                future{
-                    other{"{0} бээтиҥсэнэн"}
-                }
-                past{
-                    other{"{0} бэ. анараа өттүгэр"}
-                }
-            }
-        }
-        fri-short{
-            relative{
-                "-1"{"ааспыт бэ."}
-                "0"{"бу бэ."}
-                "1"{"кэлэр бэ."}
-            }
-            relativeTime{
-                future{
-                    other{"{0} бээтиҥсэнэн"}
-                }
-                past{
-                    other{"{0} бэ. анараа өттүгэр"}
-                }
-            }
-        }
         hour{
             dn{"Чаас"}
             relativeTime{
@@ -700,20 +653,6 @@ sah{
                 }
             }
         }
-        mon{
-            relative{
-                "-1"{"ааспыт бэнидиэнньик"}
-                "0"{"бу бэнидиэнньик"}
-                "1"{"кэлэр бэнидиэнньик"}
-            }
-        }
-        mon-short{
-            relative{
-                "-1"{"ааспыт бн."}
-                "0"{"бу бн."}
-                "1"{"кэлэр бн."}
-            }
-        }
         month{
             dn{"Ый"}
             relative{
@@ -727,86 +666,6 @@ sah{
                 }
                 past{
                     other{"{0} ый ынараа өттүгэр"}
-                }
-            }
-        }
-        quarter{
-            dn{"Чиэппэр"}
-            relative{
-                "-1"{"ааспыт кыбаартал"}
-                "0"{"бу кыбаартал"}
-                "1"{"кэлэр кыбаартал"}
-            }
-            relativeTime{
-                future{
-                    other{"{0} кыбаарталынан"}
-                }
-                past{
-                    other{"{0} кыбаартал анараа өттүгэр"}
-                }
-            }
-        }
-        quarter-narrow{
-            dn{"чпр."}
-            relativeTime{
-                future{
-                    other{"{0} кыбаарталынан"}
-                }
-            }
-        }
-        quarter-short{
-            dn{"чпр."}
-            relativeTime{
-                future{
-                    other{"{0} кыбаарталынан"}
-                }
-                past{
-                    other{"{0} кыб. анараа өттүгэр"}
-                }
-            }
-        }
-        sat{
-            relative{
-                "-1"{"ааспыт субуота"}
-                "0"{"бу субуота"}
-                "1"{"кэлэр субуота"}
-            }
-            relativeTime{
-                future{
-                    other{"{0} субуотанан"}
-                }
-                past{
-                    other{"{0} субуота анараа өттүгэр"}
-                }
-            }
-        }
-        sat-narrow{
-            relative{
-                "-1"{"ааспыт сб."}
-                "0"{"бу сб."}
-                "1"{"кэлэр сб."}
-            }
-            relativeTime{
-                future{
-                    other{"{0} субуотанан"}
-                }
-                past{
-                    other{"{0} сб. анараа өттүгэр"}
-                }
-            }
-        }
-        sat-short{
-            relative{
-                "-1"{"ааспыт сб."}
-                "0"{"бу сб."}
-                "1"{"кэлэр сб."}
-            }
-            relativeTime{
-                future{
-                    other{"{0} субуотанан"}
-                }
-                past{
-                    other{"{0} сб. анараа өттүгэр"}
                 }
             }
         }
@@ -829,140 +688,6 @@ sah{
                 past{
                     other{"{0} сөк. анараа өттүгэр"}
                 }
-            }
-        }
-        sun{
-            relative{
-                "-1"{"ааспыт баскыһыанньа"}
-                "0"{"бу баскыһыанньа"}
-                "1"{"кэлэр баскыһыанньа"}
-            }
-            relativeTime{
-                future{
-                    other{"{0} баскыһыанньанан"}
-                }
-                past{
-                    other{"{0} баскыһыанньа анараа өттүгэр"}
-                }
-            }
-        }
-        sun-short{
-            relative{
-                "-1"{"ааспыт бс."}
-                "0"{"бу бс."}
-                "1"{"кэлэр бс."}
-            }
-        }
-        thu{
-            relative{
-                "-1"{"ааспыт чэппиэр"}
-                "0"{"бу чэппиэр"}
-                "1"{"кэлэр чэппиэр"}
-            }
-            relativeTime{
-                future{
-                    other{"{0} чэппиэринэн"}
-                }
-                past{
-                    other{"{0} чэппиэр анараа өттүгэр"}
-                }
-            }
-        }
-        thu-narrow{
-            relative{
-                "-1"{"ааспыт чп."}
-                "0"{"бу чп."}
-                "1"{"кэлэр чп."}
-            }
-            relativeTime{
-                future{
-                    other{"{0} чэппиэринэн"}
-                }
-                past{
-                    other{"{0} чп. анараа өттүгэр"}
-                }
-            }
-        }
-        thu-short{
-            relative{
-                "-1"{"ааспыт чп."}
-                "0"{"бу чп."}
-                "1"{"кэлэр чп."}
-            }
-            relativeTime{
-                future{
-                    other{"{0} чэппиэринэн"}
-                }
-                past{
-                    other{"{0} чп. анараа өттүгэр"}
-                }
-            }
-        }
-        tue{
-            relative{
-                "-1"{"ааспыт оптуорунньук"}
-                "0"{"бу оптуорунньук"}
-                "1"{"кэлэр оптуорунньук"}
-            }
-            relativeTime{
-                future{
-                    other{"{0} оптуорунньугунан"}
-                }
-                past{
-                    other{"{0} оптуорунньук анараа өттүгэр"}
-                }
-            }
-        }
-        tue-narrow{
-            relative{
-                "-1"{"ааспыт оп."}
-                "0"{"бу оп."}
-                "1"{"кэлэр оп."}
-            }
-            relativeTime{
-                future{
-                    other{"{0} оптуорунньугунан"}
-                }
-                past{
-                    other{"{0} оп. анараа өттүгэр"}
-                }
-            }
-        }
-        tue-short{
-            relative{
-                "-1"{"ааспыт оп."}
-                "0"{"бу оп."}
-                "1"{"кэлэр оп."}
-            }
-            relativeTime{
-                future{
-                    other{"{0} оптуорунньугунан"}
-                }
-                past{
-                    other{"{0} оп. анараа өттүгэр"}
-                }
-            }
-        }
-        wed{
-            relative{
-                "-1"{"ааспыт сэрэдэ"}
-                "0"{"бу сэрэдэ"}
-                "1"{"кэлэр сэрэдэ"}
-            }
-            relativeTime{
-                future{
-                    other{"{0} сэрэдэнэн"}
-                }
-                past{
-                    other{"{0} сэрэдэ анараа өттүгэр"}
-                }
-            }
-        }
-        wed-short{
-            relative{
-                "-1"{"ааспыт сэ."}
-                "0"{"бу сэ."}
-                "1"{"кэлэр сэ."}
             }
         }
         week{

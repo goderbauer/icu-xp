@@ -1,10 +1,6 @@
 ﻿// © 2016 and later: Unicode, Inc. and others.
 // License & terms of use: http://www.unicode.org/copyright.html#License
 to{
-    AuxExemplarCharacters{
-        "[à ă â å ä æ b c ç d è ĕ ê ë g ì ĭ î ï j ñ ò ŏ ô ö ø œ q r ù ŭ û ü w x y ÿ z"
-        "]"
-    }
     Ellipsis{
         final{"{0}…"}
         initial{"…{0}"}
@@ -13,7 +9,6 @@ to{
         word-initial{"… {0}"}
         word-medial{"{0} … {1}"}
     }
-    ExemplarCharacters{"[a á ā e é ē f h i í ī k l m n {ng} o ó ō p s t u ú ū v ʻ]"}
     ExemplarCharactersIndex{"[A E F H I K L M N {NG} O P S T U V ʻ]"}
     ExemplarCharactersNumbers{"[\\- , . % ‰ + 0 1 2 3 4 5 6 7 8 9]"}
     ExemplarCharactersPunctuation{
@@ -729,25 +724,6 @@ to{
             }
         }
     }
-    characterLabel{
-        animal{"manu"}
-        body{"sino"}
-        building{"fale"}
-        female{"fakafefine"}
-        flag{"fuka"}
-        flags{"ngaahi fuka"}
-        heart{"mafu"}
-        keycap{"tatā foʻi kī"}
-        male{"fakatangata"}
-        nature{"natula"}
-        person{"kakai"}
-        place{"feituʻu"}
-        plant{"ʻakau"}
-        smiley{"malimali"}
-        sport{"vāʻinga"}
-        travel{"folau"}
-        weather{"ʻea"}
-    }
     delimiters{
         alternateQuotationEnd{"’"}
         alternateQuotationStart{"‘"}
@@ -824,27 +800,6 @@ to{
         era{
             dn{"kuonga"}
         }
-        fri{
-            relative{
-                "-1"{"Falaite kuoʻosi"}
-                "0"{"Falaité ni"}
-                "1"{"Falaite kahaʻu"}
-            }
-        }
-        fri-narrow{
-            relative{
-                "-1"{"Falaite kuoʻosi"}
-                "0"{"Falaité ni"}
-                "1"{"Falaite kahaʻu"}
-            }
-        }
-        fri-short{
-            relative{
-                "-1"{"Falaite kuoʻosi"}
-                "0"{"Falaité ni"}
-                "1"{"Falaite kahaʻu"}
-            }
-        }
         hour{
             dn{"houa"}
             relativeTime{
@@ -911,27 +866,6 @@ to{
                 }
             }
         }
-        mon{
-            relative{
-                "-1"{"Mōnite kuoʻosi"}
-                "0"{"Mōnité ni"}
-                "1"{"Mōnite kahaʻu"}
-            }
-        }
-        mon-narrow{
-            relative{
-                "-1"{"Mōnite kuoʻosi"}
-                "0"{"Mōnité ni"}
-                "1"{"Mōnite kahaʻu"}
-            }
-        }
-        mon-short{
-            relative{
-                "-1"{"Mōnite kuoʻosi"}
-                "0"{"Mōnité ni"}
-                "1"{"Mōnite kahaʻu"}
-            }
-        }
         month{
             dn{"māhina"}
             relative{
@@ -980,75 +914,6 @@ to{
                 }
             }
         }
-        quarter{
-            dn{"kuata"}
-            relative{
-                "-1"{"kuata kuoʻosi"}
-                "0"{"kuata koʻeni"}
-                "1"{"kuata hoko"}
-            }
-            relativeTime{
-                future{
-                    other{"ʻi he kuata ʻe {0}"}
-                }
-                past{
-                    other{"kuata ʻe {0} kuoʻosi"}
-                }
-            }
-        }
-        quarter-narrow{
-            dn{"kuata"}
-            relative{
-                "-1"{"kuata kuoʻosi"}
-                "0"{"kuata koʻeni"}
-                "1"{"kuata hoko"}
-            }
-            relativeTime{
-                future{
-                    other{"ʻi he kuata ʻe {0}"}
-                }
-                past{
-                    other{"kuata ʻe {0} kuoʻosi"}
-                }
-            }
-        }
-        quarter-short{
-            dn{"kuata"}
-            relative{
-                "-1"{"kuata kuoʻosi"}
-                "0"{"kuata koʻeni"}
-                "1"{"kuata hoko"}
-            }
-            relativeTime{
-                future{
-                    other{"ʻi he kuata ʻe {0}"}
-                }
-                past{
-                    other{"kuata ʻe {0} kuoʻosi"}
-                }
-            }
-        }
-        sat{
-            relative{
-                "-1"{"Tokonaki kuoʻosi"}
-                "0"{"Tokonakí ni"}
-                "1"{"Tokonaki kahaʻu"}
-            }
-        }
-        sat-narrow{
-            relative{
-                "-1"{"Tokonaki kuoʻosi"}
-                "0"{"Tokonakí ni"}
-                "1"{"Tokonaki kahaʻu"}
-            }
-        }
-        sat-short{
-            relative{
-                "-1"{"Tokonaki kuoʻosi"}
-                "0"{"Tokonakí ni"}
-                "1"{"Tokonaki kahaʻu"}
-            }
-        }
         second{
             dn{"sekoni"}
             relative{
@@ -1083,90 +948,6 @@ to{
                 past{
                     other{"sekoni ʻe {0} kuoʻosi"}
                 }
-            }
-        }
-        sun{
-            relative{
-                "-1"{"Sāpate kuoʻosi"}
-                "0"{"Sāpaté ni"}
-                "1"{"Sāpate kahaʻu"}
-            }
-        }
-        sun-narrow{
-            relative{
-                "-1"{"Sāpate kuoʻosi"}
-                "0"{"Sāpaté ni"}
-                "1"{"Sāpate kahaʻu"}
-            }
-        }
-        sun-short{
-            relative{
-                "-1"{"Sāpate kuoʻosi"}
-                "0"{"Sāpaté ni"}
-                "1"{"Sāpate kahaʻu"}
-            }
-        }
-        thu{
-            relative{
-                "-1"{"Tuʻapulelulu kuoʻosi"}
-                "0"{"Tuʻapulelulú ni"}
-                "1"{"Tuʻapulelulu kahaʻu"}
-            }
-        }
-        thu-narrow{
-            relative{
-                "-1"{"Tuʻapulelulu kuoʻosi"}
-                "0"{"Tuʻapulelulú ni"}
-                "1"{"Tuʻapulelulu kahaʻu"}
-            }
-        }
-        thu-short{
-            relative{
-                "-1"{"Tuʻapulelulu kuoʻosi"}
-                "0"{"Tuʻapulelulú ni"}
-                "1"{"Tuʻapulelulu kahaʻu"}
-            }
-        }
-        tue{
-            relative{
-                "-1"{"Tūsite kuoʻosi"}
-                "0"{"Tūsité ni"}
-                "1"{"Tūsite kahaʻu"}
-            }
-        }
-        tue-narrow{
-            relative{
-                "-1"{"Tūsite kuoʻosi"}
-                "0"{"Tūsité ni"}
-                "1"{"Tūsite kahaʻu"}
-            }
-        }
-        tue-short{
-            relative{
-                "-1"{"Tūsite kuoʻosi"}
-                "0"{"Tūsité ni"}
-                "1"{"Tūsite kahaʻu"}
-            }
-        }
-        wed{
-            relative{
-                "-1"{"Pulelulu kuoʻosi"}
-                "0"{"Pulelulú ni"}
-                "1"{"Pulelulu kahaʻu"}
-            }
-        }
-        wed-narrow{
-            relative{
-                "-1"{"Pulelulu kuoʻosi"}
-                "0"{"Pulelulú ni"}
-                "1"{"Pulelulu kahaʻu"}
-            }
-        }
-        wed-short{
-            relative{
-                "-1"{"Pulelulu kuoʻosi"}
-                "0"{"Pulelulú ni"}
-                "1"{"Pulelulu kahaʻu"}
             }
         }
         week{

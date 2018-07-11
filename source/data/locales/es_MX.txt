@@ -371,39 +371,6 @@ es_MX{
             }
         }
     }
-    characterLabel{
-        animal{"animal"}
-        body{"cuerpo"}
-        building{"edificio"}
-        female{"mujer"}
-        flag{"bandera"}
-        format_whitespace{"Formato y espacio duro"}
-        heart{"corazón"}
-        keycap{"tecla"}
-        letterlike_symbols{"Símbolos con letras"}
-        limited_use{"Uso limitado"}
-        male{"hombre"}
-        modern_scripts{"Sistemas de escritura modernos"}
-        nature{"naturaleza"}
-        other{"Otros"}
-        person{"persona"}
-        phonetic_alphabet{"Alfabeto fonético"}
-        place{"lugar"}
-        plant{"planta"}
-        sign_standard_symbols{"Símbolos de señales/estándar"}
-        smiley{"cara sonriente"}
-        south_asian_scripts{"Sistemas de escritura de Asia Meridional"}
-        southeast_asian_scripts{"Sistemas de escritura de Asia Sudoriental"}
-        sport{"deporte"}
-        symbols{"Símbolos"}
-        tone_marks{"Marcas tonales"}
-        travel{"viaje"}
-        travel_places{"Viajes y destinos"}
-        variant_forms{"Variantes"}
-        weather{"tiempo"}
-        western_asian_scripts{"Sistemas de escritura de Asia Occidental"}
-        whitespace{"Espacio duro"}
-    }
     delimiters{
         alternateQuotationEnd{"”"}
         alternateQuotationStart{"“"}
@@ -451,30 +418,6 @@ es_MX{
         dayperiod-short{
             dn{"a. m./p. m."}
         }
-        fri{
-            relative{
-                "-1"{"el viernes pasado"}
-                "0"{"este viernes"}
-                "1"{"el viernes próximo"}
-            }
-            relativeTime{
-                future{
-                    other{"dentro de {0} viernes"}
-                }
-            }
-        }
-        fri-short{
-            relative{
-                "-1"{"el vier. pasado"}
-                "0"{"este vier."}
-                "1"{"el próximo vier."}
-            }
-            relativeTime{
-                future{
-                    other{"dentro de {0} vie."}
-                }
-            }
-        }
         hour-short{
             relativeTime{
                 future{
@@ -500,29 +443,6 @@ es_MX{
                 future{
                     one{"en {0} min"}
                     other{"en {0} min"}
-                }
-            }
-        }
-        mon{
-            relative{
-                "-1"{"el lunes pasado"}
-                "0"{"este lunes"}
-                "1"{"el lunes próximo"}
-            }
-            relativeTime{
-                future{
-                    one{"dentro de {0} lunes"}
-                    other{"dentro de {0} lunes"}
-                }
-                past{
-                    one{"hace {0} lunes"}
-                }
-            }
-        }
-        mon-short{
-            relativeTime{
-                future{
-                    one{"dentro de {0} lun."}
                 }
             }
         }
@@ -559,54 +479,6 @@ es_MX{
                 }
             }
         }
-        quarter{
-            relativeTime{
-                future{
-                    one{"dentro de {0} trimetre"}
-                    other{"dentro de {0} trimetres"}
-                }
-            }
-        }
-        quarter-narrow{
-            relativeTime{
-                future{
-                    one{"+{0} T"}
-                    other{"+{0} T"}
-                }
-                past{
-                    one{"-{0} T"}
-                    other{"-{0} T"}
-                }
-            }
-        }
-        quarter-short{
-            relativeTime{
-                future{
-                    one{"en {0} trim."}
-                    other{"en {0} trim"}
-                }
-            }
-        }
-        sat{
-            relative{
-                "-1"{"el sábado pasado"}
-                "0"{"este sábado"}
-                "1"{"el sábado próximo"}
-            }
-            relativeTime{
-                future{
-                    one{"dentro de {0} sábado"}
-                    other{"dentro de {0} sábados"}
-                }
-            }
-        }
-        sat-narrow{
-            relativeTime{
-                future{
-                    one{"dentro de {0} SA"}
-                }
-            }
-        }
         second-narrow{
             relativeTime{
                 future{
@@ -620,84 +492,6 @@ es_MX{
                 future{
                     one{"en {0} s"}
                     other{"en {0} s"}
-                }
-            }
-        }
-        sun{
-            relative{
-                "-1"{"el domingo pasado"}
-                "0"{"este domingo"}
-                "1"{"el domingo próximo"}
-            }
-        }
-        sun-narrow{
-            relativeTime{
-                future{
-                    other{"dentro de {0} DO"}
-                }
-            }
-        }
-        thu{
-            relative{
-                "-1"{"el jueves pasado"}
-                "0"{"este jueves"}
-                "1"{"el jueves próximo"}
-            }
-            relativeTime{
-                future{
-                    one{"dentro de {0} jueves"}
-                }
-            }
-        }
-        thu-narrow{
-            relativeTime{
-                future{
-                    other{"dentro de {0} JU"}
-                }
-            }
-        }
-        tue{
-            relative{
-                "-1"{"el martes pasado"}
-                "0"{"este martes"}
-                "1"{"el martes próximo"}
-            }
-            relativeTime{
-                future{
-                    other{"dentro de {0} martes"}
-                }
-            }
-        }
-        wed{
-            relative{
-                "-1"{"el miércoles pasado"}
-                "0"{"este miércoles"}
-                "1"{"el miércoles próximo"}
-            }
-            relativeTime{
-                future{
-                    one{"dentro de {0} miércoles"}
-                }
-            }
-        }
-        wed-narrow{
-            relativeTime{
-                future{
-                    one{"dentro de {0} MI"}
-                    other{"dentro de {0} MI"}
-                }
-            }
-        }
-        wed-short{
-            relative{
-                "-1"{"el miér. pasado"}
-                "0"{"este miér."}
-                "1"{"el próximo miér."}
-            }
-            relativeTime{
-                future{
-                    one{"dentro de {0} mié."}
-                    other{"dentro de {0} mié."}
                 }
             }
         }

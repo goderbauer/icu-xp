@@ -629,18 +629,6 @@ fr_CA{
             }
         }
     }
-    characterLabel{
-        braille{"braille"}
-        bullets_stars{"puces/astérisques"}
-        dash_connector{"tirets/connecteurs"}
-        ideographic_desc_characters{"symboles de description sinographique"}
-        keycap{"dessus de touche"}
-        sign_standard_symbols{"signe ou symbole"}
-        smiley{"émoticône"}
-        south_asian_scripts{"écritures d’Asie du Sud"}
-        southeast_asian_scripts{"écritures d’Asie du Sud-Est"}
-        western_asian_scripts{"écritures d’Asie de l’Ouest"}
-    }
     delimiters{
         alternateQuotationEnd{"“"}
         alternateQuotationStart{"”"}
@@ -664,57 +652,10 @@ fr_CA{
         dayOfYear-short{
             dn{"j de l’année"}
         }
-        fri-narrow{
-            relativeTime{
-                future{
-                    one{"dans {0} ven"}
-                    other{"dans {0} ven"}
-                }
-                past{
-                    one{"il y a {0} ven"}
-                    other{"il y a {0} ven"}
-                }
-            }
-        }
-        mon-narrow{
-            relativeTime{
-                future{
-                    one{"dans {0} lun"}
-                    other{"dans {0} lun"}
-                }
-                past{
-                    one{"il y a {0} lun"}
-                    other{"il y a {0} lun"}
-                }
-            }
-        }
         month-narrow{
             relativeTime{
                 future{
                     other{"+{0} m."}
-                }
-            }
-        }
-        quarter{
-            relative{
-                "-1"{"le trimestre dernier"}
-                "0"{"ce trimestre-ci"}
-                "1"{"le trimestre prochain"}
-            }
-        }
-        sat-narrow{
-            relative{
-                "0"{"ce sam"}
-                "1"{"sam proch"}
-            }
-            relativeTime{
-                future{
-                    one{"dans {0} sam"}
-                    other{"dans {0} sam"}
-                }
-                past{
-                    one{"il y a {0} sam"}
-                    other{"il y a {0} sam"}
                 }
             }
         }
@@ -723,54 +664,6 @@ fr_CA{
                 future{
                     one{"+ {0} s"}
                     other{"+{0} s"}
-                }
-            }
-        }
-        sun-narrow{
-            relativeTime{
-                future{
-                    one{"dans {0} dim"}
-                    other{"dans {0} dim"}
-                }
-                past{
-                    one{"il y a {0} dim"}
-                    other{"il y a {0} dim"}
-                }
-            }
-        }
-        thu-narrow{
-            relativeTime{
-                future{
-                    one{"dans {0} jeu"}
-                    other{"dans {0} jeu"}
-                }
-                past{
-                    one{"il y a {0} jeu"}
-                    other{"il y a {0} jeu"}
-                }
-            }
-        }
-        tue-narrow{
-            relativeTime{
-                future{
-                    one{"dans {0} mar"}
-                    other{"dans {0} mar"}
-                }
-                past{
-                    one{"il y a {0} mar"}
-                    other{"il y a {0} mar"}
-                }
-            }
-        }
-        wed-narrow{
-            relativeTime{
-                future{
-                    one{"dans {0} mer"}
-                    other{"dans {0} mer"}
-                }
-                past{
-                    one{"il y a {0} mer"}
-                    other{"il y a {0} mer"}
                 }
             }
         }
