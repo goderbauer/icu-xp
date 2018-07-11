@@ -2,33 +2,11 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 ii{
     Languages{
-        de{"ꄓꇩꉙ"}
-        en{"ꑱꇩꉙ"}
-        es{"ꑭꀠꑸꉙ"}
-        fr{"ꃔꇩꉙ"}
-        it{"ꑴꄊꆺꉙ"}
-        ja{"ꏝꀪꉙ"}
-        pt{"ꁍꄨꑸꉙ"}
-        pt_BR{"ꀠꑟꁍꄨꑸꉙ"}
-        ru{"ꊉꇩꉙ"}
         zh{"ꍏꇩꉙ"}
-        zh_Hans{"ꈝꐯꍏꇩꉙ"}
-        zh_Hant{"ꀎꋏꍏꇩꉙ"}
     }
     Scripts{
-        Arab{"ꀊꇁꀨꁱꂷ"}
-        Cyrl{"ꀊꆨꌦꇁꃚꁱꂷ"}
         Hans{"ꈝꐯꉌꈲꁱꂷ"}
         Hant{"ꀎꋏꉌꈲꁱꂷ"}
-        Latn{"ꇁꄀꁱꂷ"}
-        Yiii{"ꆈꌠꁱꂷ"}
-        Zxxx{"ꁱꀋꉆꌠ"}
-        Zzzz{"ꅉꀋꐚꌠꁱꂷ"}
     }
     Version{"2.1.38.69"}
-    codePatterns{
-        language{"ꅇꉙ: {0}"}
-        script{"ꇇꁱ: {0}"}
-        territory{"ꃅꄷ: {0}"}
-    }
 }

@@ -2,8 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 kkj{
     Languages{
-        en{"yaman"}
-        fr{"numbu buy"}
     }
     Version{"2.1.38.69"}
 }

@@ -3,11 +3,8 @@
 en_IN{
     %%Parent{"en_001"}
     Languages{
-        bn{"Bengali"}
     }
     Scripts{
-        Beng{"Bengali"}
-        Orya{"Oriya"}
     }
     Version{"2.1.38.73"}
 }

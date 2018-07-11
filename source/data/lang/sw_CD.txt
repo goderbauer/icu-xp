@@ -2,13 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 sw_CD{
     Languages{
-        ak{"Kiakan"}
-        ar_001{"Kiarabu cha Dunia Kilichosanifishwa"}
-        az{"Kiazabajani"}
-        ky{"Kikirigizi"}
-        mk{"Kimasedonia"}
-        pcm{"Pijini ya Nijeria"}
-        yi{"Kiyidi"}
     }
     Version{"2.1.39.11"}
 }

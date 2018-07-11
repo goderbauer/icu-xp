@@ -3,12 +3,8 @@
 uz_Arab{
     %%Parent{"root"}
     Languages{
-        fa{"دری"}
-        ps{"پشتو"}
-        uz{"اوزبیک"}
     }
     Scripts{
-        Arab{"عربی"}
     }
     Version{"2.1.38.69"}
 }

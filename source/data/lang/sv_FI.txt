@@ -2,7 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 sv_FI{
     Languages{
-        ky{"kirgiziska"}
     }
     Scripts%variant{
         Arab{"persisk-arabiska"}

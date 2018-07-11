@@ -2,14 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 ur_IN{
     Languages{
-        ar_001{"جدید معیاری عربی"}
-        ckb{"سورانی کردی"}
-        hr{"کروشین"}
-        jv{"جاوانیز"}
-        ka{"جارجيائى"}
-        kn{"کنڑ"}
-        ku{"کرد"}
-        zh_Hans{"آسان چینی"}
     }
     Version{"2.1.38.39"}
 }

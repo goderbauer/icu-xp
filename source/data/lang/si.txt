@@ -2,6 +2,5 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 si{
     Languages{
-        si{"සිංහල"}
     }
 }

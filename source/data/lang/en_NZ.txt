@@ -3,7 +3,6 @@
 en_NZ{
     %%Parent{"en_001"}
     Languages{
-        mi{"Māori"}
     }
     Version{"2.1.38.73"}
 }

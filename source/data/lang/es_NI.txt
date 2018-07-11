@@ -3,14 +3,6 @@
 es_NI{
     %%Parent{"es_419"}
     Languages{
-        eu{"euskera"}
-        lo{"lao"}
-        nso{"sotho septentrional"}
-        pa{"punyabí"}
-        sw{"suajili"}
-        sw_CD{"suajili del Congo"}
-        tn{"setswana"}
-        wo{"wolof"}
     }
     Version{"2.1.38.39"}
 }

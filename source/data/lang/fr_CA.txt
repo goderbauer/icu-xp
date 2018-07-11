@@ -2,20 +2,8 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 fr_CA{
     Languages{
-        az{"azerbaïdjanais"}
-        ckb{"kurde central"}
-        gu{"gujarati"}
-        nyn{"nkole"}
-        or{"odia"}
-        sw_CD{"swahili congolais"}
     }
     Scripts{
-        Deva{"devanagari"}
-        Gujr{"gujarati"}
-        Hanb{"hanb"}
-        Hrkt{"syllabaires japonais"}
-        Orya{"odia"}
-        Zsye{"zsye"}
     }
     Scripts%stand-alone{
         Hans{"caractères chinois simplifiés"}

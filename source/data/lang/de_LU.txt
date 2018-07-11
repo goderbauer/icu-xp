@@ -2,7 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 de_LU{
     Languages{
-        be{"Belarussisch"}
     }
     Version{"2.1.38.39"}
 }

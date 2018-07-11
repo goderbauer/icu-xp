@@ -2,7 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 ro_MD{
     Languages{
-        sw_CD{"swahili (R. D. Congo)"}
     }
     Version{"2.1.38.39"}
 }

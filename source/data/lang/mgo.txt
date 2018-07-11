@@ -2,14 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 mgo{
     Scripts{
-        Latn{"ngam ŋwaʼri"}
-        Zxxx{"ngam choʼ"}
-        Zzzz{"abo ŋwaʼri tisɔʼ"}
     }
     Version{"2.1.38.69"}
-    codePatterns{
-        language{"{0}"}
-        script{"{0}"}
-        territory{"{0}"}
-    }
 }

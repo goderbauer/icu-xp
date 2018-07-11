@@ -2,7 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 ar_EG{
     Languages{
-        da{"الدنماركية"}
     }
     Version{"2.1.38.80"}
 }

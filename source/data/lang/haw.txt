@@ -2,6 +2,5 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 haw{
     Languages{
-        haw{"ʻŌlelo Hawaiʻi"}
     }
 }

@@ -2,14 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 es_419{
     Languages{
-        eu{"vasco"}
-        gu{"gujarati"}
-        ht{"haitiano"}
-        lo{"laosiano"}
-        rm{"retorrománico"}
-        st{"sesotho del sur"}
-        sw{"swahili"}
-        sw_CD{"swahili (Congo)"}
     }
     Languages%short{
         en_GB{"inglés (R.U.)"}
@@ -19,14 +11,6 @@ es_419{
         ug{"uighur"}
     }
     Scripts{
-        Hanb{"han con bopomofo"}
-        Hrkt{"katakana o hiragana"}
-        Laoo{"lao"}
-        Latn{"latín"}
-        Mlym{"malayalam"}
     }
     Version{"2.1.38.39"}
-    codePatterns{
-        script{"Alfabeto: {0}"}
-    }
 }

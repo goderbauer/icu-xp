@@ -2,9 +2,4 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 kl{
     Version{"2.1.38.69"}
-    localeDisplayPattern{
-        keyTypePattern{"{0}: {1}"}
-        pattern{"{0} ({1})"}
-        separator{"{0}, {1}"}
-    }
 }

@@ -2,11 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 de_AT{
     Languages{
-        ar_001{"modernes Hocharabisch"}
-        ha{"Hausa"}
-        haw{"Hawaiianisch"}
-        hmn{"Miao-Sprache"}
-        sh{"Serbokroatisch"}
     }
     Version{"2.1.38.39"}
 }

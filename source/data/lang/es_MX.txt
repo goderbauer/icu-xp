@@ -3,17 +3,6 @@
 es_MX{
     %%Parent{"es_419"}
     Languages{
-        eu{"euskera"}
-        lo{"lao"}
-        nso{"sotho septentrional"}
-        pa{"punyabí"}
-        pcm{"pcm"}
-        rn{"kiroundi"}
-        st{"sesotho meridional"}
-        sw{"suajili"}
-        sw_CD{"suajili del Congo"}
-        tn{"setswana"}
-        wo{"wolof"}
     }
     Languages%short{
         en_GB{"inglés (R. U.)"}
@@ -22,9 +11,6 @@ es_MX{
         ug{"uyghur"}
     }
     Scripts{
-        Hanb{"hanb"}
-        Mlym{"malayálam"}
-        Telu{"telugú"}
     }
     Version{"2.1.38.73"}
 }

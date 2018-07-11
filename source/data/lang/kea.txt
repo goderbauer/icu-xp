@@ -2,140 +2,7 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 kea{
     Languages{
-        af{"afrikaner"}
-        ak{"akan"}
-        am{"amáriku"}
-        ar{"árabi"}
-        ar_001{"árabi mudernu"}
-        az{"azerbaijanu"}
-        be{"bielorusu"}
-        bem{"bemba"}
-        bg{"búlgaru"}
-        bn{"bengali"}
-        br{"bretãu"}
-        bs{"bosniu"}
-        ca{"katalãu"}
-        chr{"xeroki"}
-        ckb{"kurdu sentral"}
-        co{"kórsiku"}
-        cs{"txeku"}
-        cy{"gales"}
-        da{"dinamarkes"}
-        de{"alimãu"}
-        de_AT{"alimãu austriaku"}
-        de_CH{"altu alimãu suisu"}
-        ee{"eve"}
-        el{"gregu"}
-        en{"ingles"}
-        en_AU{"ingles australianu"}
-        en_CA{"ingles kanadianu"}
-        en_GB{"ingles britaniku"}
-        en_US{"ingles merkanu"}
-        eo{"sperantu"}
-        es{"spanhol"}
-        es_419{"spanhol latinu-merkanu"}
-        es_ES{"spanhol europeu"}
-        es_MX{"spanhol mexikanu"}
-        et{"stonianu"}
-        eu{"basku"}
-        fa{"persa"}
-        fi{"finlandes"}
-        fil{"filipinu"}
-        fo{"faroes"}
-        fr{"franses"}
-        fr_CA{"franses kanadianu"}
-        fr_CH{"franses suisu"}
-        fy{"fríziu osidental"}
-        ga{"irlandes"}
-        gl{"galegu"}
-        gn{"guarani"}
-        gu{"gujarati"}
-        ha{"auza"}
-        haw{"avaianu"}
-        he{"ebraiku"}
-        hi{"indi"}
-        hr{"kroata"}
-        ht{"aitianu"}
-        hu{"úngaru"}
-        hy{"arméniu"}
-        id{"indonéziu"}
-        ig{"ibo"}
-        is{"islandes"}
-        it{"italianu"}
-        ja{"japones"}
-        jv{"javanes"}
-        ka{"jorjianu"}
-        kk{"kazak"}
-        km{"kmer"}
-        kn{"kanares"}
-        ko{"korianu"}
-        ku{"kurdu"}
-        ky{"kirgiz"}
-        la{"latin"}
-        lb{"luxemburges"}
-        lg{"luganda"}
-        lo{"lausianu"}
-        lt{"lituanes"}
-        lv{"letãu"}
-        mg{"malgaxi"}
-        mi{"maori"}
-        mk{"masedóniu"}
-        ml{"malaialam"}
-        mr{"marati"}
-        ms{"maláiu"}
-        mt{"maltes"}
-        my{"birmanes"}
-        nb{"norueges bokmål"}
-        ne{"nepales"}
-        nl{"olandes"}
-        nl_BE{"flamengu"}
-        nn{"norueges nynorsk"}
-        om{"oromo"}
-        or{"odía"}
-        pa{"pandjabi"}
-        pl{"pulaku"}
-        ps{"paxto"}
-        pt{"purtuges"}
-        pt_BR{"purtuges brazileru"}
-        pt_PT{"purtuges europeu"}
-        qu{"kexua"}
-        rm{"romanxi"}
-        ro{"rumenu"}
-        ro_MD{"rumenu moldáviku"}
-        ru{"rusu"}
-        rw{"kiniaruanda"}
-        sd{"sindi"}
-        si{"singales"}
-        sk{"slovaku"}
-        sl{"slovéniu"}
-        so{"somali"}
-        sq{"albanes"}
-        sr{"sérviu"}
-        su{"sundanes"}
-        sv{"sueku"}
-        sw{"suaíli"}
-        sw_CD{"suaíli kongoles"}
-        ta{"tamil"}
-        te{"telugu"}
-        tg{"tadjiki"}
-        th{"tailandes"}
-        ti{"tigrinia"}
-        tk{"turkmenu"}
-        to{"tonganes"}
-        tr{"turku"}
-        tt{"tatar"}
-        ug{"uigur"}
-        uk{"ukranianu"}
-        ur{"urdu"}
-        uz{"uzbeki"}
-        vi{"vietnamita"}
-        wo{"uolof"}
-        xh{"koza"}
-        yo{"ioruba"}
         zh{"xines"}
-        zh_Hans{"xines simplifikadu"}
-        zh_Hant{"xines tradisional"}
-        zu{"zulu"}
     }
     Languages%short{
         az{"azeri"}
@@ -143,59 +10,12 @@ kea{
         en_US{"ingles (S.U.)"}
     }
     Scripts{
-        Arab{"arábiku"}
-        Armn{"arméniu"}
-        Beng{"bengali"}
-        Bopo{"bopomofo"}
-        Brai{"braille"}
-        Cyrl{"siríliku"}
-        Deva{"devanagari"}
-        Ethi{"etiópiku"}
-        Geor{"jorjianu"}
-        Grek{"gregu"}
-        Gujr{"gujarati"}
-        Guru{"gurmuki"}
-        Hang{"hangul"}
-        Hani{"han"}
         Hans{"simplifikadu"}
         Hant{"tradisional"}
-        Hebr{"ebraiku"}
-        Hira{"iragana"}
-        Jpan{"japones"}
-        Kana{"katakana"}
-        Khmr{"kmer"}
-        Knda{"kanares"}
-        Kore{"korianu"}
-        Laoo{"lausianu"}
-        Latn{"latinu"}
-        Mlym{"malaialam"}
-        Mong{"mongol"}
-        Mymr{"birmanes"}
-        Orya{"oriya"}
-        Sinh{"singales"}
-        Taml{"tamil"}
-        Telu{"telugu"}
-        Thaa{"taana"}
-        Thai{"tailandes"}
-        Tibt{"tibetanu"}
-        Zsym{"símbulus"}
-        Zxxx{"nãu skritu"}
-        Zyyy{"komun"}
-        Zzzz{"skrita diskonxedu"}
     }
     Scripts%stand-alone{
         Hans{"han simplifikadu"}
         Hant{"han tradisional"}
     }
     Version{"2.1.39.11"}
-    codePatterns{
-        language{"Lingua: {0}"}
-        script{"Skrita: {0}"}
-        territory{"Rejiãu: {0}"}
-    }
-    localeDisplayPattern{
-        keyTypePattern{"{0}: {1}"}
-        pattern{"{0} ({1})"}
-        separator{"{0}, {1}"}
-    }
 }

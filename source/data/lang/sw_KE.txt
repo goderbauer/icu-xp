@@ -2,14 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 sw_KE{
     Languages{
-        ar_001{"Kiarabu cha Sasa Kilichosanifishwa"}
-        az{"Kiazabajani"}
-        ckb{"Kikurdi cha Kati"}
-        mk{"Kimasedonia"}
-        or{"Kiodia"}
-        pcm{"Pijini ya Nijeria"}
-        tw{"Kitwi"}
-        wa{"Kiwaloon"}
     }
     Version{"2.1.38.39"}
 }

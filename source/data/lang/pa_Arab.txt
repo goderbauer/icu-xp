@@ -3,11 +3,8 @@
 pa_Arab{
     %%Parent{"root"}
     Languages{
-        pa{"پنجابی"}
     }
     Scripts{
-        Arab{"عربی"}
-        Guru{"گُرمُکھی"}
     }
     Version{"2.1.38.69"}
 }

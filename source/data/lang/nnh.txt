@@ -2,9 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 nnh{
     Languages{
-        de{"nzǎmɔ̂ɔn"}
-        en{"ngilísè"}
-        fr{"felaŋsée"}
     }
     Version{"2.1.38.69"}
 }

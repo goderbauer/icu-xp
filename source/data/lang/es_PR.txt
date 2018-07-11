@@ -3,8 +3,6 @@
 es_PR{
     %%Parent{"es_419"}
     Languages{
-        nso{"sotho septentrional"}
-        wo{"wolof"}
     }
     Version{"2.1.38.39"}
 }

@@ -2,12 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 sr_Latn_ME{
     Languages{
-        be{"bjeloruski"}
-        bn{"bangla"}
-        ht{"haićanski kreolski"}
-        lo{"laoški"}
-        xh{"isikosa"}
-        zu{"isizulu"}
     }
     Version{"2.1.38.69"}
 }

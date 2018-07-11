@@ -2,13 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 sr_Cyrl_BA{
     Languages{
-        be{"бјелоруски"}
-        bn{"бангла"}
-        ht{"хаићански креолски"}
-        lo{"лаошки"}
-        si{"синхалски"}
-        xh{"исикоса"}
-        zu{"исизулу"}
     }
     Version{"2.1.38.69"}
 }

@@ -3,9 +3,6 @@
 en_CA{
     %%Parent{"en_001"}
     Languages{
-        bn{"Bengali"}
-        mfe{"Mauritian"}
-        ro_MD{"Moldovan"}
     }
     Version{"2.1.38.73"}
 }

@@ -3,22 +3,11 @@
 es_US{
     %%Parent{"es_419"}
     Languages{
-        gu{"gurayatí"}
-        nso{"sotho septentrional"}
-        pcm{"pcm"}
-        rm{"romanche"}
-        rn{"kiroundi"}
-        st{"sesotho meridional"}
-        sw_CD{"swahili del Congo"}
-        tn{"setchwana"}
-        wo{"wolof"}
     }
     Languages%short{
         en_GB{"inglés (RU)"}
     }
     Scripts{
-        Hanb{"hanb"}
-        Mlym{"malayálam"}
     }
     Version{"2.1.38.73"}
 }

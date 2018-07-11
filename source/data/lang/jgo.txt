@@ -2,17 +2,9 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 jgo{
     Languages{
-        ar{"Alâbɛ"}
-        de{"Njáman"}
-        el{"Ŋgɛlɛ̂k"}
-        en{"Aŋgɛlúshi"}
-        fr{"Fɛlánci"}
         zh{"Shinwâ"}
     }
     Scripts{
-        Latn{"mík -ŋwaꞌnɛ yi ɛ́ líŋɛ́nɛ Latɛ̂ŋ"}
-        Zxxx{"ntúu yi pɛ́ ká ŋwaꞌnε"}
-        Zzzz{"ntɛ-ŋwaꞌnɛ yí pɛ́ ká kɛ́ jí"}
     }
     Version{"2.1.38.69"}
 }
