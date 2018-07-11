@@ -2,36 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 ga{
     Countries{
-        001{"an Domhan"}
-        002{"An Afraic"}
-        003{"Meiriceá Thuaidh"}
-        005{"Meiriceá Theas"}
-        009{"an Aigéine"}
-        011{"Iarthar na hAfraice"}
-        013{"Meiriceá Láir"}
-        014{"Oirthear na hAfraice"}
-        015{"Tuaisceart na hAfraice"}
-        017{"An Afraic Láir"}
-        018{"Deisceart na hAfraice"}
-        019{"Críocha Mheiriceá"}
-        021{"Tuaisceart Mheiriceá"}
-        029{"an Mhuir Chairib"}
-        030{"Oirthear na hÁise"}
-        034{"Deisceart na hÁise"}
-        035{"Oirdheisceart na hÁise"}
-        039{"Deisceart na hEorpa"}
-        053{"an Astraláise"}
-        054{"an Mheilinéis"}
-        057{"an Réigiún Micrinéiseach"}
-        061{"an Pholainéis"}
-        142{"an Áise"}
-        143{"an Áise Láir"}
-        145{"Iarthar na hÁise"}
-        150{"an Eoraip"}
-        151{"Oirthear na hEorpa"}
-        154{"Tuaisceart na hEorpa"}
-        155{"Iarthar na hEorpa"}
-        202{"an Afraic fho-Shahárach"}
         419{"Meiriceá Laidineach"}
         AC{"Oileán na Deascabhála"}
         AD{"Andóra"}

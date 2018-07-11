@@ -2,12 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 os{
     Countries{
-        001{"Дуне"}
-        002{"Африкӕ"}
-        009{"Океани"}
-        019{"Америкӕ"}
-        142{"Ази"}
-        150{"Европӕ"}
         BR{"Бразили"}
         CN{"Китай"}
         DE{"Герман"}

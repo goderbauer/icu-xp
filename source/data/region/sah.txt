@@ -2,10 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 sah{
     Countries{
-        001{"Аан дойду"}
-        002{"Аапырыка"}
-        003{"Хотугу Эмиэрикэ"}
-        005{"Соҕуруу Эмиэрикэ"}
         BR{"Бразилия"}
         CA{"Канаада"}
         CL{"Чиили"}

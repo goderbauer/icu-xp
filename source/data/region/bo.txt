@@ -2,7 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 bo{
     Countries{
-        001{"འཛམ་གླིང་།"}
         CN{"རྒྱ་ནག"}
         DE{"འཇར་མན་"}
         GB{"དབྱིན་ཇི་"}

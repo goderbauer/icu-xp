@@ -2,7 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 fr_CA{
     Countries{
-        151{"Europe orientale"}
         AC{"île de l’Ascension"}
         AX{"îles d’Åland"}
         BN{"Brunei"}

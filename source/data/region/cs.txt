@@ -2,36 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 cs{
     Countries{
-        001{"svět"}
-        002{"Afrika"}
-        003{"Severní Amerika"}
-        005{"Jižní Amerika"}
-        009{"Oceánie"}
-        011{"západní Afrika"}
-        013{"Střední Amerika"}
-        014{"východní Afrika"}
-        015{"severní Afrika"}
-        017{"střední Afrika"}
-        018{"jižní Afrika"}
-        019{"Amerika"}
-        021{"Severní Amerika (oblast)"}
-        029{"Karibik"}
-        030{"východní Asie"}
-        034{"jižní Asie"}
-        035{"jihovýchodní Asie"}
-        039{"jižní Evropa"}
-        053{"Australasie"}
-        054{"Melanésie"}
-        057{"Mikronésie (region)"}
-        061{"Polynésie"}
-        142{"Asie"}
-        143{"Střední Asie"}
-        145{"západní Asie"}
-        150{"Evropa"}
-        151{"východní Evropa"}
-        154{"severní Evropa"}
-        155{"západní Evropa"}
-        202{"subsaharská Afrika"}
         419{"Latinská Amerika"}
         AC{"Ascension"}
         AD{"Andorra"}

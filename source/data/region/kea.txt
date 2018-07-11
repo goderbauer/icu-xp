@@ -2,35 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 kea{
     Countries{
-        001{"Mundu"}
-        002{"Áfrika"}
-        003{"Merka di Norti"}
-        005{"Merka di Sul"}
-        009{"Oseania"}
-        011{"Áfrika Osidental"}
-        013{"Merka Sentral"}
-        014{"Áfrika Oriental"}
-        015{"Norti di Áfrika"}
-        017{"Áfrika Sentral"}
-        018{"Sul di Áfrika"}
-        019{"Merkas"}
-        021{"Norti di Merka"}
-        029{"Karaibas"}
-        030{"Ázia Oriental"}
-        034{"Sul di Ázia"}
-        035{"Sudesti Aziátiku"}
-        039{"Europa di Sul"}
-        053{"Australázia"}
-        054{"Melanézia"}
-        057{"Rejiãu di Mikronézia"}
-        061{"Polinézia"}
-        142{"Ázia"}
-        143{"Ázia Sentral"}
-        145{"Ázia Osidental"}
-        150{"Europa"}
-        151{"Europa Oriental"}
-        154{"Europa di Norti"}
-        155{"Europa Osidental"}
         419{"Merka Latinu"}
         AC{"Ilha di Asensãu"}
         AD{"Andora"}

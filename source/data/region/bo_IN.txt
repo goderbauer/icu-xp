@@ -2,7 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 bo_IN{
     Countries{
-        009{"ཨོཤི་ཡཱན་ན།"}
     }
     Version{"2.1.38.69"}
 }

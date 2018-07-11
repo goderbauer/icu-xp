@@ -2,9 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 ckb{
     Countries{
-        039{"ئەورووپای باشووری"}
-        143{"ئاسیای ناوەندی"}
-        145{"ئاسیای ڕۆژاوا"}
         AD{"ئاندۆرا"}
         AE{"میرنشینە یەکگرتووە عەرەبییەکان"}
         AF{"ئەفغانستان"}

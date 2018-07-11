@@ -2,36 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 gl{
     Countries{
-        001{"Mundo"}
-        002{"África"}
-        003{"Norteamérica"}
-        005{"Suramérica"}
-        009{"Oceanía"}
-        011{"África Occidental"}
-        013{"América Central"}
-        014{"África Oriental"}
-        015{"África Setentrional"}
-        017{"África Central"}
-        018{"África Meridional"}
-        019{"América"}
-        021{"América do Norte"}
-        029{"Caribe"}
-        030{"Asia Oriental"}
-        034{"Asia Meridional"}
-        035{"Sueste Asiático"}
-        039{"Europa Meridional"}
-        053{"Australasia"}
-        054{"Melanesia"}
-        057{"Rexión da Micronesia"}
-        061{"Polinesia"}
-        142{"Asia"}
-        143{"Asia Central"}
-        145{"Asia Occidental"}
-        150{"Europa"}
-        151{"Europa do Leste"}
-        154{"Europa Setentrional"}
-        155{"Europa Occidental"}
-        202{"África subsahariana"}
         419{"América Latina"}
         AC{"Illa de Ascensión"}
         AD{"Andorra"}

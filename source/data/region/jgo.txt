@@ -2,11 +2,6 @@
 // License & terms of use: http://www.unicode.org/copyright.html#License
 jgo{
     Countries{
-        001{"Mbí"}
-        002{"Afɛlîk"}
-        019{"Amɛlîk"}
-        142{"Azî"}
-        150{"Ʉlôp"}
         AO{"Aŋgɔ́la"}
         AR{"Ajɛntîn"}
         BF{"Mbulukína Fásɔ"}
