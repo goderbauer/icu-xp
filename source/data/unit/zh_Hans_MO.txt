@@ -11,18 +11,5 @@ zh_Hans_MO{
                 other{"{0}秒"}
             }
         }
-        temperature{
-            kelvin{
-                dnam{"开氏度"}
-                other{"{0}开氏度"}
-            }
-        }
-    }
-    unitsShort{
-        temperature{
-            kelvin{
-                other{"{0}°K"}
-            }
-        }
     }
 }

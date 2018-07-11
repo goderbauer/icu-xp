@@ -3,13 +3,6 @@
 en_GB{
     %%Parent{"en_001"}
     Version{"2.1.38.73"}
-    units{
-        speed{
-            kilometer-per-hour{
-                one{"{0} kilometre per hour"}
-            }
-        }
-    }
     unitsNarrow{
         duration{
             hour{
@@ -17,18 +10,6 @@ en_GB{
             }
             second{
                 per{"{0}/s"}
-            }
-        }
-    }
-    unitsShort{
-        mass{
-            stone{
-                other{"{0} st"}
-            }
-        }
-        volume{
-            megaliter{
-                other{"{0} Ml"}
             }
         }
     }

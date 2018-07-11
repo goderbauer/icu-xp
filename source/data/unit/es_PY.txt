@@ -9,26 +9,6 @@ es_PY{
                 per{"{0}/año"}
             }
         }
-        electric{
-            ampere{
-                dnam{"amperios"}
-                one{"{0} amperio"}
-                other{"{0} amperios"}
-            }
-            milliampere{
-                dnam{"miliamperios"}
-                one{"{0} miliamperio"}
-                other{"{0} miliamperios"}
-            }
-            ohm{
-                one{"{0} ohmio"}
-                other{"{0} ohmios"}
-            }
-            volt{
-                one{"{0} voltio"}
-                other{"{0} voltios"}
-            }
-        }
     }
     unitsNarrow{
         duration{
@@ -68,16 +48,6 @@ es_PY{
                 one{"{0} año"}
                 other{"{0} años"}
                 per{"{0}/año"}
-            }
-        }
-        electric{
-            volt{
-                dnam{"voltios"}
-            }
-        }
-        power{
-            watt{
-                dnam{"vatios"}
             }
         }
     }

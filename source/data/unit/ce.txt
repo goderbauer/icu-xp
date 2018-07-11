@@ -72,39 +72,6 @@ ce{
                 per{"{0} шарахь"}
             }
         }
-        length{
-            astronomical-unit{
-                dnam{"астрономин дакъош"}
-                one{"{0} астрономин дакъа"}
-                other{"{0} астрономин дакъа"}
-            }
-            centimeter{
-                dnam{"сантиметраш"}
-                one{"{0} сантиметр"}
-                other{"{0} сантиметр"}
-                per{"{0} сантиметрехь"}
-            }
-            decimeter{
-                dnam{"дециметраш"}
-                one{"{0} дециметр"}
-                other{"{0} дециметр"}
-            }
-            foot{
-                dnam{"футаш"}
-                one{"{0} фут"}
-                other{"{0} фут"}
-            }
-            inch{
-                dnam{"дюймаш"}
-                one{"{0} дюйм"}
-                other{"{0} дюйм"}
-            }
-            kilometer{
-                dnam{"километраш"}
-                one{"{0} километр"}
-                other{"{0} километр"}
-            }
-        }
     }
     unitsNarrow{
         duration{
@@ -147,18 +114,6 @@ ce{
                 dnam{"ш."}
                 one{"{0} ш."}
                 other{"{0} ш."}
-            }
-        }
-        length{
-            centimeter{
-                dnam{"см"}
-                one{"{0} см"}
-                other{"{0} cm"}
-            }
-            kilometer{
-                dnam{"км"}
-                one{"{0} км"}
-                other{"{0} км"}
             }
         }
     }
@@ -220,38 +175,6 @@ ce{
                 one{"{0} ш."}
                 other{"{0} ш."}
                 per{"{0} ш."}
-            }
-        }
-        length{
-            astronomical-unit{
-                dnam{"а. д."}
-                one{"{0} а. д."}
-                other{"{0} а. д."}
-            }
-            centimeter{
-                dnam{"см"}
-                one{"{0} см"}
-                other{"{0} см"}
-            }
-            decimeter{
-                dnam{"дм"}
-                one{"{0} дм"}
-                other{"{0} дм"}
-            }
-            foot{
-                dnam{"футаш"}
-                one{"{0} фут"}
-                other{"{0} фут"}
-            }
-            inch{
-                dnam{"дюйм"}
-                one{"{0} дюйм."}
-                other{"{0} дюйм."}
-            }
-            kilometer{
-                dnam{"км"}
-                one{"{0} км"}
-                other{"{0} км"}
             }
         }
     }

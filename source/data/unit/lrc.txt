@@ -7,11 +7,4 @@ lrc{
         hms{"h:mm:ss"}
         ms{"m:ss"}
     }
-    units{
-        area{
-            square-kilometer{
-                other{"{0} km²"}
-            }
-        }
-    }
 }

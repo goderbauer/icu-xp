@@ -3,12 +3,4 @@
 es_PR{
     %%Parent{"es_419"}
     Version{"2.1.38.39"}
-    unitsNarrow{
-        temperature{
-            fahrenheit{
-                one{"{0}°"}
-                other{"{0}°"}
-            }
-        }
-    }
 }
